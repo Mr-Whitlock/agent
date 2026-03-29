@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<rect width="200" height="200" rx="44" fill="#ffffff"/>
+<circle cx="90" cy="88" r="62" fill="none" stroke="#8b1a2e" stroke-width="10"/>
+<circle cx="90" cy="88" r="52" fill="rgba(181,196,0,0.08)"/>
+<line x1="138" y1="136" x2="172" y2="170" stroke="#8b1a2e" stroke-width="10" stroke-linecap="round"/>
+<line x1="138" y1="136" x2="170" y2="168" stroke="#b5c400" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+<polygon points="48,118 48,76 78,62 78,104" fill="#8b1a2e"/>
+<polygon points="78,104 78,62 112,74 112,116" fill="#6a1222"/>
+<polygon points="48,76 78,62 112,74 82,88" fill="#b5c400"/>
+<rect x="54" y="81" width="9" height="8" rx="1" fill="#ffffff" opacity="0.5"/>
+<rect x="66" y="76" width="9" height="8" rx="1" fill="#ffffff" opacity="0.5"/>
+<rect x="54" y="94" width="9" height="8" rx="1" fill="#ffffff" opacity="0.5"/>
+<rect x="66" y="89" width="9" height="8" rx="1" fill="#ffffff" opacity="0.5"/>
+<rect x="86" y="80" width="9" height="8" rx="1" fill="#ffffff" opacity="0.3"/>
+<rect x="99" y="85" width="9" height="8" rx="1" fill="#ffffff" opacity="0.3"/>
+<rect x="59" y="103" width="10" height="15" rx="1" fill="#ffffff" opacity="0.35"/>
+<circle cx="80" cy="52" r="10" fill="#8b1a2e"/>
+<circle cx="80" cy="52" r="5.5" fill="#ffffff"/>
+<path d="M76 61 Q80 72 84 61" fill="#8b1a2e"/>
+</svg>
