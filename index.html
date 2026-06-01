@@ -699,7 +699,7 @@ function renderResults(results) {
           <span>puntuació cercador</span>
         </div>
         <div class="card-price" style="margin-top:8px">
-          ${r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €'}<span>${r.modalitat === 'compra' ? '(venda)' : '/mes'}</span>
+          ${r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €'}<span>${r.modalitat === 'compra' ? '(venda)' : '/mes'}</span>
         </div>
         <div style="margin-bottom:10px">
           <span style="font-size:15px;font-weight:700;font-family:'Syne',sans-serif;color:var(--text)">${r.m2} m²</span>
@@ -812,7 +812,7 @@ function downloadCSV(id) {
     ['Adreça', r.address],
     ['Districte', r.district],
     ['Modalitat', r.modalitat],
-    ['Preu (€)', r.modalitat === 'compra' ? r.preu * 100 : r.preu],
+    ['Preu (€)', r.modalitat === 'compra' ? r.preu : r.preu],
     ['Unitat preu', r.modalitat === 'compra' ? 'venda' : '€/mes'],
     ['Superfície m²', r.m2],
     ['Alçada m', r.alcada],
@@ -859,7 +859,7 @@ function downloadExcel(id) {
 ${row('Adreça', r.address)}
 ${row('Districte', r.district)}
 ${row('Modalitat', r.modalitat)}
-${row('Preu', r.modalitat === 'compra' ? r.preu * 100 + ' € (venda)' : r.preu + ' €/mes')}
+${row('Preu', r.modalitat === 'compra' ? r.preu + ' € (venda)' : r.preu + ' €/mes')}
 ${row('Superfície', r.m2 + ' m²')}
 ${row('Alçada', r.alcada + ' m')}
 ${row('Accés', r.planta === 'peu_carrer' ? 'Peu de carrer' : r.planta === 'ascensor' ? 'Planta + ascensor' : 'Sense ascensor')}
@@ -979,7 +979,7 @@ function downloadTotsCsv(format) {
 
   const row = (r) => [
     r.address, r.district, r.modalitat,
-    r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu + ' €/mes',
+    r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu + ' €/mes',
     r.m2, r.alcada,
     r.planta === 'peu_carrer' ? 'Peu de carrer' : r.planta === 'ascensor' ? 'Planta + ascensor' : 'Sense ascensor',
     r.requisits.trifasica ? 'Sí' : 'No',
@@ -1012,7 +1012,7 @@ function enviarPerCorreu(id) {
   if (id !== null) {
     const r = currentResults.find(x => x.id === id);
     if (!r) return;
-    const preu = r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
+    const preu = r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
     subject = 'Local: ' + r.address + ' — ' + preu;
     body = 'LOCAL TROBAT\n\n'
       + r.address + '\n' + r.district + '\n\n'
@@ -1030,7 +1030,7 @@ function enviarPerCorreu(id) {
     subject = 'Agent Locals Sabadell — ' + n + ' locals trobats';
     body = 'LOCALS TROBATS (' + n + ')\n\n'
       + currentResults.map((r, i) => {
-          const preu = r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
+          const preu = r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
           return (i+1) + '. ' + r.address + '\n'
             + '   ' + preu + ' · ' + r.m2 + ' m² · Score: ' + r.score + '/100\n'
             + '   ' + (r.urlAnunci || PORTALS[r.portal]?.url || '');
@@ -1110,7 +1110,7 @@ function enviarMissatgeTelegram(id, token, chatId, callback) {
   if (id !== null) {
     var r = currentResults.find(function(x) { return x.id === id; });
     if (!r) { if (callback) callback(false, 'Local no trobat'); return; }
-    var preu = r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
+    var preu = r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
     text = '🏭 *' + r.address + '*\n_' + r.district + '_\n\n'
       + '💶 ' + preu + ' · ' + r.m2 + ' m²\n'
       + '📊 Puntuació: *' + r.score + '/100*\n'
@@ -1122,7 +1122,7 @@ function enviarMissatgeTelegram(id, token, chatId, callback) {
     var n = currentResults.length;
     text = '🏭 *Agent Locals Sabadell — ' + n + ' locals*\n\n'
       + currentResults.slice(0, 8).map(function(r, i) {
-          var preu = r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
+          var preu = r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
           return (i+1) + '. ' + r.address + '\n   ' + preu + ' · ' + r.m2 + 'm² · ' + r.score + '/100\n   ' + (r.urlAnunci || '');
         }).join('\n\n')
       + (n > 8 ? '\n\n_...i ' + (n-8) + ' locals més_' : '');
@@ -1196,7 +1196,7 @@ function locateOnMap(id) {
     if (!canvas) return;
     const { x, y } = lngLatToXY(r.coords[1], r.coords[0]);
     const tt = document.getElementById('mapTooltip');
-    const preuStr = r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
+    const preuStr = r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €/mes';
     document.getElementById('ttAddr').textContent = r.address;
     document.getElementById('ttDist').textContent = r.district;
     document.getElementById('ttPrice').textContent = preuStr + ' · ' + r.m2 + ' m²';
@@ -1227,7 +1227,7 @@ function openModal(id) {
     </div>
     <div class="modal-body">
       <div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap">
-        <div class="modal-price">${r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €/mes'}</div>
+        <div class="modal-price">${r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €/mes'}</div>
         <div class="score-note">
           <span class="score-val ${getScoreClass(r.score)}">${r.score}/100</span>
           <span>puntuació cercador</span>
@@ -1439,7 +1439,7 @@ function openCompare() {
 
   const rows = ['Preu', 'Superfície', 'Alçada', 'Trifàsica', 'Fibra', 'Aparcament', 'Puntuació cercador'];
   const vals = (r) => [
-    r.modalitat === 'compra' ? formatPrice(r.preu * 100) + ' €' : r.preu.toLocaleString('ca') + ' €/mes',
+    r.modalitat === 'compra' ? formatPrice(r.preu) + ' €' : r.preu.toLocaleString('ca') + ' €/mes',
     r.m2 + ' m²',
     r.alcada + ' m',
     r.requisits.trifasica ? '✓' : '✗',
