@@ -1,12 +1,12 @@
 [
   {
-    "id": 3,
-    "address": "Neighbourhood: El Centre",
-    "district": "Neighbourhood: El Centre",
+    "id": 10,
+    "address": "Paseo dels Almogàvers",
+    "district": "Paseo dels Almogàvers",
     "type": "local",
-    "modalitat": "compra",
-    "preu": 445000,
-    "m2": 226,
+    "modalitat": "lloguer",
+    "preu": 1200,
+    "m2": 172,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -23,28 +23,142 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nAquest local de 226m² ubicat al Centre ofereix espai versàtil ideal per a dues persones amb possibilitat de mostrador al peu de carrer. Però presenta limitacions importants: l'absència de subministrament trifàsic és un inconvenient seriós per a electrònica (equips de prova, maquinària), i la falta de fibra òptica dificulta la gestió i venda online. L'alçada de només 3m és limitada si cal instal·lacions suspeses o magatzem vertical.\n\n**Valoració:** Local amb potencial de visibilitat però amb carències tècniques que requeriran solucions costoses (instal·lació de trifàsica, connexió fibra) segons les necessitats específiques de l'activitat.",
+    "notesIA": "# Anàlisi del local - Paseo dels Almogàvers\n\n**Punts forts:**\nLocal de 172m² en ubicació de peu de carrer estratègica al Paseo dels Almogàvers, ideal per a una empresa d'electrònica de 2 persones amb espai versàtil per a mostrador, magatzem i oficina. L'alçada de 3m és suficient per a la majoria d'operacions i l'import de 1.200€/mes és competitiu per a aquesta superfície.\n\n**Punts febles a considerar:**\nMancança de trifàsica (requisit crític per a electrònica) i absència de fibra òptica limiten les operacions tècniques i la connectivitat. Caldria verificar la viabilitat d'instal·lar aquests serveis amb cost addicional.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111611961",
-    "urlAnunci": "https://www.idealista.com/inmueble/111611961/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMgHcM93fagHcGCAh6Bgh6oz6AyPWbqMs?Expires=1780410186&Signature=MEUCIEuxaWqwPdorBnmVams3bYhzyruyKs-yV9NKzMFR0QmrAiEA9qZZQDvx3e-Aw~wG7hzl6rRuuBWY4HOZaY0cROVXkig_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
+    "ref": "111517560",
+    "urlAnunci": "https://www.idealista.com/inmueble/111517560/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcL2nfOJXc-CHcGCPeAJT4IgCWjyPWbqMs?Expires=1780410846&Signature=MEUCICs6J4hX-jjUe-p145ZL5McBrazMuRLDJiGiT3COMlb9AiEAyt6YbSgl~-b-HMJbFSuW2r62ss1Wdu64hjGfTF4Upi8_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
     "coords": [
-      41.5474919,
-      2.1037694
+      41.5285519,
+      2.1169965
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:24:47.744Z"
+    "dataCaptura": "2026-06-01T14:36:18.725Z"
+  },
+  {
+    "id": 27,
+    "address": "Calle de Brujas, 137",
+    "district": "Calle de Brujas, 137",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1220,
+    "m2": 209,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Análisis del Local - Calle de Brujas, 137\n\n**Punts forts:**\nLocal de 209m² a peu de carrer ideal per a petites empreses d'electrònica, amb alçada suficient (3m) per a instal·lacions tècniques i un lloguer competitiu de 1.220€/mes. Tanmateix, presenta limitacions importants: manca de subministrament trifàsic i connexió de fibra, factors crítics per a aquest sector.\n\n**Veredicte:** Ubicació bona i espai versàtil, però les carències d'infraestructures són un obstacle significatiu que caldria verificar si es poden solucionar amb inversió addicional.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111477745",
+    "urlAnunci": "https://www.idealista.com/inmueble/111477745/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6HncGJXd6o3cGCPcLgCV6CHqjyPWbqMs?Expires=1780410852&Signature=MEQCIBVO3XaR-8~40FXpj7zroBQXrLcjImrLwjtlukFelCQ5AiAXtSDxTk~mKJ80nW6JucYhsXV20H7SyJwyTSZ3SGxBxA__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5522936,
+      2.1129491
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:30.618Z"
+  },
+  {
+    "id": 33,
+    "address": "Calle de Sant Sebastià",
+    "district": "Calle de Sant Sebastià",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1200,
+    "m2": 150,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 150m² amb ubicació principal en peu de carrer a Sant Sebastià, ideal per a dues persones amb espai versàtil per a exposició i atenció al públic. **Punts febles:** Manca de subministrament trifàsic (problema seriós per a electrònica) i absència de fibra òptica són limitacions importants que encareiran les obres d'adequació i afectaran la connectivitat.\n\n**Verdict:** No és la millor opció sense poder solucionar la trifàsica.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111456315",
+    "urlAnunci": "https://www.idealista.com/inmueble/111456315/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcIo3c-HneABncGCPcLBgg-9wsGyPWbqMs?Expires=1780410854&Signature=MEUCIQCGlSP0rhIKH7hHnTzhByzwq~3e7WQZf48Hsqr00NyY1QIgQFrB9iI~vlQDleZUTbCjCvBCpohG~ihliQBJmFZh1Kg_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5331641,
+      2.1106411
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:55.705Z"
+  },
+  {
+    "id": 5,
+    "address": "Calle de Jacquard, 54",
+    "district": "Calle de Jacquard, 54",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 3100,
+    "m2": 777,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Calle de Jacquard, 54\n\n**Punts forts:** Local ampli de 777m² a peu de carrer ideal per a una empresa d'electrònica amb espai versàtil per a magatzem i venda. **Punts febles:** Manca de subministraments especialitzats (sense trifàsica ni fibra òptica), limiting per a operacions tècniques intensives, i l'alçada de 3m és ajustada per a instal·lacions de servidors o equips grans. **Valoració:** Bon per a showroom/botiga mixta, però requereix revisar si la infraestructura elèctrica i de dades es pot millorar amb inversió adicional.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "110959824",
+    "urlAnunci": "https://www.idealista.com/inmueble/110959824/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebenclHnfaBncGCHolgPd6BqMGyPWbqMs?Expires=1780410844&Signature=MEUCIQDgSpH6aPbAlII0Nk7znvFTnIkV7U3osix3zyQVm9YqhwIgKe4G3j3hAl47hWHN5nHSc~GuDLhmsxUQsGdctI5rqLg_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.542931,
+      2.0973433
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:35:56.172Z"
   },
   {
     "id": 7,
-    "address": "Calle de la Llanera",
-    "district": "Calle de la Llanera",
+    "address": "Paseo del Comerç, 18",
+    "district": "Paseo del Comerç, 18",
     "type": "local",
-    "modalitat": "compra",
-    "preu": 99900,
-    "m2": 131,
+    "modalitat": "lloguer",
+    "preu": 2000,
+    "m2": 459,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -61,22 +175,402 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Análisi del local\n\n**Punts forts:** Local ampli de 131m² en planta baixa a la Calle de la Llanera, ideal per a petites empreses d'electrònica amb bon espai versàtil per a magatzem i mostrador. **Punts febles:** Falta d'instal·lacions críticas (sense trifàsica ni fibra òptica) i preu elevat (999€/mes), que podrien ser limitacions importants per a un negoci tecnològic que requereix connexió fiable i potència elèctrica adequada.\n\n**Recomanació:** Investigar si es poden afegir aquestes instal·lacions abans de contractar.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 459m² en ubicació excel·lent a peu de carrer (Paseo del Comerç), ideal per a una empresa d'electrònica amb visibilitat i accés directe a clients. Espai versàtil que permet adaptar-se a diferents distribucions per a vendes, taller o magatzem. \n\n**Punts febles:**\nManca de trifàsica i fibra òptica són limitacions importants per a una empresa d'electrònica, que requereix connexió elèctrica robusta i internet d'alta velocitat. L'alçada estàndard (3m) i el preu de 2000€/mes són raonables però caldria verificar les possibilitats de millora en les instal·lacions.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111596564",
-    "urlAnunci": "https://www.idealista.com/inmueble/111596564/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfa2nc-JXeogHcGCAgGDIAICAiAyPWbqMs?Expires=1780410188&Signature=MEYCIQDxUrGtIYBsUVdPtBn7miQc7U~blqHk-RuaU65bPnfFggIhAMY5wPswRaBV60QGpieu~pimxgX8GRJ3dPU4sIa69bWA&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111622813",
+    "urlAnunci": "https://www.idealista.com/inmueble/111622813/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebBnceJXf32ncGCAh6CD4LDCUIyPWbqMs?Expires=1780410844&Signature=MEYCIQDdHbGN49kgUQDIkgbSJfv6fR9jKj7-GcimqAYEkM8BkQIhAM2evHE7iRaf1TvT7bctiCJIyxV0fcezV60GI92L1-Rh&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
-      41.5664568,
-      2.0903367
+      41.5315536,
+      2.1151224
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:02.644Z"
+    "dataCaptura": "2026-06-01T14:36:04.867Z"
   },
   {
-    "id": 10,
+    "id": 8,
+    "address": "Calle dels Teixidors",
+    "district": "Calle dels Teixidors",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 14900,
+    "m2": 3764,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal molt spaciós de 3.764m² en ubicació de peu de carrer (Calle dels Teixidors) ideal per a empresa d'electrònica amb potencial per a expansió i versatilitat d'ús. Perfecte per a 2 persones amb abundant espai per a magatzem, tallers o showroom.\n\n**Punts febles:**\nMalgrat les avantatges, presenta limitacions tècniques importants: absència de subministre trifàsic (problema greu per a electrònica) i sense connexió de fibra òptica, que dificultarà operacions modernes. La renda de 14.900€/mes és molt elevada per a una microempresa.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111544939",
+    "urlAnunci": "https://www.idealista.com/inmueble/111544939/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-gHcGHneo93cGCAglJXr3CAyAyPWbqMs?Expires=1780410845&Signature=MEYCIQClbFV-GC1H6kXC8NvqNwl1VJK7GGp4Hknyzrr~6NHafwIhAOA2YSVYJ-d5rNPpaLaSP4V170BJWjSn30X6n3XCxD~e&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5282077,
+      2.1123135
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:09.810Z"
+  },
+  {
+    "id": 9,
+    "address": "Calle dels Corrals Nous",
+    "district": "Calle dels Corrals Nous",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 48505,
+    "m2": 6613,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nLocal spaciós de 6.613m² en ubicació de peu de carrer (Calle dels Corrals Nous) ideal per a empresa d'electrònica amb espai versàtil per a dues persones. Tot i això, presenta **limitacions importants**: manca de subministrament trifàsic (essencial per a maquinària electrònica), no disposa de fibra òptica i l'alçada de 3m és justos per a certs equips. El preu mensual de 4.850€ és molt elevat considerant aquestes carències tècniques.\n\n**Recomanació:** Descartar tret que la trifàsica es pugui instal·lar o que l'activitat no la requereisca.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111563502",
+    "urlAnunci": "https://www.idealista.com/inmueble/111563502/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMencGm3e1o3cGCAglDAv3owb3yPWbqMs?Expires=1780410845&Signature=MEQCIAxHyylgMcxKDWdIXx1TBqjhWyDHRp---zq8jcV0g2VmAiBeO0UGwh1AUH7N-1dfnmQEEnut6IduwuVdywJNSAhTyg__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5449936,
+      2.1324531
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:14.604Z"
+  },
+  {
+    "id": 12,
+    "address": "Calle de Bernat Metge",
+    "district": "Calle de Bernat Metge",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 10000,
+    "m2": 2120,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:**\nLocal ampli de 2.120 m² en ubicació de carrer principal (Calle de Bernat Metge) ideal per a visibilitat comercial, amb alçada suficient (3m) per a mostrador i magatzem. **Però presenta limitacions crítiques**: manca de trifàsica (essencial per a electrònica) i sense fibra òptica (problematic per a vendes en línia), aspectes que caldria resoldre abans de signar.\n\n**Verdict:** Local prometedor per superfície i ubicació, però revisa obligatòriament les infraestructures elèctriques i de conectivitat abans de comprometir-te.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "93165310",
+    "urlAnunci": "https://www.idealista.com/inmueble/93165310/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLznc-PncMHnc-DAyACCUIo4DI9Zuoyw?Expires=1780410846&Signature=MEYCIQDByePQlDGLMw-3CoqVNe-nsfp~qCxHhWRs3swhKdUb1gIhALt1JZr6UDRFM-x-G5Eq7yl140FM8HULNGE3MBKcgDqv&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5256556,
+      2.1014816
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:27.731Z"
+  },
+  {
+    "id": 13,
+    "address": "Calle del Mas Baiona",
+    "district": "Calle del Mas Baiona",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 2750,
+    "m2": 475,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local\n\n**Punts forts:** Local ampli de 475m² en ubicació de peu de carrer (Calle del Mas Baiona) ideal per a exhibició de productes electròics, amb espai versàtil suficient per a 2 persones. **Punts febles:** Manca de subministrament trifàsic (essencial per a molts equips electrònics) i absència de fibra òptica són limitacions significatives; l'alçada de només 3m pot resultar insuficient per a certs tipus d'instal·lacions o emmagatzematge.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "103497630",
+    "urlAnunci": "https://www.idealista.com/inmueble/103497630/",
+    "foto": "https://img4.idealista.com/s/v1/2rv6QcEy-cuQdXf-iXeAm13Gd1k6LQgld1rIdXX8iZCyyEgHqGnBZsgy4s5om8jizmbkm8F3qKN3CIB3DCV3Bgj3gCWjoyWAo8j1m6jL?Expires=1780410847&Signature=MEQCIEoQw28TdrU6eSYYhmUSP1Or5SDkJTSII-ej6pH2TggAAiBku269b-HTMsYKkyLSxCMwOYCKYgxhTGrmnunVXj~MLQ__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5399879,
+      2.1373524
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:31.735Z"
+  },
+  {
+    "id": 14,
+    "address": "Torre-romeu",
+    "district": "Torre-romeu",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 2340,
+    "m2": 637,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local - Electrònica\n\n**Punts forts:** Local ampli de 637m² en zona de pas (Torre-romeu) amb un preu moderat de 2.340€/mes, ideal per a una petita empresa d'electrònica amb presència al carrer. **Però presenta limitacions importants:** manca trifàsica (crítica per a electrònica) i fibra òptica, i l'alçada de 3m pot ser insuficient per a determinats usos o instal·lacions.\n\n**Recomanació:** Verificar necessitats energètiques i de connectivitat abans de decidir.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111495505",
+    "urlAnunci": "https://www.idealista.com/inmueble/111495505/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclPncM93f3BncGCPc-9z4IBvejyPWbqMs?Expires=1780410848&Signature=MEUCIQDz2nSn39aqzTEIaFVBAQzOCQKDSyRvQD3Oj-67B-aprAIgAc43oAC7mvof0l6~reNaSHX4mcuGvJ3qnDc7QicSlqg_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5398323,
+      2.136925
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:35.513Z"
+  },
+  {
+    "id": 18,
+    "address": "Calle de Moragas i Barret",
+    "district": "Calle de Moragas i Barret",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1950,
+    "m2": 166,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local spacious de 166m² a peu de carrer en una ubicació estratègica, perfecte per a una petita empresa d'electrònica amb espai versàtil per a magatzem i taller. Tot i que manca de trifàsica i fibra òptica, l'alçada de 3m permet instal·lacions flexibles i la renda de 1950€/mes és assequible per a 2 persones.\n\n**Punt feble:** La manca de subministrament trifàsic pot ser limitant si es preveu ús de maquinària pesada, i l'absència de fibra dificulta connexió ràpida.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111461940",
+    "urlAnunci": "https://www.idealista.com/inmueble/111461940/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXceCHc-qHceDHebVNF3Bgj3C_d6JYAlC8j1m6jL?Expires=1780410850&Signature=MEYCIQDeg66mIHadk~thsHb6a7rzxH6VM4WW9M~Br9UzINm2VQIhAJ8A4jf4Kw9R9GEz1GcI9DP1r-elCt8ZmNoPut2CZJPv&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5239873,
+      2.1078107
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:50.750Z"
+  },
+  {
+    "id": 20,
+    "address": "Torre-romeu",
+    "district": "Torre-romeu",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 2340,
+    "m2": 637,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:**\nLocal de 637m² a Torre-romeu amb ubicació estratègica de peu de carrer, ideal per a una empresa de dues persones que prioritza visibilitat i accessibilitat. Espai versàtil amb alçada suficient (3m) per adaptar-se a diferents necessitats de magatzem i exposició. Preu competitiu de 2.340€/mes per a aquesta metratge.\n\n**⚠️ Limitacions importants:** Falta de subministrament trifàsic i fibra òptica podrien representar un inconvenient per a activitats electrònica que requereixin més potència elèctrica o connectivitat d'alta velocitat.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111495272",
+    "urlAnunci": "https://www.idealista.com/inmueble/111495272/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMC3eAm3f32ncGCPc-9wsMgKOjyPWbqMs?Expires=1780410850&Signature=MEQCIETuHwegRblNQVaOKbuP0dnoJJrbdqj~uXo2c6I9YGSbAiBfnK7g8fIKixauHYzeio4owQUSy4PjwOfGzeH-tdV4Ig__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5390939,
+      2.1374874
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:03.403Z"
+  },
+  {
+    "id": 22,
+    "address": "Neighbourhood: Creu de Barberà",
+    "district": "Neighbourhood: Creu de Barberà",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1500,
+    "m2": 160,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 160m² ben dimensionat a Creu de Barberà amb un preu accessible de 1.500€/mes, ideal per a dues persones amb possibilitat de crear zones versàtils per a vendes i reparacions. Malgrat la manca de trifàsica i fibra, l'alçada de 3m permet exposició vertical de productes i la ubicació de peu de carrer és perfecta per a captar clientela.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111473830",
+    "urlAnunci": "https://www.idealista.com/inmueble/111473830/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGPnebznfaencGCPcLCwwGBgiAyPWbqMs?Expires=1780410851&Signature=MEUCIGiDfv7mbJCJI32Hq5ewFql-~~EGNc8yGAGyi6QfzbqiAiEAmxNbnbd7CgvHFXCLcuPRkix7bYK8tb1tWfH9fd~s~n8_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.528366,
+      2.1137615
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:10.588Z"
+  },
+  {
+    "id": 25,
+    "address": "REPUBLICA",
+    "district": "REPUBLICA",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 6300,
+    "m2": 235,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal ampli de 235m² en ubicació de peu de carrer a República, ideal per a una empresa d'electrònica amb espai versàtil per a dues persones. Tot i que manté un preu accessible de 6.300€/mes, presenta limitacions importants: no disposa de subministrament trifàsic (essencial per a molts equips electrònics) ni fibra òptica, i l'alçada de 3m pot resultar insuficient per a certs tipus de maquinària.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111581249",
+    "urlAnunci": "https://www.idealista.com/inmueble/111581249/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-enfam3cGCAgGBgb3DAs-yPWbqMs?Expires=1780410851&Signature=MEUCIGBsd7tEbL5FcVG4lZjg-XW8RGWVKFBEK-9-T4qGTL5JAiEA45AW-xjtxXKOrXD9Bao1Cp8CKNPuW0GC1hErvLH29tA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5479327,
+      2.1076522
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:22.505Z"
+  },
+  {
+    "id": 26,
+    "address": "Calle de Bernat Metge",
+    "district": "Calle de Bernat Metge",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 20000,
+    "m2": 4535,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nLocal de 4.535 m² en ubicació privilegiada de peu de carrer a Bernat Metge, ideal per a una empresa d'electrònica amb possibilitat de mostrador i espai versàtil per a magatzem. Tot i que manca trifàsica i fibra òptica (limitacions per a electrodomèstics pesats i connectivitat), l'alçada de 3m és suficient per a la majoria d'operacions i el preu de 20.000€/mes és competitiu per a aquesta superfície.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "93168595",
+    "urlAnunci": "https://www.idealista.com/inmueble/93168595/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMo3c-gHc-Hnc-DKMlenolJQvI9Zuoyw?Expires=1780410850&Signature=MEQCIETO7~U9IyJJCJLzbB6-YDWaY0ZPldHeNdc2HtNtrcw1AiBTlM-bCUHSsTi-9jzP9MpXoIpH3cHcIT9e6UyYvbRc4A__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.52619,
+      2.1009767
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:26.329Z"
+  },
+  {
+    "id": 28,
     "address": "Neighbourhood: Can Llong",
     "district": "Neighbourhood: Can Llong",
     "type": "local",
@@ -99,28 +593,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de **470m² en zona comercial de Can Llong** amb excel·lent ubicació en peu de carrer, ideal per a una empresa d'electrònica de 2 persones amb espai versàtil per a magatzem i venda. Tot i que manca trifàsica i fibra òptica (aspectes a verificar per a la activitat), l'alçada de 3 metres permet instal·lacions flexibles. **El preu de 678€/mes és molt competitiu** per a aquesta metratge en una zona comercial establecida.\n\n**Consideració:** Es recomana confirmar la viabilitat de la instal·lació elèctrica monofàsica i la connexió a internet per a les necessitats operatives de l'empresa.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts destacats:**\nAquest local de 470m² a Can Llong ofereix un espai versàtil ideal per a una empresa d'electrònica de 2 persones, amb ubicació en peu de carrer prioritari per atraure clientela. Tot i això, presenta limitacions importants: manca de subministrament trifàsic i connexió de fibra (essencials per a electrònica), alçada estàndard de 3m, i un preu de 678€/mes que sembla molt elevat per a les necessitats reals de l'activitat.\n\n⚠️ **Recomanació:** Verificar si es pot instal·lar trifàsica i fibra, ja que són crítiques per al sector.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111580151",
     "urlAnunci": "https://www.idealista.com/inmueble/111580151/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAHncGC3cMDHcGCAgGCKN6PqMMyPWbqMs?Expires=1780410187&Signature=MEYCIQDoZzSpRzQGaAhsSzJIno4SReA9QgxweVCOqXVRUkwnxgIhAICgnsRJA3PetsglrLcktP2jSznN7CLRi~ixubBXvn3a&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAHncGC3cMDHcGCAgGCKN6PqMMyPWbqMs?Expires=1780410853&Signature=MEUCIFBHHBkGkyrVxpcNh~BMwY6~8G6xh8R1Vnw05YEe8e~8AiEA7l59AtVWOd6V70yHypNUQ0MKXIsf1WRks~1O2osoy2M_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
       41.5590439,
       2.0809619
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:14.928Z"
+    "dataCaptura": "2026-06-01T14:37:35.004Z"
   },
   {
-    "id": 11,
-    "address": "Calle de Girona",
-    "district": "Calle de Girona",
+    "id": 30,
+    "address": "Neighbourhood: El Centre",
+    "district": "Neighbourhood: El Centre",
     "type": "local",
     "modalitat": "compra",
-    "preu": 420000,
-    "m2": 515,
+    "preu": 445000,
+    "m2": 226,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -137,22 +631,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local - Calle de Girona\n\n**Punts forts:** Local de 515m² amb excel·lent ubicació a peu de carrer a Calle de Girona, ideal per a una empresa d'electrònica amb presència comercial. L'espai versàtil permet combinar zona de venda, magatzem i oficina pels 2 treballadors.\n\n**Limitacions importants:** Manca d'alimentació trifàsica (problemàtica per a maquinària electrònica) i absència de fibra òptica són desavantatges significatius que caldria verificar si són resolubles. El preu de 420.000€/mes sembla molt elevat per a aquesta superfície.\n\n⚠️ **Recomanació:** Confirmar possibilitat d'instal·lar trifàsica i fibra, i renegociar tarifa.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nLocal de 226m² en una ubicació premium al Centre amb accés directe a peu de carrer, ideal per a una petita empresa d'electrònica amb necessitats de visibilitat comercial. Disposició versàtil que permet organitzar zona de venda, magatzem i oficina, tot i que presenta limitacions tècniques importants (sense trifàsica ni fibra òptica).\n\n**Nota:** El preu (445.000€/mes) sembla excessivament alt; probablement es refereix a 445€/mes o és una errata a l'anunci.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111588588",
-    "urlAnunci": "https://www.idealista.com/inmueble/111588588/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-m3c-PncIHncGCAgG9wglCHoGyPWbqMs?Expires=1780410190&Signature=MEUCIQD5Kne6pPdkeJuJAy2q7t2fP5-uxoRxTlJ585AoxCL18QIgLZ8~iIO7RF6-KBUPiHegaVqPrhQTuOAWMYkVxgnNa2w_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111611961",
+    "urlAnunci": "https://www.idealista.com/inmueble/111611961/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMgHcM93fagHcGCAh6Bgh6oz6AyPWbqMs?Expires=1780410854&Signature=MEQCIA9s4fzXQLCfey-0dR~9hf~~KASMUjHUUf3bAn2CaGZoAiB9sM9I1ZJHJ1~BemZyWTn0jqYECqH4OqJjziKitV9h6Q__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
-      41.5332848,
-      2.109203
+      41.5474919,
+      2.1037694
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:19.270Z"
+    "dataCaptura": "2026-06-01T14:37:43.529Z"
   },
   {
-    "id": 12,
+    "id": 37,
     "address": "Ronda de Ponent",
     "district": "Ronda de Ponent",
     "type": "local",
@@ -175,28 +669,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nLocal spaciós de 395m² en ubicació de peu de carrer a la Ronda de Ponent, ideal per a una empresa d'electrònica amb dues persones gràcies a la versatilitat de l'espai. Però cal tenir en compte que **manca subministrament trifàsic** (essencial per a molts equipaments electrònics) **i connexió de fibra**, el que suposaria costos addicionals en instal·lacions, i l'alçada de 3m podria ser limitada per a certes activitats o emmagatzematge.\n\n⚠️ **Recomanació:** Verificar amb l'arrendador la possibilitat d'instal·lar la trifàsica i fibra abans de formalitzar, ja que són requisits gairebé imprescindibles per a aquest sector.",
+    "notesIA": "# Anàlisi del local - Empresa electrònica\n\n**Punts forts:** Local spaciós de 395m² en ubicació de peu de carrer a Ronda de Ponent, ideal per a una petita empresa d'electrònica amb gran potencial de versabilitat d'usos. El preu mensual de 280.000€ és adequat per a aquesta superfície i localització estratègica.\n\n**Punts febles:** Manca de subministrament trifàsic i connexió de fibra òptica són limitacions importants per a una empresa d'electrònica que probablement necessitarà aquestes infraestructures crítiques.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111589441",
     "urlAnunci": "https://www.idealista.com/inmueble/111589441/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejqHfODHeAPncGCAgG96OjC4AIyPWbqMs?Expires=1780410190&Signature=MEYCIQDNP58SoTmkRdNvber8C9EQ9db8JfmFmovAoSz8V3XW4AIhALPISnpBYtVbAmsIDnRTM2sTONBs3a0r-vQVqaLpSSoZ&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejqHfODHeAPncGCAgG96OjC4AIyPWbqMs?Expires=1780410855&Signature=MEYCIQDTvHq1j6m~zOy~ikCpSzlTvUNI8~3BkxVgWTV1pp0oHwIhANXmmrYAQbF3thQqwBQmIVbnPCfxWKNtATuov2CAcDuX&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
       41.5462445,
       2.0992595
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:23.536Z"
+    "dataCaptura": "2026-06-01T14:38:15.205Z"
   },
   {
-    "id": 18,
-    "address": "Calle d'Antonio Vico no number",
-    "district": "Calle d'Antonio Vico no number",
+    "id": 39,
+    "address": "Calle de la Llanera",
+    "district": "Calle de la Llanera",
     "type": "local",
     "modalitat": "compra",
-    "preu": 89000,
-    "m2": 140,
+    "preu": 99900,
+    "m2": 131,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -213,28 +707,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 140m² en peu de carrer amb espai versàtil ideal per a empresa d'electrònica de 2 persones, però presenta **greus limitacions tècniques**: manca trifàsica (essencial per a equips electrònics) i no disposa de fibra òptica. El preu de 89.000€/mes sembla **extremadament elevat** i desproporcionat per a les característiques ofertes.\n\n⚠️ **Consell:** Verificar aquestes dades, ja que les carències tècniques fan el local poc funcional per al sector.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal spaciós de 131m² a peu de carrer a Calle de la Llanera, ideal per a petites empreses d'electrònica amb capacitat per a 2 persones i distribució versàtil. L'alçada de 3m permet instal·lacions flexibles, tot i que és una limitació per a certs equips voluminosos.\n\n**Punt dèbil principal:**\nEl preu de 999€/mes resulta alt per a una empresa nascent, i l'**absència de trifàsica i fibra òptica és crítica** per a qualsevol negoci electrònic modern que requerixi potència adequada i connexió de dades ràpida.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111558337",
-    "urlAnunci": "https://www.idealista.com/inmueble/111558337/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLm3ejenfOC3cGCAglCAb3Pgs-yPWbqMs?Expires=1780410194&Signature=MEUCIA9e7YI0KD~7L-pJ3gdCk95rHORXFCscK~bHu-I5EBjnAiEA~YsgFwB9yub70e2sxEf7TvAhjAie9TOj4bi1A-XqNSQ_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111596564",
+    "urlAnunci": "https://www.idealista.com/inmueble/111596564/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfa2nc-JXeogHcGCAgGDIAICAiAyPWbqMs?Expires=1780410856&Signature=MEUCIBtPBDqnH0ftYeBEaFUsrA~J0hVwS4qGR-coVsidvDI2AiEAisZ2oQM3VS6ot0YQrNJongZRt6cpXQUhVvfQ0hz5kN0_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
-      41.5493863,
-      2.0863853
+      41.5664568,
+      2.0903367
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:49.300Z"
+    "dataCaptura": "2026-06-01T14:38:24.440Z"
   },
   {
-    "id": 20,
-    "address": "Calle de les Comèdies",
-    "district": "Calle de les Comèdies",
+    "id": 42,
+    "address": "Calle de Girona",
+    "district": "Calle de Girona",
     "type": "local",
     "modalitat": "compra",
-    "preu": 199000,
-    "m2": 123,
+    "preu": 420000,
+    "m2": 515,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -251,174 +745,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local - Calle de les Comèdies\n\n**Punts forts:** Local ampli de 123m² en zona de peu de carrer, ideal per a una petita empresa d'electrònica amb espai versàtil per a vendes i magatzem. La ubicació és excel·lent per a captar clientela i té alçada suficient (3m) per a instal·lacions.\n\n**Punts febles:** Els 199.000€/mes resulten molt elevats per a 2 persones, i la manca de trifàsica i fibra óptica pot ser problemàtica per a una empresa d'electrònica que necessita connexió ràpida i subministrament elèctric robust.",
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local ampli de 515m² en ubicació estratègica al Carrer de Girona, ideal per a petita empresa d'electrònica amb accés directe a peu de carrer. Espai versàtil que permet organitzar zona de vendes, magatzem i oficina en una sola planta.\n\n**Punts febles:** Absència de subministrament trifàsic i fibra òptica són limitacions importants per a una empresa electrònica, així com l'alçada estàndard de 3m que pot ser insuficient per a certs equipaments o magatzem vertical.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111569144",
-    "urlAnunci": "https://www.idealista.com/inmueble/111569144/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoDHd6zncl93cGCAglgAh6DD6AyPWbqMs?Expires=1780410193&Signature=MEUCIHrckiobAIft1nIo1xSGNh0PB0GB5FHppRFpqN0eqIqHAiEAj6wi5QjdpJEXu1ftgabBSlZCW9LBjtBkIALQezX7vJ0_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111588588",
+    "urlAnunci": "https://www.idealista.com/inmueble/111588588/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-m3c-PncIHncGCAgG9wglCHoGyPWbqMs?Expires=1780410858&Signature=MEUCIAWE5c0i0UlJr9VgZcRbBYA0BXijnMDy-SIETOPrdYerAiEAxVBr76xT0bp-OJ~2kznpmobjTXyVbktg~Qzryb4kZE4_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
-      41.5488234,
-      2.1111612
+      41.5332848,
+      2.109203
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:57.984Z"
+    "dataCaptura": "2026-06-01T14:38:35.878Z"
   },
   {
-    "id": 22,
-    "address": "Neighbourhood: Hostafrancs",
-    "district": "Neighbourhood: Hostafrancs",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 1170000,
-    "m2": 2487,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de grans dimensions (2.487m²) al barri accessible de Hostafrancs, ideal per a una empresa d'electrònica amb espai versàtil per a instal·lacions i emmagatzematge. Ubicació a peu de carrer que facilita la visibilitat i l'accés de clients i proveïdors.\n\n**Punts febles:**\nMalgrat les virtuts, presenta limitacions importants: absència de connexió trifàsica (essencial per a maquinària electrònica) i falta de fibra òptica, a més d'una alçada modest (3m) que pot restringir alguns tipus d'instal·lacions.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "109933731",
-    "urlAnunci": "https://www.idealista.com/inmueble/109933731/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMencGC3f3gHcG94AlBggGJT4-yPWbqMs?Expires=1780410194&Signature=MEUCIAoTbAN6ncRIWfxCj2voxSpZMxRhT8dX6kBTW8ciQADcAiEA9ilOOxg7W2uhnPRNxaA7xqm1vDwVk7vdIc~Zkjxvrbo_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5476701,
-      2.0970194
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:06.616Z"
-  },
-  {
-    "id": 23,
-    "address": "Neighbourhood: Ca N'Oriac",
-    "district": "Neighbourhood: Ca N'Oriac",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 140000,
-    "m2": 160,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:** Local de 160m² amb ubicació estratègica a Ca N'Oriac, ideal per a una empresa d'electrònica petita amb accés prioritari al peu de carrer per a clients i distribució. L'espai és versàtil i permet diverses configuracions de magatzem i zona de vendes/oficina.\n\n**Punts febles:** El preu és molt elevat (140.000€/mes), falta subministrament trifàsic (essencial per electrònica) i no disposa de fibra òptica, limitacions que poden ser crítiques per a aquesta activitat.\n\n**Valoració:** Local poc adequat per electrònica sense trifàsica ni fibra; recomanable buscar alternatives amb aquestes instal·lacions incloses.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111543543",
-    "urlAnunci": "https://www.idealista.com/inmueble/111543543/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebC3fagHfaqHcGCPeAgAsLBqMIyPWbqMs?Expires=1780410196&Signature=MEUCIQDjlflx2j2XR-BJYh9rcNlX2usM-A2OyOK1bOE37Gd6XQIgMpt~2SYVYpyfveGv-~yjBavhTZols~TxLNUzI6JlyyM_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5652754,
-      2.096625
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:11.067Z"
-  },
-  {
-    "id": 24,
-    "address": "Calle de Sant Josep",
-    "district": "Calle de Sant Josep",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 210000,
-    "m2": 207,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal spaciós de 207m² en ubicació excel·lent al carrer Sant Josep, ideal per a una petita empresa d'electrònica amb presència en peu de carrer. Però presenta **limitacions importants**: manca de trifàsica (crítica per equipament electrònic), absència de fibra òptica i una alçada de només 3m que pot limitar l'emmagatzematge vertical.\n\n⚠️ **Recomendació:** Verificar possibilitat d'instal·lar trifàsica i fibra abans de contractar.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111560979",
-    "urlAnunci": "https://www.idealista.com/inmueble/111560979/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfagHej93cIqHcGCAYl96M-BoAGyPWbqMs?Expires=1780410195&Signature=MEUCIHLjQnNLXgNwqeK4fdv-Ro9i9YQadHTI2mAlaQXCclTAAiEAzWKrZ92bx0wI3gXD3phIxi445LkkUcICX~Ih0TnaEsU_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5497297,
-      2.1099253
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:14.799Z"
-  },
-  {
-    "id": 25,
-    "address": "Gràcia",
-    "district": "Gràcia",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 385000,
-    "m2": 500,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Análisis del Local - Empresa d'Electrònica\n\n**Punts forts:** Local ampli de 500m² a Gràcia amb ubicació de peu de carrer ideal per a visibilitat i captació de clients, perfecte per a una petita equipa de 2 persones amb espai versàtil per a mostra de productes, tallers o magatzem. **Però:** El preu és **molt elevat** (385.000€/mes és desproporcionat), i les **carències tècniques són crítiques** — absència de trifàsica i fibra són grans limitacions per a una empresa d'electrònica que necessita alimentació potent i connectivitat ràpida.\n\n⚠️ **Recomanació:** Rebutjar. El cost és excesiu i les instal·lacions no són adequades per al sector.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111528654",
-    "urlAnunci": "https://www.idealista.com/inmueble/111528654/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLgHcM93d6HncGCPeACAwICAZ6yPWbqMs?Expires=1780410196&Signature=MEUCIQC4nb6QPl2ADKmU5Msy1~5cnSOdiq3ynmuBBKnwEkh0lQIgHGYZxZgKNP~8yMIsA21UM0ieXS9OH0WaUPCW7dXAhEI_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5359351,
-      2.1095569
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:19.274Z"
-  },
-  {
-    "id": 27,
+    "id": 43,
     "address": "REPUBLICA",
     "district": "REPUBLICA",
     "type": "local",
@@ -441,522 +783,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 235m² a República ofereix excel·lent visibilitat en peu de carrer, idoni per a una empresa d'electrònica amb espai versàtil per a mostra i oficina. Tot i l'absència de trifàsica i fibra òptica —aspectes crítics per a aquest sector—, les dimensions generades permeten adaptar-se a diverses necessitats operatives.\n\n**Observació:** El preu de 890.000€/mes sembla excepcional (probablement 890€/mes), cosa que el fa interessant per a una petita empresa de 2 persones.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal spacious de 235m² en ubicació estratègica de peu de carrer a República, ideal per a una petita empresa d'electrònica amb gran potencial de visibilitat comercial. Malgrat que careix de subministrament trifàsic i connexió de fibra—aspectes crítics per a aquest sector—, l'alçada de 3 metres permet distribucions versàtils per a magatzem, mostra de productes i zona d'atenció al públic. Preu mensual de 890€ resulta competitiu per a aquesta superfície i localització.\n\n*⚠️ **Alerta:** La falta de trifàsica és una limitació important per a negocis d'electrònica; caldria verificar si es pot instal·lar o si comporta costos addicionals.*",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111581204",
     "urlAnunci": "https://www.idealista.com/inmueble/111581204/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-enfam3cGCAgGBgb3DAs-yPWbqMs?Expires=1780410195&Signature=MEQCIEU8k8X8r9AFP8MAJ-HZl4SBveKInIHb92p3jVx8OSpUAiBOcW0nevqE69RA3OT9ebTA0olSuPuylJmrb7ff9ohqxQ__&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-enfam3cGCAgGBgb3DAs-yPWbqMs?Expires=1780410858&Signature=MEUCIAUJUmhNhB6n5C0BjnHdeE9Yh67HN4Z5ZF2H~xq2xsWRAiEAgoNJueAeQLRJFGnbKr~9KctA-pVSUiYgwz92qJ0~ReM_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
       41.5446754,
       2.1086368
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:26.829Z"
-  },
-  {
-    "id": 28,
-    "address": "Ronda d'Europa, 571",
-    "district": "Ronda d'Europa, 571",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 563000,
-    "m2": 1386,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de **1.386m² a peu de carrer** a Ronda d'Europa, ideals per a visibilitat i accés de clients, amb un **preu molt competitiu de 563€/mes** (0,41€/m²). Tot i això, presenta **limitacions significatives**: manca de subministrament trifàsic (essential per a electrònica), **absència de fibra òptica** i alçada insuficient (3m és justeta per a magatzem).\n\n⚠️ **Recomanació:** Verificar amb el propietari la viabilitat d'instal·lar aquests serveis imprescindibles antes de formalitzar.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111549540",
-    "urlAnunci": "https://www.idealista.com/inmueble/111549540/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfagHc-znd693cGCAgGBgYLegYMyPWbqMs?Expires=1780410196&Signature=MEUCIE6GYSTtF~taBEFssTKX~6y6RonUs88pRZgH8jziUXFCAiEAlKt8fc-nuPx46UmF8c7vtJtIGyGGe5W9FLYN4tlLeek_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5646421,
-      2.0822622
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:30.874Z"
-  },
-  {
-    "id": 29,
-    "address": "Carretera de Barcelona",
-    "district": "Carretera de Barcelona",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 165000,
-    "m2": 125,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 125m² en ubicació de carretera amb excel·lent visibilitat per a peu de carrer, ideal per a una petita empresa d'electrònica de 2 persones amb espai versàtil per a magatzem i vendes. **Punts febles:** El preu és molt elevat (165.000€/mes), i manca trifàsica i fibra òptica, serveis essencials per a negocis electrònics actuals. **Recomanació:** Negociar preu i verificar disponibilitat de trifàsica i connexió de fibra antes de formalitzar.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111244591",
-    "urlAnunci": "https://www.idealista.com/inmueble/111244591/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1o3clHnfazncGCPcleoAGC6N6yPWbqMs?Expires=1780410199&Signature=MEYCIQD9Ec~JzFzDxApWE~-4bHarl8RWRDK~olM2UQaTjFa7wgIhAPesGO~MDuC05Ytdgoh7xHx9gCs1jjAZWPsek5yoO2S~&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5267179,
-      2.1211483
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:34.629Z"
-  },
-  {
-    "id": 32,
-    "address": "Carretera de Barcelona",
-    "district": "Carretera de Barcelona",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 348000,
-    "m2": 258,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal spaciós de 258m² en ubicació excel·lent a carretera principal, ideal per a visibilitat i accés de clients. Malgrat la manca de trifàsica i fibra, l'alçada de 3m permet distribució flexible per a mostrador, magatzem i zona de reparació.\n\n**Advertència important:** El preu de **348.000€/mes** sembla molt elevat per a dues persones (probablement s'hi falta el desglosament: lloguer/compra). Recomanem clarificar les condicions de pagament abans de proseguir.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111244596",
-    "urlAnunci": "https://www.idealista.com/inmueble/111244596/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe193cegHcGqHcGCPcleoAGDD73yPWbqMs?Expires=1780410199&Signature=MEUCIQCIxtuWlc~cPizZH9GnPB3lraTwOm-XV-3Z53hYNAvS8QIgLGpM-t5j0ueCZkk-Dro9heq72ZCo-HyUi5eIOGErzaA_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5259296,
-      2.1184873
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:46.735Z"
-  },
-  {
-    "id": 33,
-    "address": "Paseo de Gaudí, 27",
-    "district": "Paseo de Gaudí, 27",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 143000,
-    "m2": 146,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 146m² en ubicació privilegiada al Paseo de Gaudí amb accés directe a peu de carrer, ideal per a una empresa d'electrònica de dues persones amb espai versàtil per a magatzem i mostra. Però presenta **limitacions crítiques**: manca de trifàsica (essencial per a maquinària electrònica), no disposa de fibra òptica (problema per a connexió de dades) i l'alçada de 3m és ajustada per a estanteries de magatzem.\n\n**Valoració:** Ubicació excel·lent però infraestructura insuficient per al sector. **No és recomanable** sense negociar millores en instal·lacions elèctriques i telecomunicacions.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111472877",
-    "urlAnunci": "https://www.idealista.com/inmueble/111472877/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcI2nfOene1CHcGCPcLCwb3BqMLyPWbqMs?Expires=1780410199&Signature=MEYCIQC3EgZvv8sg7qbnNZRf2hTGnirkyNT5LxiBP6dxkMMr5wIhAKIAhojA5z5py2YDQjbkEq~6sOTqmWrsTRPalvm3LytT&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5403003,
-      2.119262
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:51.105Z"
-  },
-  {
-    "id": 34,
-    "address": "Calle de la Lusitània, 25",
-    "district": "Calle de la Lusitània, 25",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 165000,
-    "m2": 280,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Análisis del local\n\n**Punts forts:**\nLocal spaciós de 280m² en ubicació de peu de carrer a Calle de la Lusitània, ideal per a una petita empresa d'electrònica amb dues persones, que permet disposar d'espai versàtil per a showroom i magatzem. Tot i que manca subministrament trifàsic i connexió de fibra, l'alçada de 3m és suficient per a la majoria d'operacions.\n\n**Principal inconvenient:** El preu de 165.000€/mes és molt elevat per a una empresa de dues persones; caldria verificar si és mensual o anual.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "99919276",
-    "urlAnunci": "https://www.idealista.com/inmueble/99919276/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclC3ebBnf32ncGCAgGgKMlDAslyPWbqMs?Expires=1780410201&Signature=MEQCIHUhru2uEe7vdOuMCSvsJpsU2oSX7R0uYMJ9cAFmm7cNAiBwDX4NfJ6eBXmv-2sh9Sp5ibfkXYNhnDUKGLiMX8MtIw__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5597077,
-      2.0919825
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:54.627Z"
-  },
-  {
-    "id": 36,
-    "address": "Calle de Girona",
-    "district": "Calle de Girona",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 370000,
-    "m2": 506,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal spaciós de 506m² a Calle de Girona amb ubicació estratègica de peu de carrer, ideal per a una empresa d'electrònica de dues persones amb necessitat d'espai versàtil per a magatzem, exposició o oficina. Malgrat que manté limitacions técniques (sense trifàsica ni fibra), l'alçada de 3m permet instal·lacions de béns electrònics i l'ampli metratge ofereix flexibilitat per adaptar zones de treball, emmagatzematge i atenció al públic.\n\n**Consideració important:** El lloguer de 370.000€/mes és **molt elevat per a dues persones** —caldria verificar si és error tipogràfic o si està en divisa estrangera.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111465910",
-    "urlAnunci": "https://www.idealista.com/inmueble/111465910/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclm3faCHcGJXcGCPcLCAyAo6OjyPWbqMs?Expires=1780410202&Signature=MEUCIQDIkCg8NEAywnNwUCjA3NvQeWlt1kE9EyZpFp0KNRZLugIgQm0ocTkoztOfMqVR7ZyBEqvA47oGujCUGTdlhVX-Xls_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5338913,
-      2.1074231
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:02.345Z"
-  },
-  {
-    "id": 38,
-    "address": "Calle de Vidal",
-    "district": "Calle de Vidal",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 230000,
-    "m2": 227,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local - Empresa Electrònica\n\n**Punts forts:**\nLocal spacious de 227m² a peu de carrer (ideal per visibilitat i accés de clients), perfecte per a 2 persones amb espai versàtil per a oficina, mostra i emmagatzematge. **Però presenta limitacions crítiques**: manca de trifàsica (problema greu per maquinària electrònica), sense fibra òptica (dificultat per connectivitat) i alçada justa de 3m que pot limitar estanteries.\n\n**Recomanació:** Verificar si la instal·lació trifàsica és viable avant de contractar, ja que és essencial per aquest tipus de negoci.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111444470",
-    "urlAnunci": "https://www.idealista.com/inmueble/111444470/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeACHcGqHebBncGCPejCww-DAwGyPWbqMs?Expires=1780410204&Signature=MEQCIEzlorPoVcuZJvm-4xxyNS4nUZgxS-z4noBnwWfLLLrLAiBbLMkvEnpY~we1ncrMqRdkP255MFrzvUwhw3eHIO-B6g__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5501273,
-      2.1132185
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:10.898Z"
-  },
-  {
-    "id": 40,
-    "address": "Calle de Vidal, 44",
-    "district": "Calle de Vidal, 44",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 284000,
-    "m2": 241,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local ampli de 241m² amb excel·lent ubicació a peu de carrer (Calle de Vidal, 44), ideal per a una empresa d'electrònica de 2 persones amb espai versàtil per a oficina, magatzem i exposició. L'alçada de 3m permet instal·lacions i emmagatzematge vertical eficient.\n\n**Punts febles importants:** El preu és molt elevat (284.000€/mes) i la manca de trifàsica i fibra òptica són limitacions crítiques per a un negoci d'electrònica que pot requerir subministrament elèctric potent i connectivitat ràpida.\n\n⚠️ **Recomanació:** Negociar el preu i verificar la viabilitat de contractar trifàsica i fibra abans de formalitzar.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111444680",
-    "urlAnunci": "https://www.idealista.com/inmueble/111444680/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclgHc-gHcL2ncGCPejCwyAgIAMyPWbqMs?Expires=1780410204&Signature=MEYCIQCilPmT7HN41mr1W0jcE4qVpnSJfjlDHtdnX7POSAgf0wIhAIpmT1979PEL9TxgLkSxXeXGIUHGgkKzCDptCJznP5gN&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5505848,
-      2.1143118
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:18.925Z"
-  },
-  {
-    "id": 41,
-    "address": "Calle de Vidal",
-    "district": "Calle de Vidal",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 265000,
-    "m2": 165,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local ampli de 165m² en planta baixa amb accés directe a carrer, ideal per a exhibició de productes i atracció de clients. Preu competitiu de 265€/mes per a un espai versàtil que permet tant venda al detall com magatzem.\n\n**Punts febles:** Les mancances de subministre trifàsic i fibra òptica són limitacions significatives per a una empresa d'electrònica que necessiti instal·lacions tècniques robustes i connectivitat d'alt nivell.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111444651",
-    "urlAnunci": "https://www.idealista.com/inmueble/111444651/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclznfagHcLJXcGCPejCwyAoyULyPWbqMs?Expires=1780410205&Signature=MEUCIQCz5BYsqHOlwxeSdmLDuGhEPDTCUrXuO2nFLih5QMzKAwIgX0GD9wYdBU6M8iDh2so4Lq8hqTdf17lO3jUZVGTZmdQ_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5486803,
-      2.1147277
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:22.997Z"
-  },
-  {
-    "id": 42,
-    "address": "Calle de Vidal",
-    "district": "Calle de Vidal",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 285000,
-    "m2": 195,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:**\nLocal spacious de 195m² en planta baixa a Calle de Vidal, ideal per a petita empresa d'electrònica amb visibilitat directa al carrer i espai versàtil per a magatzem i taller. Però presenta **limitacions importants**: manca trifàsica (essencial per a maquinària), sense fibra òptica, i alçada estricta (3m) que podria ser insuficient per a certes operacions.\n\n⚠️ **Recomanació:** Verificar urgentment la viabilitat de les instal·lacions elèctriques trifàsiques abans de comprometre's, ja que és crític per al sector.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111444707",
-    "urlAnunci": "https://www.idealista.com/inmueble/111444707/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMence2nd6HncGCPejC6MlCAsGyPWbqMs?Expires=1780410206&Signature=MEUCIQDIaa1pi-WOD5AfKvCHoUMjcGDr1u0IThLVNlqwW-aGAgIgGmviywQylQhp63Nd9no9D7Tn1X4h1atRg4z2Sh3Q7Xk_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5489126,
-      2.1148843
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:26.985Z"
-  },
-  {
-    "id": 43,
-    "address": "Gràcia",
-    "district": "Gràcia",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 400000,
-    "m2": 411,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local - Electrònica a Gràcia\n\n**Punts forts:** Local spacious de 411m² al barri de Gràcia amb bon potencial per a peu de carrer, ideal per a equip petit de 2 persones amb espai versàtil per a mostrador, magatzem i oficina. **Punts febles:** Tarifa molt elevada (400.000€/mes), manca de trifàsica (limitació greu per a electrònica) i absència de fibra óptica són inconvenients significatius per a aquest tipus de negoci.\n\n**Recomanació:** Desaconsellable en aquestes condicions tècniques i econòmiques; caldria negociar instal·lació de trifàsica i fibra, o buscar alternatives més adequades.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111410022",
-    "urlAnunci": "https://www.idealista.com/inmueble/111410022/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcIenfaBnd6PncGCPcMowslDCV6yPWbqMs?Expires=1780410207&Signature=MEUCICS1ceqjVETdt96MmjIJgDybmHIECal-HvP1PWxrsavVAiEA7R4IPjX9DPqJQiod5ItzXB3IYMBxu6d8Fn4cOy3xXTc_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5325542,
-      2.1102182
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:31.334Z"
-  },
-  {
-    "id": 45,
-    "address": "Neighbourhood: Creu de Barberà",
-    "district": "Neighbourhood: Creu de Barberà",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 127000,
-    "m2": 251,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 251m² en zona de Creu de Barberà amb **excel·lent potencial per a peu de carrer**, ideal per a una empresa d'electrònica de dues persones que necessita espai versàtil per a magatzem i tenda. Però **presents limitacions tècniques importants**: manca de trifàsica (essencial per a maquinària) i fibra òptica, amb només 3m d'alçada que limita l'emmagatzematge vertical.\n\n⚠️ **Nota crítica:** El preu de 127.000€/mes sembla **molt elevat** (potser error de fitxa) — verifica si és mensual o anual.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111434460",
-    "urlAnunci": "https://www.idealista.com/inmueble/111434460/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeotXf3PnfOC3cGCPejCHoGPvc-yPWbqMs?Expires=1780410208&Signature=MEQCIFQ3z9L83-pG93Tvw3IUaLANMOhEQW0EOq2np6m32GxTAiATJX~qRVbMMCrJ7LUif9EfcCnUi0uBl4vR9oacM0wOqQ__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5326466,
-      2.1155129
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:40.191Z"
-  },
-  {
-    "id": 46,
-    "address": "Calle de Samuntada, 63 -65",
-    "district": "Calle de Samuntada, 63 -65",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 269000,
-    "m2": 404,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local ampli de 404m² en peu de carrer a Samuntada ideal per a empresa d'electrònica amb espai versàtil per a 2 persones, ubicació estratègica en zona de pas. **Punts febles:** Manca de subministraments essencials (sense trifàsica ni fibra òptica) i alçada limitada (3m) que podria restringir certs usos; preu molt elevat (269.000€/mes) que sembla desproporcionat per als requisits de l'empresa.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111557017",
-    "urlAnunci": "https://www.idealista.com/inmueble/111557017/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLHncLHncGgHcGCAgl96M-DAuAyPWbqMs?Expires=1780410209&Signature=MEQCIH2oQgRIoAddSPVeolYWxG6VQtuAhPmSrhXwepHMLO1NAiB2BOnqHD5kIORwnKJ8j30vseO-nvP-L8wrtOpeascMcg__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5345734,
-      2.1171837
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:43.929Z"
+    "dataCaptura": "2026-06-01T14:38:40.482Z"
   },
   {
     "id": 47,
-    "address": "Calle de Sant Vicenç de Paul",
-    "district": "Calle de Sant Vicenç de Paul",
+    "address": "Neighbourhood: Hostafrancs",
+    "district": "Neighbourhood: Hostafrancs",
     "type": "local",
     "modalitat": "compra",
-    "preu": 105000,
-    "m2": 167,
+    "preu": 1170000,
+    "m2": 2487,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -973,66 +821,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal ampli de 167m² en ubicació de peu de carrer a Sant Vicenç de Paul, ideal per a una petita empresa d'electrònica amb espai versàtil per a mostrador, magatzem i zona de treball. **Però presenta limitacions importants:** l'absència de trifàsica és un seriós inconvenient per a equipament electrònic, i la manca de fibra óptica limitarà la connectivitat. El preu de 105.000€/mes resulta molt elevat per a dues persones.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de grans dimensions (2.487 m²) en zona comercial de Hostafrancs amb excel·lent ubicació a peu de carrer, ideal per a empresa d'electrònica que necessita espai versàtil per a mostra, magatzem i oficina. **Punts febles:** Preu molt elevat (1.170.000€/mes) desproporcionat per a 2 treballadors, manca de trifàsica (essencial per a electrònica) i absència de fibra òptica, limitant la competitivitat empresarial.\n\n**Recomanació:** No és adequat per al projecte especificat; s'hauria de buscar un local més petit amb subministraments tècnics bàsics i tarifa més competitiva.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111394249",
-    "urlAnunci": "https://www.idealista.com/inmueble/111394249/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclJXcIo3eotXcGCPcMJYA-gCV6yPWbqMs?Expires=1780410210&Signature=MEQCIFw1~21IhPYVT50XCqmmL21BfXLvOsvHtT60Q5It8dSyAiB22QYaDrvF3v3N9QsuIRmNVIV-jOWkSuzoAaWp9Wx2rg__&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "109933731",
+    "urlAnunci": "https://www.idealista.com/inmueble/109933731/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMencGC3f3gHcG94AlBggGJT4-yPWbqMs?Expires=1780410860&Signature=MEYCIQDnlGpBipp-55L9vLQik5N-ApCUWQ6zNPXcDA4thWVSowIhAPlx5bZ3Dg1xjcmRAcjkh6H7KtCDIvXpwG60lwkwsbcH&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
-      41.5234387,
-      2.1090239
+      41.5476701,
+      2.0970194
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:48.297Z"
-  },
-  {
-    "id": 48,
-    "address": "Carretera de Molins de Rei",
-    "district": "Carretera de Molins de Rei",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 500000,
-    "m2": 608,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal amb excel·lent ubicació a peu de carrer a la Carretera de Molins de Rei, ideal per captar clientela, amb 608m² d'espai versàtil suficient per desenvolupar activitats comercials i de magatzem per a dues persones. **Però presenta limitacions importants:** manca de subministrament trifàsic i connexió de fibra òptica, aspectes crítics per a un negoci d'electrònica modern, i l'alçada de només 3m podria restringir l'emmagatzematge de certs productes.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111533971",
-    "urlAnunci": "https://www.idealista.com/inmueble/111533971/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-2nclDHeoo3cGCPeAo_cLBj56yPWbqMs?Expires=1780410209&Signature=MEUCIFSt1Hq5QKcG~we3u2NXvYcgc9fqSx~4DS0Hx2fXSbIOAiEA4PXpJpRVL3hvl1WoYbSzZsadQOy1xlEQ1PyY8ghAoY0_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 20,
-    "coords": [
-      41.5363858,
-      2.0989068
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:52.199Z"
+    "dataCaptura": "2026-06-01T14:38:57.401Z"
   },
   {
     "id": 49,
-    "address": "Neighbourhood: Creu de Barberà",
-    "district": "Neighbourhood: Creu de Barberà",
+    "address": "Calle de les Comèdies",
+    "district": "Calle de les Comèdies",
     "type": "local",
     "modalitat": "compra",
-    "preu": 348000,
-    "m2": 268,
+    "preu": 199000,
+    "m2": 123,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1049,28 +859,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local ampli de 268m² a la Creu de Barberà amb excel·lent ubicació a peu de carrer, ideal per a una empresa d'electrònica amb capacitat per a 2 persones i versatilitat espacial. **Però presenta limitacions importants:** manca de subministrament trifàsic (essencial per a electrònica) i absència de fibra òptica, a més d'una alçada limitada (3m) que pot restringir-ne els usos.\n\n**Verdict:** No és la millor opció pel sector - caldria confirmar si les instal·lacions es poden millorar, especialment la connexió trifàsica que és crítica.",
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:**\nLocal de 123m² en ubicació privilegiada a peu de carrer a Calle de les Comèdies, ideal per a una empresa d'electrònica amb espai versàtil per a dues persones. Malgrat la manca de trifàsica i fibra, la dimensió i localització estratègica el converteixen en una bona opció per a comerç minorista o servei tècnic.\n\n**Observació important:** El preu mensual de **1.990€** sembla desproporcionat respecte a la metratura; es recomana verificar si és correcte (podria ser 199€ o 1.990€ total amb altres despeses).",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111406240",
-    "urlAnunci": "https://www.idealista.com/inmueble/111406240/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAznebtXc-CHcGCPcMDPc-9_c-yPWbqMs?Expires=1780410209&Signature=MEUCIQCmImy72fQbL9iHn0c0ceKgw13-ngH30qu4AGDR5cvlMgIgZTI5VdNotxcZhnpHHUmthY5jdO3ZuwoZS6HMJpC5F-Y_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111569144",
+    "urlAnunci": "https://www.idealista.com/inmueble/111569144/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoDHd6zncl93cGCAglgAh6DD6AyPWbqMs?Expires=1780410860&Signature=MEYCIQCpSE~1asDJ-wNe6aorr-BvX-dgw4va-VbbFEGuLJZiRwIhAPT1AlAYxoMbwXzI5HkXvUD7sRmPdFvAXNjPgcwcprma&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
-      41.5268313,
-      2.1214437
+      41.5488234,
+      2.1111612
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:56.345Z"
+    "dataCaptura": "2026-06-01T14:39:05.673Z"
   },
   {
     "id": 50,
-    "address": "Neighbourhood: La Concòrdia",
-    "district": "Neighbourhood: La Concòrdia",
+    "address": "Calle de Sant Josep",
+    "district": "Calle de Sant Josep",
     "type": "local",
     "modalitat": "compra",
-    "preu": 152000,
-    "m2": 175,
+    "preu": 210000,
+    "m2": 207,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1087,28 +897,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 175m² a La Concòrdia ofereix un espai versàtil ideal per a una empresa d'electrònica amb dues persones, amb ubicació de peu de carrer prioritària. Però presenta limitacions importants: manca trifàsica (crítica per a electrònica) i fibra òptica, i l'alçada de només 3m podria ser insuficient per a cert tipus de magatzem o instal·lacions.\n\n⚠️ **Recomanació:** Verificar urgentment si és possible instal·lar trifàsica, ja que és essencial per a empreses d'electrònica.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal spaciós de 207m² a pie de carrer en ubicació destacada (Calle de Sant Josep), ideal per a una petita empresa d'electrònica amb alçada suficient (3m) per a instal·lacions. Malgrat no disposar de subministrament trifàsic ni fibra òptica, l'espai versàtil permet adaptabilitat per a vendes, reparacions i magatzem.\n\n**Limitació principal:** El preu és molt elevat (210.000€/mes) per a dues persones, cosa que podria comprometer la viabilitat econòmica del negoci.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111403573",
-    "urlAnunci": "https://www.idealista.com/inmueble/111403573/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1qHcIDHcLgHcGCPcMCPc-CICAyPWbqMs?Expires=1780410209&Signature=MEYCIQD5lIKkkmPc2MmypaDPR9NLsnZKZWs6cbKIEkknLXfAeQIhAOMg1Ww15N5KzTbd4CH1rkw24sqOMngjUylegnSKOr-H&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111560979",
+    "urlAnunci": "https://www.idealista.com/inmueble/111560979/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfagHej93cIqHcGCAYl96M-BoAGyPWbqMs?Expires=1780410860&Signature=MEYCIQD8BzE9PdmiSBvS8o-eHSI5p1X2d8HAycNXAzf6~~3pigIhAJdI5-U1v~WVNE34epn5S-8W5LR7rXMJ6xeAsUc4syFv&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
-      41.5593324,
-      2.0931817
+      41.5497297,
+      2.1099253
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:28:00.269Z"
+    "dataCaptura": "2026-06-01T14:39:09.487Z"
   },
   {
     "id": 1,
-    "address": "Neighbourhood: Can Puiggener",
-    "district": "Neighbourhood: Can Puiggener",
+    "address": "ausias marc",
+    "district": "ausias marc",
     "type": "local",
-    "modalitat": "compra",
-    "preu": 18800,
-    "m2": 29,
+    "modalitat": "lloguer",
+    "preu": 300,
+    "m2": 20,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1125,22 +935,516 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Análisi de l'anunci\n\n**Punts forts:** Local de 29m² a Can Puiggener amb ubicació de peu de carrer ideal per a una empresa d'electrònica de 2 persones, oferint visibilitat i accessibilitat per a clients. L'espai versàtil permet adaptar la distribució entre zona de venda, oficina i emmagatzematge, tot que la manca de trifàsica i fibra podria ser una limitació per a certes operacions tècniques.\n\n**Recomendació:** Verificar les necessitats específiques de subministrament elèctric i connectivitat abans de contractar, ja que poden requerir instal·lacions adicionals amb cost afegit.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal ideal per a 2 persones en ubicació privilegiada a Ausiàs Marc amb accés directe a peu de carrer, perfecte per a captació de clients. Els 20m² són suficients per a una empresa d'electrònica versàtil amb un preu molt competitiu de 300€/mes.\n\n**Limitacions a considerar:**\nMalgrat els avantatges, presenta mancances importants: **absència de connexió trifàsica** (necessària per a molts equips electrònics) i **sense fibra òptica** (problematiu per a operacions modernes), factors que podrien ser crítics per al desenvolupament de l'activitat.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111608804",
-    "urlAnunci": "https://www.idealista.com/inmueble/111608804/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1DHe193cGHncGCAh6Jfc-o6MMyPWbqMs?Expires=1780410186&Signature=MEYCIQDW6hGrkecaq8zMaigasyO6AWh0QyrYG~5in2Gxb82mOQIhAJgOszBklMOWbOKwH7LSscrLO6gVVsbH3yLAjzpgnMm9&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
+    "ref": "104079430",
+    "urlAnunci": "https://www.idealista.com/inmueble/104079430/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoenfOenf3JXcGCAgGCIAlDPclyPWbqMs?Expires=1780410843&Signature=MEUCIQCj4jP3hHA2xp-09qhO5XEYzoUp9I4LKHCtinwnrtzcLgIgdYXF6Kvcftqx9gkXdjOXebkGPK3jBZUwdgjRNeW54t0_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
     "coords": [
-      41.5658721,
-      2.1049257
+      41.5403555,
+      2.1057611
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:24:36.605Z"
+    "dataCaptura": "2026-06-01T14:35:39.608Z"
   },
   {
     "id": 2,
+    "address": "Calle de Sòcrates, 46",
+    "district": "Calle de Sòcrates, 46",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 950,
+    "m2": 110,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local\n\n**Punts forts:** Local spaciós de 110m² a peu de carrer (ubicació estratègica per a captació de clients) a un preu accessible de 950€/mes, ideal per a una petita empresa d'electrònica amb espai versàtil per a mostra i oficina.\n\n**Punts febles:** Manca connexió trifàsica (problema important per a electrònica) i absència de fibra òptica, limitacions que caldria resoldre amb reformes costoses.\n\n**Verdict:** Interessant per ubicació i preu, però **imprescindible verificar viabilitat tècnica** (instal·lar trifàsica i fibra) abans de decidir.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111590055",
+    "urlAnunci": "https://www.idealista.com/inmueble/111590055/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6JXd62nd62ncGCAgG9z4-Cz6jyPWbqMs?Expires=1780410843&Signature=MEUCIEhy60B-CU-RUt71xPJVMSh5iwjty~yptQHtmcfYvrrKAiEAiXHSa5HOIIKK2Iliq0geL-f-H79ZTDt0TBWLL-fmBBc_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5565115,
+      2.0837001
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:35:43.803Z"
+  },
+  {
+    "id": 3,
+    "address": "Ronda de Zamenhof, 149",
+    "district": "Ronda de Zamenhof, 149",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1450,
+    "m2": 91,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:** Local de 91m² ben dimensionat per a dues persones amb accés directe a peu de carrer a la Ronda de Zamenhof, zona de pas destacada. Alçada de 3m suficient per a instal·lacions estàndard i disposició versàtil per adaptar-se a taller i venda.\n\n**Punt dèbil:** Absència de trifàsica i fibra òptica pot limitar operacions tècniques i connectivitat digital, aspectes crítics per a electrònica moderna.\n\n**Valoració:** 6/10 - Espai adequat per ubicació i grandària, però les carències en infraestructures són importants per a aquest sector.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111600558",
+    "urlAnunci": "https://www.idealista.com/inmueble/111600558/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd693fOo3ceDHcGCAgGC_cIDAwGyPWbqMs?Expires=1780410844&Signature=MEUCIQD2UQEflRo2pD-q4nLoLZm2xCL4glRBM4Xy99vNmOh0sAIgKlfFcPlAM~GZLXzHgKjkIoXZXc6LZk~km7RXImOhFK8_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5503094,
+      2.0999096
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:35:48.023Z"
+  },
+  {
+    "id": 4,
+    "address": "Barrio Can Llong, 1",
+    "district": "Barrio Can Llong, 1",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 830,
+    "m2": 30,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anunci Local - Electrònica\n\n**Punts forts:**\nLocal de 30m² ben ubicat al peu de carrer de Can Llong, ideal per a una petita empresa d'electrònica amb espai versàtil per a dues persones i magatzem. Però presenta limitacions importants: manca de trifàsica (essencial per a molts aparells electrònics), absència de fibra òptica i alçada estàndard de 3m que podria resultar insuficient per a certs equips de la sector.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111552129",
+    "urlAnunci": "https://www.idealista.com/inmueble/111552129/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGzncem3e1C3cGCAglegwI9wyAyPWbqMs?Expires=1780410844&Signature=MEUCIFj9VqVC~WUo2Pd~oxGHeocpIeoJUi3fEEQ-BlojGCcqAiEA6PCr5Q4FJHOU5K9GvDhfXd3bDgSqBvS5axgzwmASMi0_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5627991,
+      2.0817251
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:35:51.717Z"
+  },
+  {
+    "id": 6,
+    "address": "Rambla",
+    "district": "Rambla",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1100,
+    "m2": 45,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local ben ubicat a la Rambla (excel·lent visibilitat i afluència) amb 45m² suficients per a 2 persones i amb alçada estàndard versàtil. **Punts febles:** Mancat de trifàsica i fibra òptica, elements crítics per a una empresa d'electrònica moderna, el que comportaria costos addicionals importants en infraestructura.\n\n**Veredicte:** Opció viable pel **seu emplaçament estratègic**, però caldria negociar la instal·lació de trifàsica i fibra abans de fer-se amb el local.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111596473",
+    "urlAnunci": "https://www.idealista.com/inmueble/111596473/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAC3cMo3cGCHcGCAgGDD6ABvd6yPWbqMs?Expires=1780410845&Signature=MEQCIAla1PTLXYl7AThXI5qbpUwuWG3HM1c8O6GtY1HYMzNxAiAcgYanz1wRtQW9NuEgwzSLd9AfvPMYyZgDoDKGDnQXpw__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5426031,
+      2.1120911
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:00.202Z"
+  },
+  {
+    "id": 11,
+    "address": "Calle de Sol i Padrís, 103",
+    "district": "Calle de Sol i Padrís, 103",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 780,
+    "m2": 87,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 87m² ben situat al peu de carrer de la Calle de Sol i Padrís, ideal per a dues persones amb espai versàtil per a vendes i oficina. L'alçada de 3m permet instal·lacions flexibles, i el lloguer de 780€/mes és competitiu per a aquesta zona. **Punts febles:** Manca de connexió trifàsica (limitació important per a electronics) i absència de fibra òptica (essencial per a botigues modernes), factors que caldria negociar amb el propietari.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111612194",
+    "urlAnunci": "https://www.idealista.com/inmueble/111612194/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebgHe1C3cIqHcGCAh6Bgg-PiX3yPWbqMs?Expires=1780410844&Signature=MEUCIQCyP3d7p6b5hqecjkgxLZV02s0VA51ZDXFdCdIH8aPEDAIgJ1RkdUZmjo6Oz0dmLGK09JEnMB1pEu10MTkPML9cgD8_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5364383,
+      2.1193724
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:22.651Z"
+  },
+  {
+    "id": 15,
+    "address": "La Creu Alta",
+    "district": "La Creu Alta",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 900,
+    "m2": 81,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 81m² ben ubicat a La Creu Alta amb accés directe a peu de carrer, ideal per a una petita empresa d'electrònica de dues persones amb bon espai de maniobra. L'alçada de 3m permet instal·lacions flexibles, tot i que cal tenir en compte que manca trifàsica i fibra, aspectes que caldria verificar si són crítics per al negoci.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111540262",
+    "urlAnunci": "https://www.idealista.com/inmueble/111540262/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoC3clCHfaC3cGCPeAPqN6BnqAyPWbqMs?Expires=1780410847&Signature=MEYCIQD1VxHLNj~rPBUlc25IImlxYjoZlWHmeWst8PuvflROSwIhANUGC1~iGGFJojgSPlab313F9NBVnDF7y15fxCAslKlw&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5525818,
+      2.1067949
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:38.809Z"
+  },
+  {
+    "id": 16,
+    "address": "Ronda de Ponent",
+    "district": "Ronda de Ponent",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 790,
+    "m2": 70,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Ronda de Ponent\n\n**Punts forts:** Local de 70m² a peu de carrer a la Ronda de Ponent, ideal per a una petita empresa d'electrònica amb dues persones, a un preu competitiu de 790€/mes. L'espai és versàtil i l'alçada de 3m permet instal·lacions verticals.\n\n**Punts febles a considerar:** Manca connexió trifàsica (pot ser limitant per a certs equips) i no disposa de fibra òptica (important per a comunicacions modernes).\n\n**Valoració:** Bon potencial pel seu caràcter comercial i preu, però caldria verificar si es pot contractar trifàsica i fibra per adequar-lo completament a les necessitats tecnològiques.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111515322",
+    "urlAnunci": "https://www.idealista.com/inmueble/111515322/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfOBneoCHceHncGCAYIBnqADAyAyPWbqMs?Expires=1780410848&Signature=MEYCIQCEfLAPIzfo3cN96uS-LUy5UQFCF7JmgXME8RJuF40FywIhAMO7wxAi9UtK90WrKi62-GwC5CMITybtvBgF03OJoWpd&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5466545,
+      2.100235
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:42.806Z"
+  },
+  {
+    "id": 17,
+    "address": "Calle de Samuntada, 48 -58",
+    "district": "Calle de Samuntada, 48 -58",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 700,
+    "m2": 78,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 78m² ben dimensionat a peu de carrer en zona amb trànsit de clients potencials, ideal per a 2 persones amb espai versàtil per a magatzem i exposició de productes. El preu de 700€/mes és accessible per a una startup del sector.\n\n**Punts febles:** Les mancances de trifàsica i fibra òptica són limitacions importants per a una empresa d'electrònica que probablement necessitarà més potència elèctrica i connexió ràpida a internet per a operacions comercials.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "104528684",
+    "urlAnunci": "https://www.idealista.com/inmueble/104528684/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMo3f3Bncl2ncGCPc-Pnr3gCV6yPWbqMs?Expires=1780410848&Signature=MEUCIQChuewQxD0SGxDyF4-S0BkUY0nInSxETFigJQ4gB65cTwIgEFXFcfeoms9I-OhKA5ndVTBi2nsH601349BmUjyJUuY_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5349983,
+      2.1188214
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:46.752Z"
+  },
+  {
+    "id": 21,
+    "address": "Neighbourhood: El Centre",
+    "district": "Neighbourhood: El Centre",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1400,
+    "m2": 65,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 65m² al Centre a 1.400€/mes, ideal per a dues persones amb accés a peu de carrer prioritari i alçada estàndard de 3m que permet instal·lacions versàtils. Ubicació central que facilita la visibilitat i l'accés de clients, adequat per a comercialització de productes electrònics.\n\n**Limitacions a considerar:**\nManca de trifàsica i fibra òptica, aspectes importants per a empreses electròòniques que puguin necessitar més capacitat energètica o connexió ràpida.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111443313",
+    "urlAnunci": "https://www.idealista.com/inmueble/111443313/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebBneACHeotXcGCPejCwYMCCX3yPWbqMs?Expires=1780410851&Signature=MEQCIACSMH6uOpIhdcXP0yrqOUKLRQJnCzL7KNIi9vwN0LAkAiBiTZl-KuNTGYNPs8NHoTadYrWU6TKuUrUInQyV4zfKug__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5465201,
+      2.1109657
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:07.041Z"
+  },
+  {
+    "id": 24,
+    "address": "Passatge Colom",
+    "district": "Passatge Colom",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 650,
+    "m2": 82,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:** Local de 82m² ben ubicat a peu de carrer (Passatge Colom) amb espai versàtil ideal per a 2 persones, perfecte per a botiga i petit taller d'electrònica. **Punts febles:** La manca de trifàsica limita significativament les opcions per a maquinària industrial o reparacions que requereixin més potència elèctrica, i l'absència de fibra pot ser un inconvenient per a connectivitat telemàtica o diagnostics remots.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "103180135",
+    "urlAnunci": "https://www.idealista.com/inmueble/103180135/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGm3c-PnejJXcGCPcLCAwIJQw-yPWbqMs?Expires=1780410852&Signature=MEUCIQDPBe~jaYcNXCHs2kP7tGWCGPlWu9FP4aC5z2DKLM22HQIgL-M4mQiJ7BwwadI3DBL6AQxXDjELAhmLYNHS1lcEQUA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5450142,
+      2.1028332
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:18.938Z"
+  },
+  {
+    "id": 31,
+    "address": "Avenida de Barberà, 200",
+    "district": "Avenida de Barberà, 200",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 700,
+    "m2": 60,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local\n\n**Punts forts:** Local de 60m² ben dimensionat per a 2 persones amb ubicació estratègica a peu de carrer a l'Avenida de Barberà, ideal per a visibilitat i accés client. **Punt dèbil principal:** Manca trifàsica i fibra òptica, limitacions crítiques per a una empresa d'electrònica que necessita subministre elèctric potent i connectivitat d'altes prestacions.\n\n**Verdict:** Localització excel·lent però insuficient infraestructura tècnica. Recomanable només si es pot contractar aquestes connexions, amb cost addicional a valorar.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111489449",
+    "urlAnunci": "https://www.idealista.com/inmueble/111489449/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcIeneAgHcePncGCPc-BoD3JT73yPWbqMs?Expires=1780410854&Signature=MEYCIQC53YVbR6riT3JhKdINh-nVMq0rQ6zRsfwDko4LkRo38gIhANZkO7vkV7f8aLNMRZePAOl9p5y7wBfEK5uLu2Qc47FQ&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 15,
+    "coords": [
+      41.5351309,
+      2.1143724
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:47.624Z"
+  },
+  {
+    "id": 19,
+    "address": "Paseo de la Plaça Major, 31",
+    "district": "Paseo de la Plaça Major, 31",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1600,
+    "m2": 75,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local d'Electrònica\n\n**Punts forts:** Local de 75m² en ubicació excel·lent a peu de carrer (Paseo de la Plaça Major) ideal per a una petita empresa d'electrònica amb bon potencial de visibilitat i capac de donar servei a 2 persones. L'espai versàtil permet distribuir àrees de venta i taller, amb alçada suficient (3m) per a instal·lacions. **Pega important:** Falta subministrament trifàsic i fibra òptica, limitacions crítiques per a aquesta activitat.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111468684",
+    "urlAnunci": "https://www.idealista.com/inmueble/111468684/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcem3cIzncMHncGCPcLDD6jDID3yPWbqMs?Expires=1780410850&Signature=MEYCIQD83xSVtPDUHFfqATMD-TLKjUZ2l5OmaLJypoyN9KGLiQIhAI1n5QC4ORkKok071aJa89V5ZKQ3YogSLafxB8VL12ep&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5475433,
+      2.1083812
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:36:59.130Z"
+  },
+  {
+    "id": 23,
+    "address": "rosa",
+    "district": "rosa",
+    "type": "local",
+    "modalitat": "lloguer",
+    "preu": 1600,
+    "m2": 76,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nLocal de 76m² amb excel·lent ubicació a peu de carrer (Rosa), ideal per a una empresa d'electrònica de 2 persones amb potencial per a botiga o showroom. L'alçada de 3m és suficient per a instal·lacions tècniques, tot i que la manca de trifàsica i fibra són limitacions importants per a negocis electrònics que requereixin connexions robustes. El preu de 1.600€/mes és competitiu per la zona i dimensions.\n\n**Recomanació:** Verificar possibilitat d'instal·lar trifàsica i fibra òptica, ja que són essencials per aquest tipus de negoci.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111458834",
+    "urlAnunci": "https://www.idealista.com/inmueble/111458834/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLo3ejPncMHncGCPcLenqj93qAyPWbqMs?Expires=1780410852&Signature=MEUCIBkk66Gkhob0zD70189LaOSUn8eO3-ynp~YmTiz2kseSAiEAug~Ezw7uaYuByQ6TXebx4wbRIo42229LQGDN015FxD0_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5464535,
+      2.1101471
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:37:15.331Z"
+  },
+  {
+    "id": 29,
     "address": "Calle de Calvet d'Estrella, 39",
     "district": "Calle de Calvet d'Estrella, 39",
     "type": "local",
@@ -1163,22 +1467,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:**\nLocal de 95m² ben situat al peu de carrer de Calvet d'Estrella, ideal per a una petita empresa d'electrònica amb espai versàtil per a magatzem i venda. Però presenta limitacions importants: manca de subministrament trifàsic (essencial per a molts equips electrònics), absència de fibra òptica i alçada limitada de 3m que pot dificultar l'emmagatzematge vertical.\n\n⚠️ **Recomanació:** Verificar si les instal·lacions de trifàsica i fibra es poden contractar, ja que són crítics per al negoci.",
+    "notesIA": "# Anàlisi de l'Immueble\n\n**Punts forts:** Local de 95m² amb ubicació de peu de carrer excel·lent a Calvet d'Estrella, ideal per a una petita empresa d'electrònica amb espai versàtil per a exposició i atenció al client. L'alçada de 3 metres permet instal·lacions adequades, tot i que caldria verificar la viabilitat de la trifàsica i fibra per a les necessitats tècniques de l'activitat.\n\n**Punts febles:** El preu de 95.000€/mes és molt elevat; l'absència de trifàsica pot limitar certs processos industrials; la manca de fibra complica la connexió a internet d'alta velocitat necessària avui dia.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111621882",
     "urlAnunci": "https://www.idealista.com/inmueble/111621882/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-JXc-CHcGCAh6CAwLgCUlyPWbqMs?Expires=1780410187&Signature=MEQCID7GweJLWZnZWkMF2oEYNbEM9ocOiOBS4TTmafi2lG-qAiA~iwTkh1Z374rQcqfWji~OZklOoNbQisiqxFSMpxR1Lw__&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-JXc-CHcGCAh6CAwLgCUlyPWbqMs?Expires=1780410853&Signature=MEQCIBjGdjt~Lpjl6pt6xssI-XJKx5ehIfCIzd-hGtFkF7FgAiAmgicIfo84jwB4ImSoYlTE4qSC-Qbux13cBK9n6GLdsA__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5363276,
       2.1168421
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:24:40.423Z"
+    "dataCaptura": "2026-06-01T14:37:39.835Z"
   },
   {
-    "id": 4,
+    "id": 32,
     "address": "Neighbourhood: Can Deu",
     "district": "Neighbourhood: Can Deu",
     "type": "local",
@@ -1201,212 +1505,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local\n\n**Punts forts:** Local de 76m² en ubicació privilegiada al barri de Can Deu amb accés a peu de carrer ideal per a una empresa d'electrònica de 2 persones. L'espai versàtil permet adaptació per a showroom i oficina, amb alçada suficient (3m) per a instal·lacions. **Punt feble principal:** Absència de subministrament trifàsic i fibra òptica és una limitació significativa per a negoci tecnològic modern.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 76m² a Can Deu amb ubicació de peu de carrer ideal per a captar clientela, perfecte per a una petita empresa d'electrònica de 2 persones amb espai versàtil. **Punts febles:** El preu de 85.000€/mes és molt elevat (més de 1.100€/m²), a més a més careix de subministraments crítics com trifàsica i fibra òptica, limitacions significatives per a un negoci tecnològic.\n\n**Recomanació:** Descartar llevat que la localització sigui excepcional, o negociar el preu considerablement.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111613274",
     "urlAnunci": "https://www.idealista.com/inmueble/111613274/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfaCHd62nejencGCAh6Bj56PvcIyPWbqMs?Expires=1780410187&Signature=MEUCIHsCFEg7dIgRJdo2yQsA~TetwPinpTG~lag3Ic5wZwj0AiEAoLWmsMA9DR9me0Dx3KCE1cBckGjkmhrqbowiey02ylE_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfaCHd62nejencGCAh6Bj56PvcIyPWbqMs?Expires=1780410854&Signature=MEYCIQDJZXfr5IHeK~~m-VFfCKwiCwUFvJjg-Yz5UXdQPPiGZwIhALyW363ucmLJ5b6NY6HLuPuFsTOyhLOBzSSR-i73gYH~&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5750421,
       2.086938
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:24:51.422Z"
+    "dataCaptura": "2026-06-01T14:37:51.903Z"
   },
   {
-    "id": 5,
-    "address": "Calle de Ramon Jové, 18",
-    "district": "Calle de Ramon Jové, 18",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 18800,
-    "m2": 24,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 24m² ben situat a peu de carrer en una zona comercial, ideal per a dos empleats amb espai versàtil per adaptar-se a les necessitats de l'empresa d'electrònica. El preu de 18.800€/mes és accessible per a aquest tipus de negoci.\n\n**Punts febles:** Manca subministrament trifàsic (essencial per a electrònica) i no disposa de fibra òptica, limitacions que podrien afectar les operacions diàries i la connectivitat del negoci.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111594121",
-    "urlAnunci": "https://www.idealista.com/inmueble/111594121/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXf3Bneoo3d6o3cGCAgGCIALPj4IyPWbqMs?Expires=1780410187&Signature=MEUCIF5n-BtEJ3Us4qsat6DZsCKRR-yMTFskzB5vhauJgqW7AiEA685Z5O8-JQFbVwzb5EJiL4l~pTmoOhHH9AekCDs5a70_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5657965,
-      2.1059503
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:24:55.273Z"
-  },
-  {
-    "id": 6,
-    "address": "Calle de Lluís Vives",
-    "district": "Calle de Lluís Vives",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 118000,
-    "m2": 75,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local - Calle de Lluís Vives\n\n**Punts forts:**\nLocal de 75m² en planta baixa (peu de carrer) ideal per a petita empresa d'electrònica amb espai versàtil per adaptar a botiga i taller. Ubicació estratègica en zona de pas amb bona visibilitat comercial, perfecta per a 2 persones.\n\n**Punts febles a considerar:**\n⚠️ **Preu molt elevat** (1.573€/m² anual) | Manca subministrament trifàsic (limitant per a màquines) | Sense fibra òptica | Alçada justa (3m)",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111595913",
-    "urlAnunci": "https://www.idealista.com/inmueble/111595913/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeA2nceCHcIC3cGCAgGDAsIPoD3yPWbqMs?Expires=1780410189&Signature=MEUCIBQB0f~S5~e4KHJT-sjug2CAcpLO24l5-~eZYiafKQaqAiEA9LR6~C8gXzOHE3XnkKpcq8jYzS3ejQr8FfczdZXfF5E_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5588099,
-      2.0931093
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:24:59.023Z"
-  },
-  {
-    "id": 8,
-    "address": "Calle Sagunt",
-    "district": "Calle Sagunt",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 20000,
-    "m2": 45,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local - Calle Sagunt\n\n**Punts forts:** Local de 45m² ben dimensionat per a 2 persones amb ubicació a peu de carrer prioritari a Calle Sagunt, ideal per a visibilitat i accés de clients. L'espai versàtil permet adaptar-se a diferents distribucions de vendes i magatzem.\n\n**Punts febles:** El preu de 20.000€/mes és molt elevat (444€/m²) i la manca de trifàsica i fibra òptica pot ser limitant per a una empresa d'electrònica que probablement necessita connexió robusta i subministre elèctric potent.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "109848069",
-    "urlAnunci": "https://www.idealista.com/inmueble/109848069/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeA2ne1CHcLHncG9z4LCAyAPiWAyPWbqMs?Expires=1780410189&Signature=MEUCIQCceCS0zYb88z-oaZPB2fbzxsI5YMsd5eX4TFPZB7rTfgIgf6uMv6NT15JCkph59fRjYpN61xHBe0k7LRF0yd9-Xl8_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5618319,
-      2.1041434
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:06.512Z"
-  },
-  {
-    "id": 9,
-    "address": "Via Alexandra, 44",
-    "district": "Via Alexandra, 44",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 75000,
-    "m2": 60,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local - Via Alexandra, 44\n\n**Punts forts:** Local de 60m² ben dimensionat per a dues persones amb excel·lent ubicació a peu de carrer a Via Alexandra, ideal per a visibilitat i accés de clients. **Punts febles:** El preu és molt elevat (75.000€/mes), i manca infraestructura crítica per a electrònica: sense trifàsica dificulta el funcionament de màquines, i sense fibra óptica compromet la connectivitat essencial avui en dia.\n\n**Recomanació:** Desestimar a menys que es pugui negociar el preu i garantir la instal·lació urgent de trifàsica i fibra.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "110850276",
-    "urlAnunci": "https://www.idealista.com/inmueble/110850276/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1C3cePncGencGCAYLCAgIenqjyPWbqMs?Expires=1780410189&Signature=MEUCIEgBSqKloo967efJyWJfGN3YOxGulP-XGI4y~rZZffM1AiEA5o44G64tFJAOW1LJyZLS2monorKE6grIY3cyICzeAsM_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5550183,
-      2.0887001
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:10.665Z"
-  },
-  {
-    "id": 13,
-    "address": "Neighbourhood: Eixample",
-    "district": "Neighbourhood: Eixample",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 95000,
-    "m2": 95,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 95m² a l'Eixample amb ubicació de peu de carrer ideal per a una petita empresa d'electrònica, oferint bon espai versàtil per a dues persones. No obstant, presenta limitacions importants: la manca de subministrament trifàsic és una barrera significativa per a activitats que requereixin maquinària elèctrica, i l'absència de fibra òptica dificulta la connectivitat moderna.\n\n**Verdict:** Ubicació atractiva, però caldria verificar si les instal·lacions elèctrica i de telecomunicacions són compatibles amb l'activitat prevista.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111578114",
-    "urlAnunci": "https://www.idealista.com/inmueble/111578114/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1DHcGDHcLJXcGCAgGJXoGBgajyPWbqMs?Expires=1780410191&Signature=MEUCIQChWHYMpta70U91wQsDctFobcYb83HKSnKTOQ1PfKZoagIgP6NbvwhqLcu4wWD70XfRFss71TWrYchABtHnrMD~kF8_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5350148,
-      2.1161284
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:27.239Z"
-  },
-  {
-    "id": 14,
+    "id": 34,
     "address": "Calle de les Magnòlies",
     "district": "Calle de les Magnòlies",
     "type": "local",
@@ -1429,28 +1543,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 78m² ben dimensionat per a 2 persones amb ubicació prioritària a peu de carrer a Calle de les Magnòlies, ideal per a captació de clients i visibilitat. L'espai versàtil permet adaptabilitat per a vendes, reparacions o exposició de productes d'electrònica.\n\n**Punts febles:**\nLa manca de trifàsica i fibra són limitacions importants per a una empresa d'electrònica moderna, ja que dificultarà les operacions de reparació i la connexió telemàtica. El preu de 69.000€/mes és molt elevat per al volum de negoci esperat amb 2 persones.",
+    "notesIA": "# Anàlisi del local - ⚠️ NO RECOMANAT\n\n**Punts febles crítics:**\n- **Preu excessiu**: 69.000€/mes per 78m² és insostenible per a una empresa de 2 persones (884€/m²)\n- **Infraestructures deficients**: Sense trifàsica ni fibra és incompatible amb una empresa d'electrònica\n- **Alçada limitada**: 3m és ajustada per a magatzem o instal·lacions\n\n**Resum:** Malgrat la ubicació en peu de carrer, aquest local no és viable per a una empresa d'electrònica: el preu és desproporcionat per a la plantilla, manca trifàsica i connexió de fibra (essencials per al sector), i l'alçada és insuficient. Es recomana descartar-lo.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111084803",
     "urlAnunci": "https://www.idealista.com/inmueble/111084803/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfODHcGm3fOgHcGCAgGgD4GCAt6yPWbqMs?Expires=1780410192&Signature=MEUCIQCBNweKG1dZqIoGU2kDKWIHPeFqnpYN5Csf9AAhl9bNbAIgTjQxatT8zc7fi4A-Ex7CJ5~yhPUOGekUj4GmielLtjA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfODHcGm3fOgHcGCAgGgD4GCAt6yPWbqMs?Expires=1780410855&Signature=MEQCIEROrPRqzSCPUPh4Jb93C9elgHkO2oLfypqWGiXKoG7cAiBrTCAmYhUl03V6C5L3Kt~0jCr822DnNtRbcfcWlLfJHw__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5705495,
       2.0934975
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:31.308Z"
+    "dataCaptura": "2026-06-01T14:38:00.134Z"
   },
   {
-    "id": 15,
-    "address": "Calle de Calvet d'Estrella, 39",
-    "district": "Calle de Calvet d'Estrella, 39",
+    "id": 35,
+    "address": "Neighbourhood: Can Puiggener",
+    "district": "Neighbourhood: Can Puiggener",
     "type": "local",
     "modalitat": "compra",
-    "preu": 95000,
-    "m2": 95,
+    "preu": 18800,
+    "m2": 29,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1467,60 +1581,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 95m² en planta baixa a Calvet d'Estrella, ideal per a petit negoci d'electrònica amb espai versàtil per a mostra i atenció al públic. Ubicació de peu de carrer prioritari per a captació de clients, perfecte per a 2 persones. **Punts dèbils:** El preu és molt elevat (950€/mes) i falta alimentació trifàsica i connexió de fibra, limitacions importants per a empresa tecnològica.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 29m² ben dimensionat per a 2 persones en una ubicació de peu de carrer a Can Puiggener, ideal per a captació de clients. L'alçada de 3m permet versibilitat en l'arranjament de l'espai per a exposició de productes.\n\n**Punts dèbils:** El preu de 1.800€/mes és elevat per a la metratge, i l'absència de trifàsica i fibra óptica limita les capacitats tècniques (serveis, almacenatge de dades o operacions que requereixin més potència elèctrica).",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111572633",
-    "urlAnunci": "https://www.idealista.com/inmueble/111572633/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAqHcIDHebJXcGCAgGDHr3gAwLyPWbqMs?Expires=1780410192&Signature=MEUCIGR1lwX8u6k6TaIzwoQHuY5B2HlAiEaH3kBHdUmYLxzTAiEAg0RAjD9ZJu79S20I0Ty6pyq9018zRoBJknAABdXMkVU_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111608804",
+    "urlAnunci": "https://www.idealista.com/inmueble/111608804/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1DHe193cGHncGCAh6Jfc-o6MMyPWbqMs?Expires=1780410855&Signature=MEYCIQDP8cNk2VE8Gf3SyFn8uQvLLwjHbTGaRhQex6dJ1497RQIhAMefsD1EGGgzRYfXFrB0BqIp-ka62Baisti0FKWPX~p6&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
-      41.5363276,
-      2.1168421
+      41.5658721,
+      2.1049257
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:34.980Z"
+    "dataCaptura": "2026-06-01T14:38:04.511Z"
   },
   {
-    "id": 16,
-    "address": "Neighbourhood: Can Rull",
-    "district": "Neighbourhood: Can Rull",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 82000,
-    "m2": 92,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 92m² a Can Rull amb ubicació de peu de carrer, ideal per a una petita empresa d'electrònica de 2 persones amb potencial versàtil. Malgrat això, presenta limitacions significatives: manca de subministrament trifàsic (essencial per a molts aparells electrònics), absència de fibra òptica i una alçada estàndard de 3m que pot resultar insuficient per a certs tipus d'instal·lacions o emmagatzematge. **El preu de 82.000€/mes és molt elevat** per a aquesta tipologia i mida de negoci.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111571022",
-    "urlAnunci": "https://www.idealista.com/inmueble/111571022/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1o3f3znf3C3cGCAglCws-JYAGyPWbqMs?Expires=1780410193&Signature=MEQCIDbPA4Rc0MrdsvNXwtmRCZd1mhAvsrfntPw3h2v0LSuUAiArqZB1Ana6JfBVSi1PH7bHZdBP0G9BRCgyfXAtdvVPvA__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.557367,
-      2.0868467
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:39.680Z"
-  },
-  {
-    "id": 17,
+    "id": 36,
     "address": "Neighbourhood: Creu de Barberà",
     "district": "Neighbourhood: Creu de Barberà",
     "type": "local",
@@ -1543,22 +1619,212 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local - Electrònica\n\n**Punts forts:** Local versàtil de 82m² en ubicació estratègica al Creu de Barberà, ideal per a petita empresa d'electrònica amb espai suficient per a 2 persones i mostra de productes. **Punts febles:** El preu és molt elevat (180.000€/mes sembla desproporcionat; possiblement és error tipogràfic), i manca subministrament trifàsic i connexió de fibra òptica, essencials per a negocis d'electrònica moderns.\n\n**Recomanació:** Verificar el preu i sol·licitar millores en serveis tècnics abans de formalitzar.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 82m² ben ubicat al Creu de Barberà, ideal per a una petita empresa de 2 persones amb accés directe al carrer. Espai versàtil amb 3m d'alçada que permet diverses configuracions de vendes i taller.\n\n**Punts febles:** Els 180.000€/mes de renda és molt elevat (2.195€/m² anuals), i manca connexió trifàsica i fibra òptica, aspectes crítics per a electrònica moderna.\n\n⚠️ **Recomanació:** Revisar la renda (sembla errònia, probablement sigui mensual molt alt) i negociar instal·lacions elèctriques adequades antes de contractar.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111610814",
     "urlAnunci": "https://www.idealista.com/inmueble/111610814/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoo3ejJXe1gHcGCAh6BiUG9wwMyPWbqMs?Expires=1780410192&Signature=MEYCIQCmayPk-64DLQ-STjwPt2YSqFY4WijYpt7ACjDiepIzKwIhAO0nIuVr3FmQUyODLSgEbjoueWJ2U-SI9jeaJHuxtgAJ&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoo3ejJXe1gHcGCAh6BiUG9wwMyPWbqMs?Expires=1780410855&Signature=MEUCIQCjgunmrLGBI4EdjdP7hvLO9nCPu7pC~m0zwHGQPLDRXwIgSYuvq364PiBpvlOlJhoMIGDiO1FC5z2CO503Ol02jH8_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5270255,
       2.1204034
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:45.582Z"
+    "dataCaptura": "2026-06-01T14:38:11.445Z"
   },
   {
-    "id": 19,
+    "id": 38,
+    "address": "Calle de Lluís Vives",
+    "district": "Calle de Lluís Vives",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 118000,
+    "m2": 75,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local - Calle de Lluís Vives\n\n**Punts forts:** Local de 75m² amb ubicació de peu de carrer ideal per a una empresa d'electrònica de 2 persones, oferint bona visibilitat i accessibilitat per als clients. L'espai és versàtil i permet adaptar-se a diferents necessitats comercials.\n\n**Punts febles:** El preu és molt elevat (118.000€/mes és excesiu per aquest tipus de negoci), manca subministrament trifàsic essencial per a electrònica, no disposa de fibra òptica i l'alçada de 3m és justa per a certes instal·lacions.\n\n**Recomanació:** Malgrat la bona ubicació, les **mancances tècniques (trifàsica i fibra) són crítiques** per a aquest sector i el preu és desproporcionat. Caldria negociar millores o buscar alternatives més adequades",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111595913",
+    "urlAnunci": "https://www.idealista.com/inmueble/111595913/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeA2nceCHcIC3cGCAgGDAsIPoD3yPWbqMs?Expires=1780410856&Signature=MEYCIQCTz~kQe2EBLh92KJjmmAnMZ-9dqaVb6L6zmzlljWPkDQIhAN-Uz-AgMC8Dmdo6PqiI1B7dcRPuc2S5lztDJOZQa~U4&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5588099,
+      2.0931093
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:38:20.315Z"
+  },
+  {
+    "id": 40,
+    "address": "Via Alexandra, 44",
+    "district": "Via Alexandra, 44",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 75000,
+    "m2": 60,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Via Alexandra, 44\n\n**Punts forts:** Local de 60m² amb excel·lent ubicació a peu de carrer a Via Alexandra, ideal per a una petita empresa d'electrònica amb espai versàtil per a vendes i tallers. Preu accessible de 75.000€/mes per a aquest tipus de ubicació i dimensió.\n\n**Punts febles:** Manca de trifàsica i connexió de fibra són limitacions significatives per a una empresa electrònica, i l'alçada de 3m pot resultar insuficient per a certs equipaments.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "110850276",
+    "urlAnunci": "https://www.idealista.com/inmueble/110850276/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1C3cePncGencGCAYLCAgIenqjyPWbqMs?Expires=1780410857&Signature=MEYCIQC0FvYnsj0g50fYzis4RXpsHUJ88gj7RX3cQrx75JM0ywIhAKOBuDtEQkDcD0PIQV5JS8lhAabcUzu8dDc-MqppTGaX&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5550183,
+      2.0887001
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:38:28.067Z"
+  },
+  {
+    "id": 41,
+    "address": "Calle Sagunt",
+    "district": "Calle Sagunt",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 20000,
+    "m2": 45,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local - Calle Sagunt\n\n**Punts forts:**\nLocal de 45m² ben dimensionat per a 2 persones amb excel·lent ubicació de peu de carrer, ideal per captar clientela de pas. Espai versàtil que permet configurar tant zona de venda com de taller, perfecte per a una empresa d'electrònica.\n\n**Punts febles:**\nManca de subministrament trifàsic és una limitació important per a electrònica (càrregues de potència), i l'absència de fibra óptica pot ser problemàtica per a operacions comercials modernes. El preu de 20.000€/mes és molt elevat per a aquestes dimensions.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "109848069",
+    "urlAnunci": "https://www.idealista.com/inmueble/109848069/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeA2ne1CHcLHncG9z4LCAyAPiWAyPWbqMs?Expires=1780410857&Signature=MEUCIFOIOrILmo4SKWu-17e6YZw1veSIXsid~l76XRr-GjHdAiEAuE6KLYJeYOZSMn5lwyROi-CGtwKoVZua7K1Hw3oW2LY_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5618319,
+      2.1041434
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:38:31.949Z"
+  },
+  {
+    "id": 44,
+    "address": "Neighbourhood: Eixample",
+    "district": "Neighbourhood: Eixample",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 95000,
+    "m2": 95,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 95m² al centre de l'Eixample ofereix una ubicació estratègica a peu de carrer ideal per a una empresa d'electrònica de dues persones, amb espai versàtil per adaptar-se a diferents necessitats. Malgrat la mancança de trifàsica i fibra òptica, el preu de 95.000€/mes és competitiu per la zona i l'alçada de 3m permet instal·lacions habituals.\n\n**Consideració important:** La falta de **trifàsica** pot ser una limitació seriosa per a activitats d'electrònica que requereixin maquinària o proves d'equipament; seria recomanable verificar si es pot contractar aquest servei.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111578114",
+    "urlAnunci": "https://www.idealista.com/inmueble/111578114/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1DHcGDHcLJXcGCAgGJXoGBgajyPWbqMs?Expires=1780410858&Signature=MEQCIBfCfSMMvBgxG8UI7OcHI874Pt3vUI6lJZsIQYJD93CCAiBJUxXfWSwPC55eFHpY22Hk0kDyuJB4wJg07sGkWKZ47Q__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5350148,
+      2.1161284
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:38:44.415Z"
+  },
+  {
+    "id": 45,
+    "address": "Calle de Ramon Jové, 18",
+    "district": "Calle de Ramon Jové, 18",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 18800,
+    "m2": 24,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 24m² ben situat a peu de carrer en zona urbana, ideal per a petita empresa d'electrònica amb equip reduït. **Punts febles:** Manca de subministraments especialitzats (sense trifàsica ni fibra òptica), espai limitat i renda mensual elevada (18.800€) que pot comprometer la viabilitat econòmica del negoci.\n\n**Conclusió:** No és la millor opció per a electrònica sense confirmar que la monofàsica és suficient i que el pressupost mensual és viable.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111594121",
+    "urlAnunci": "https://www.idealista.com/inmueble/111594121/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXf3Bneoo3d6o3cGCAgGCIALPj4IyPWbqMs?Expires=1780410858&Signature=MEUCIAoSeIO4ddHWctnju0JupN5wK0nTns68m8mEmzeTDP22AiEAy1lp7FqAuqGDakc8CsX2VhX5-pFcEwOmuz8UxWOc43E_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5657965,
+      2.1059503
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-01T14:38:48.543Z"
+  },
+  {
+    "id": 46,
     "address": "Calle de Calvet d'Estrella, 39",
     "district": "Calle de Calvet d'Estrella, 39",
     "type": "local",
@@ -1581,22 +1847,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nAquest local de 95m² en planta baixa a Calvet d'Estrella ofereix una excel·lent ubicació de peu de carrer ideal per a captar clientela, amb espai versàtil perfecte per a una petita empresa d'electrònica de 2 persones. Però presenta limitacions importants: manca de trifàsica i connexió de fibra, elements crítics per a negocis de tecnologia, i el preu de 95.000€/mes és extremadament alt (sembla un error tipogràfic).\n\n⚠️ **Alerta:** Revisar urgent el preu (podria ser 950€?) i confirmar si es pot instal·lar subministrament trifàsic, essencial per a electrònica.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 95m² en planta baixa a Calvet d'Estrella amb excel·lent visibilitat de carrer, ideal per a una petita empresa d'electrònica amb dues persones. L'espai versàtil permet adaptar-lo tant a botiga com a oficina/magatzem, però presenta limitacions tècniques importants ja que **manca connexió trifàsica i fibra òptica**, aspectes crítics per a empreses electròniques modernes.\n\n⚠️ **Inconvenient principal:** El preu de 95.000€/mes sembla excessivament alt (pot ser error de publicació) i les carències d'infraestructura (trifàsica/fibra) són molt limitants per al sector.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111569138",
     "urlAnunci": "https://www.idealista.com/inmueble/111569138/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejJXej2nd693cGCAglCwYlPnolyPWbqMs?Expires=1780410193&Signature=MEYCIQCLlCgDq6JMw52ugdUxQBRP8LMHFjV5jHk4KaY-J5YndwIhAIfNdpag-ewhmFR8iMyr0wzg~rHQJw9knX9g1DPQM76S&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejJXej2nd693cGCAglCwYlPnolyPWbqMs?Expires=1780410859&Signature=MEUCIQCsg1Ak8gfoDI~Il4vQuLnsOC43yiM1K6pUryaxT2h29QIgVfNzkw3PkoCD~K7y0lLvAxxxHG5uJVMhrhI8H-sKbBs_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5363276,
       2.1168421
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:25:54.060Z"
+    "dataCaptura": "2026-06-01T14:38:52.857Z"
   },
   {
-    "id": 21,
+    "id": 48,
     "address": "Calle de Clemència Isaura, 8",
     "district": "Calle de Clemència Isaura, 8",
     "type": "local",
@@ -1619,284 +1885,18 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 111m² a peu de carrer en zona privilegiada, ideal per a una empresa de 2 persones amb bona visibilitat i espai versàtil per adaptar a mostrador, exposició o magatzem. L'alçada de 3m permet instal·lacions diverses, tot i que cal destacar que **manca subministrament trifàsic i fibra òptica**, limitacions importants per a un negoci d'electrònica que requereix més potència elèctrica i connectivitat.\n\n⚠️ **Aspecte crític:** Els 190.000€/mes sembla un preu molt elevat; verificar si és mensual o anual, ja que seria inusitadament car.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal amb excel·lent ubicació a peu de carrer a Clemència Isaura, ideal per a una petita empresa d'electrònica de 2 persones amb 111m² de superfície versàtil. Disposa d'altura suficient (3m) per a exposició de productes i organització d'espais, tot i que s'hauria de valorar la manca de trifàsica i connexió de fibra per a les necessitats específiques del negoci electrònic.\n\n⚠️ **Punt feble:** El preu de 190.000€/mes és molt elevat per a aquesta tipologia de negoci; recomanaria negociar o buscar alternatives més econòmiques.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111575878",
     "urlAnunci": "https://www.idealista.com/inmueble/111575878/",
-    "foto": "https://img4.idealista.com/s/v1/2rv6QcEy-cuQdXf-iXeAm13Gd1k6LQgld1rIdXX8iZCyyEgHqGnBZsgy4s5om8jizmbkm8F3tSV3gLV3mwh3BggIJYAIJQh6C8j1m6jL?Expires=1780410193&Signature=MEYCIQCTunqSZsT6RDkxBqP1-uzFbrA8feyuEIQvBJSuTPvA2AIhAMronIjXJSBIM6a6c2mDaHnZP7AG8nHh19TaBeHg17DI&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/2rv6QcEy-cuQdXf-iXeAm13Gd1k6LQgld1rIdXX8iZCyyEgHqGnBZsgy4s5om8jizmbkm8F3tSV3gLV3mwh3BggIJYAIJQh6C8j1m6jL?Expires=1780410860&Signature=MEUCIQDM-M9xjz5OVL4~NVqhHrWXnmeNrTBcrsMq1-~vb~QqdAIgev7Jbqn59tS0iwtKbViy7KWna02O6eWvHGx7y62VLgY_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5301282,
       2.1166681
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:02.361Z"
-  },
-  {
-    "id": 26,
-    "address": "Calle de Girona",
-    "district": "Calle de Girona",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 94000,
-    "m2": 65,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local - Calle de Girona\n\n**Punts forts:**\nLocal de 65m² en planta baixa de la Calle de Girona amb excel·lent visibilitat de carrer, ideal per a una petita empresa d'electrònica de 2 persones. L'espai versàtil permet adaptar-se a diferents distribucions (venda, taller, magatzem), però és important resoldre les **carències críiques**: absència de subministrament trifàsic i fibra òptica, essencials per a activitat electrònica moderna.\n\n⚠️ **Limitacions importants**: caldria verificar disponibilitat de trifàsica i connectivitat, ja que són vitals per al negoci.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111292808",
-    "urlAnunci": "https://www.idealista.com/inmueble/111292808/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXceDHejgHeb93cGCPcGgPcGJSV6yPWbqMs?Expires=1780410197&Signature=MEUCIQCHzHkoPgRTAFz1PBFJNk3Uc2DXPCRylpm0owROEEblYQIgDZGLi118znkIFfM4qmr2ZYDr4x8Yj1fD3pVMOTrRcCU_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.532391,
-      2.1084425
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:23.121Z"
-  },
-  {
-    "id": 30,
-    "address": "Carretera de Barcelona, 649",
-    "district": "Carretera de Barcelona, 649",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 170250,
-    "m2": 118,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 118m² en zona de pas elevat (Carretera de Barcelona) ideal per a una petita empresa d'electrònica amb molt potencial de visibilitat i clientela. L'espai és versàtil i suficient per a 2 persones, though cal destacar que **manca subministrament trifàsic i connexió de fibra**, aspectes crítics per a electrònica.\n\n⚠️ **Limitació important:** El preu de 170.250€/mes és **extremadament elevat** (quasi 1.450€/m²) i l'absència de trifàsica és un greu inconvenient per a aquesta activitat.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111510876",
-    "urlAnunci": "https://www.idealista.com/inmueble/111510876/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGo3e1qHcIm3cGCPc-PgsIo3qjyPWbqMs?Expires=1780410199&Signature=MEUCIBBdGmBSPORosLcnV-HHmrJlerc6yVVIgtc4rAEqkcH6AiEAin4owxFSr2x-IIs22h5eop42onz~zcne-gme~Vfvtkw_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5261789,
-      2.1201127
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:38.666Z"
-  },
-  {
-    "id": 31,
-    "address": "Calle de Calvet d'Estrella, 39",
-    "district": "Calle de Calvet d'Estrella, 39",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 95000,
-    "m2": 95,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'oferta\n\n**Punts forts:** Local de 95m² amb excel·lent ubicació a peu de carrer a Calvet d'Estrella, ideal per a una petita empresa d'electrònica amb espai versàtil per a mostrador i magatzem. L'alçada de 3m permet instal·lacions adequades, tot i que caldria verificar la disponibilitat de trifàsica i fibra òptica, aspectes crítics per a aquest sector.\n\n**Nota:** El preu de 95.000€/mes sembla **molt elevat** per a aquesta metratge (1.000€/m²); suggereixo confirmar si és mensual o anual.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "110910214",
-    "urlAnunci": "https://www.idealista.com/inmueble/110910214/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejzneAHnfaDHcGCAglDIAGDHo-yPWbqMs?Expires=1780410199&Signature=MEYCIQCsFiJpBi9yiqxFvrWc~5tPtpEju4rmDMoFiq~xHNB8tQIhANbexZkkPjLR3mYlygeOtBiojS57BJGrOrpXbC6o5SwG&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5363276,
-      2.1168421
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:42.751Z"
-  },
-  {
-    "id": 35,
-    "address": "Neighbourhood: Ca N'Oriac",
-    "district": "Neighbourhood: Ca N'Oriac",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 65000,
-    "m2": 53,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 53m² a Ca N'Oriac amb **ubicació de peu de carrer ideal per a una empresa d'electrònica**, perfecte per a 2 persones amb espai versàtil per a mostrador i magatzem. Tot i que **manca trifàsica i fibra òptica**, el preu de 65.000€/mes és competitiu per la zona i l'alçada de 3m és suficient per a instal·lacions generals.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111476687",
-    "urlAnunci": "https://www.idealista.com/inmueble/111476687/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGqHebHncIC3cGCPcLPqMMCPd6yPWbqMs?Expires=1780410201&Signature=MEYCIQCKTqtMOx89MZXaHmREsCAoKP9zRpZcB66fHLz-XbGi5QIhALBNBWRk~KVDZOd4IkLCRdSWhJnm9w8K03HWqhgz07It&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5703006,
-      2.0880089
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:26:57.975Z"
-  },
-  {
-    "id": 37,
-    "address": "Calle de la Saboneria, 50",
-    "district": "Calle de la Saboneria, 50",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 90000,
-    "m2": 83,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 83m² ben dimensionat a peu de carrer en una zona de comercial consolidada, ideal per a una petita empresa d'electrònica amb dues persones. L'espai versàtil permet adaptar-se tant a venda al detall com a serveis tècnics.\n\n**Punts dèbils:** Els 90.000€/mes de lloguer és molt elevat (1.084€/m²) i representa una inversió arriscada per a una microempresa. L'absència de trifàsica i fibra óptica són limitacions serioses per a una negoci d'electrònica moderna, que requereix subministrament elèctric robust i connectivitat ràpida.\n\n**Recomanació:** Buscar alternatives amb millors condicions de subministrament i preus més competitius.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111444456",
-    "urlAnunci": "https://www.idealista.com/inmueble/111444456/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAenclJXd6tXcG9z4MeqMIJQs-yPWbqMs?Expires=1780410204&Signature=MEYCIQCz7SPGSWMbRGvnN4wpgoAFdbqx0234Iz1o8H7ihs2jZAIhAL6B9XVkVxHMnZFTfYE9Z2Co3h-GIoyzLaENLJkii6Gt&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5280693,
-      2.1203176
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:06.911Z"
-  },
-  {
-    "id": 39,
-    "address": "Calle Francesc Layret",
-    "district": "Calle Francesc Layret",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 195000,
-    "m2": 110,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 110m² ben ubicat al peu de carrer de Calle Francesc Layret, amb dimensions versàtils ideals per a una petita empresa d'electrònica de 2 persones. Malgrat que manca connexió trifàsica i fibra òptica, l'espai és suficient per a mostrador, magatzem i zona de reparacions.\n\n**Punts dèbils a considerar:**\nPreu molt elevat (195.000€/mes = 2.340.000€/any) i absència de serveis bàsics (trifàsica i fibra) que podrien ser necessaris per a una empresa electrònica moderna.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "110923592",
-    "urlAnunci": "https://www.idealista.com/inmueble/110923592/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebo3ebgHclqHcGCAaAoz73BiUMyPWbqMs?Expires=1780410206&Signature=MEYCIQCCr6H0R4FjgpnpNFlJBEQG9sttXgZfLkhl~Bga1MJjdgIhAJScIRdPGTj2mdvteyn1hVoqgsGZg~kc2lxkBKq-3Umx&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.559464,
-      2.0986335
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:14.769Z"
-  },
-  {
-    "id": 44,
-    "address": "Calle de la Palma",
-    "district": "Calle de la Palma",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 59000,
-    "m2": 62,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local - Calle de la Palma\n\n**Punts forts:**\nLocal de 62m² en planta baixa a una ubicació de peu de carrer amb potencial comercial, ideal per a una petita empresa d'electrònica de 2 persones amb espai versàtil per a vendes i magatzem. Però presenta limitacions importants: manca de subministrament trifàsic (essencial per a molts aparells electrònics) i absència de fibra òptica, factors que comprometen la funcionalitat per a aquesta activitat. El preu de 59.000€/mes és molt elevat per a les dimensions i carències tècniques del local.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111393176",
-    "urlAnunci": "https://www.idealista.com/inmueble/111393176/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeACHfOtXc-zncGCPcMJaOjCwyAyPWbqMs?Expires=1780410209&Signature=MEQCICtE4om7vvqeZAgNDxYp4VaSNYtO9m6ewCuBRUrCw7LxAiBTw02jEb3CC4PifI3TR9XDoqhWqqdHxwmyOQymVllUuw__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5449488,
-      2.0876412
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-01T14:27:35.218Z"
+    "dataCaptura": "2026-06-01T14:39:01.696Z"
   }
 ]
