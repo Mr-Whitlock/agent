@@ -1819,15 +1819,7 @@ async function carregarResultats() {
     var dades = await resp.json();
     if (!dades || dades.length === 0) throw new Error('empty');
     window._dadesProduccio = dades;
-    currentResults = dades;
-    currentResults.sort(function(a,b){return b.score-a.score;});
-    document.getElementById('welcomeState').style.display = 'none';
-    var mw = document.querySelector('.mobile-welcome');
-    if (mw) mw.style.display = 'none';
-    document.getElementById('resultsState').style.display = 'flex';
-    var log = document.getElementById('aiLog');
-    if (log) log.innerHTML = '<div class="log-line"><span class="log-ok">✓</span><span style="color:var(--text2)">' + dades.length + ' locals carregats</span></div>';
-    renderResults(currentResults);
+    runSearch();
   } catch(e) {
     window._dadesProduccio = [];
   }
