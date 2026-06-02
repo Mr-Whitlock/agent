@@ -23,7 +23,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de **152m² a bon preu** (700€/mes) en una avinguda principal com Josep Tarradellas, ideal per a una empresa d'electrònica amb presència en peu de carrer. Té **espai suficient** per a 2 persones amb capacitat de creixement i versatilit per a magatzem o exposició de productes.\n\n**Punt feble a verificar:** És imprescindible confirmar la **disponibilitat de subministrament trifàsic i fibra òptica**, ja que són essencials per a aquest tipus de negoci.",
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 152m² ben situat a l'Avinguda Josep Tarradellas amb excel·lent visibilitat i accés al peu de carrer, ideal per a una empresa d'electrònica amb espai versàtil per adaptar-se a diferents necessitats. La renda de 700€/mes és competitiva per la zona i les dimensions del local. **Punt dèbil important:** Falta informació crítica sobre subministraments (trifàsica i fibra óptica són essencials per a aquest sector) i l'alçada no especificada pot limitar instal·lacions.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "5711004344006",
@@ -32,200 +32,10 @@
     "score": 46,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:47.641Z"
+    "dataCaptura": "2026-06-02T21:12:59.096Z"
   },
   {
     "id": 1,
-    "address": "Calle de Sol i Padrís, 103",
-    "district": "Calle de Sol i Padrís, 103",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 780,
-    "m2": 87,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 87m² ben dimensionat per a 2 persones amb excel·lent ubicació a peu de carrer en zona de pas (Sol i Padrís), ideal per a una empresa d'electrònica amb necessitat de visibilitat. Els 3m d'alçada permeten distribució versàtil de l'espai per a magatzem i zona de vendes/taller.\n\n**Punts febles:** Absència de trifàsica és una limitació important per a activitats d'electrònica que requereixen més potència; tampoc té fibra òptica, cosa que pot afectar la connectivitat necessària per a aquest sector.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111612194",
-    "urlAnunci": "https://www.idealista.com/inmueble/111612194/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebgHe1C3cIqHcGCAh6Bgg-PiX3yPWbqMs?Expires=1780519883&Signature=MEYCIQCGGtCvr13oVyiJOxpzi9QbBDH2Li9hwEj99M9hrovLlwIhAM~Lcg2F8-APeg0cQtD7PaET96Gr3jLesEuBLfcp8gNP&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 35,
-    "coords": [
-      41.5364383,
-      2.1193724
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:01.509Z"
-  },
-  {
-    "id": 2,
-    "address": "Carretera de Barcelona, 405",
-    "district": "Carretera de Barcelona, 405",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 620,
-    "m2": 130,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local amb excel·lent ubicació a peu de carrer en via principal (Carretera de Barcelona) amb 130m² versàtils ideals per a mostrador i magatzem, perfecte per a equip petit. El preu de 620€/mes és competitiu per la zona i dimensions.\n\n**Limitacions:** Manca de subministrament trifàsic i fibra òptica pot ser problemàtic per a negoci d'electrònica; l'alçada estàndard (3m) limita emmagatzematge en vertical.\n\n**Verdict:** Opció viable si no necessiteu grans demandes energètiques ni connexió de fibra d'altes prestacions.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111641608",
-    "urlAnunci": "https://www.idealista.com/inmueble/111641608/",
-    "foto": "",
-    "score": 35,
-    "coords": [
-      41.5341084,
-      2.1121276
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:05.853Z"
-  },
-  {
-    "id": 15,
-    "address": "Hostafrancs, Sabadell",
-    "district": "Hostafrancs, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 790,
-    "m2": 70,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 70m² a peu de carrer a Hostafrancs (Sabadell) amb una ubicació accessible i versàtil, ideal per a una petita empresa d'electrònica de 2 persones. Alçada de 3m suficient per a magatzem o taller, i renda assequible de 790€/mes.\n\n**Punts febles a considerar:**\nManca de trifàsica (obstacle important per a electrònica) i absència de fibra òptica (connectivity limitada). Caldria verificar si és viable instal·lar aquestes connexions.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111515322",
-    "urlAnunci": "https://www.idealista.com/inmueble/111515322/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfOBneoCHceHncGCAYIBnqADAyAyPWbqMs?Expires=1780519888&Signature=MEQCIE5DcrWF~ukcIOz-Bgqz7jSIYteQqmdPP8~FVadkHMTnAiBnhigtUdLDAUAZs-HaB9DOpFKcXZf5AqBLBO6gnpfXLA__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 35,
-    "coords": [
-      41.5466545,
-      2.100235
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:02.335Z"
-  },
-  {
-    "id": 21,
-    "address": "Calle de Samuntada, 48 -58",
-    "district": "Calle de Samuntada, 48 -58",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 700,
-    "m2": 78,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local\n\n**Punts forts:** Local de 78m² ben dimensionat per a una petita empresa d'electrònica amb ubicació en pau de carrer a Calle de Samuntada, ideal per captar clients. Malgrat la manca de fibra òptica i trifàsica, l'alçada de 3m és suficient per a magatzem i exposició, amb un lloguer competitiu de 700€/mes.\n\n⚠️ **Punts a millorar:** Caldrà verificar la disponibilitat de connexió de dades alternativa i si la potència elèctrica monofàsica és suficient per als equips necessaris.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "104528684",
-    "urlAnunci": "https://www.idealista.com/inmueble/104528684/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMo3f3Bncl2ncGCPc-Pnr3gCV6yPWbqMs?Expires=1780519890&Signature=MEYCIQD-QhZMKAL96a6DbM12M52h7eTQihI8nXlKbJFpJ5gmmQIhAMUmMtfawDMOgDJr9qJZRtByPjiUjBtrrFmHcL84o2Tr&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 35,
-    "coords": [
-      41.5349983,
-      2.1188214
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:25.755Z"
-  },
-  {
-    "id": 25,
-    "address": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
-    "district": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 95000,
-    "m2": 95,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 95m² en ubicació estratègica a peu de carrer a l'Eixample de Sabadell, ideal per a una petita empresa d'electrònica amb espai versàtil per a dos treballadors. A preu competitiu de 95.000€, ofereix una bona visibilitat comercial i accesibilitat per a clients.\n\n**Limitacions a considerar:** Manca de trifàsica i fibra òptica podrien ser inconvenients segons les necessitats tècniques de l'empresa d'electrònica.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111571081",
-    "urlAnunci": "https://www.idealista.com/inmueble/111571081/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeom3fOo3eADHcGCAglCz4G9wYLyPWbqMs?Expires=1780519892&Signature=MEYCIQCMjVW0dlv~Pr0DYCnX~DAiz-9-mYQiZp7Dj9q8pO-kfwIhAKT~Hea3O7rNNCIyDubDoEqAAMMakNVYBMy8xideOutG&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 35,
-    "coords": [
-      41.5367099,
-      2.117921
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:40.847Z"
-  },
-  {
-    "id": 30,
     "address": "Ca N'Oriac - Can Puiggener, Sabadell",
     "district": "Ca N'Oriac - Can Puiggener, Sabadell",
     "type": "local",
@@ -248,66 +58,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local - Electrònica\n\n**Punts forts:**\nLocal de 76m² en una ubicació de peu de carrer a Sabadell, ideal per a una petita empresa d'electrònica amb espai versàtil per adaptar a mostrador i magatzem. Malgrat la manca de trifàsica i fibra òptica, l'alçada de 3 metres permet flexibilitat en l'organització de l'espai. El preu de 85.000€ és competitiu per a aquesta zona i superfície.\n\n⚠️ **Consideració:** Hauríeu de verificar la disponibilitat de trifàsica (essencial per electrònica) i connectivitat, ja que són limitacions importants per al tipus de negoci.",
+    "notesIA": "# Anàlisi del Local - Electrònica Sabadell\n\n**Punts forts:** Local de 76m² en zona comercial consolidada de Sabadell (Ca N'Oriac) amb ubicació estratègica a peu de carrer, ideal per a una petita empresa d'electrònica de 2 persones. L'espai versàtil permet distribució flexible entre mostrador, taller i emmagatzematge, tot i que l'absència de trifàsica i fibra ràpida són limitacions a considerar pel tipus de negoci.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111613274",
     "urlAnunci": "https://www.idealista.com/inmueble/111613274/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfaCHd62nejencGCAh6Bj56PvcIyPWbqMs?Expires=1780519895&Signature=MEUCIBxOm11OmV6afyU5p7Ob7lx4TM3hENS4dVXS5PWAyQPzAiEA8xEjp0-lQ5VSAWHyox~gjVsCY~wM8qnAlTBpG2PfSpE_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfaCHd62nejencGCAh6Bj56PvcIyPWbqMs?Expires=1780520718&Signature=MEUCIGB4rqGSdLmYxZVozfW73G86aGxp-PHOG5M8ym3BRjBtAiEAzSiL5zjqTQoSfZGrXeBOnd0D703seIwZpyZt6sz2AOk_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 35,
     "coords": [
       41.5750421,
       2.086938
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:01.379Z"
+    "dataCaptura": "2026-06-02T21:06:53.106Z"
   },
   {
-    "id": 34,
-    "address": "Avenida de Barberà, 200",
-    "district": "Avenida de Barberà, 200",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 700,
-    "m2": 60,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 60m² ben dimensionat per a 2 persones amb ubicació privilegiada a peu de carrer a l'Avenida de Barberà, ideal per captar clientela. El preu de 700€/mes és competitiu per la zona i mida.\n\n**Punts febles:** Manca de subministrament trifàsic i connexió de fibra són limitacions importants per a una empresa d'electrònica que podria necessitar tant potència elèctrica com connectivitat ràpida.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111489449",
-    "urlAnunci": "https://www.idealista.com/inmueble/111489449/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcIeneAgHcePncGCPc-BoD3JT73yPWbqMs?Expires=1780519891&Signature=MEUCIQCoDFpJ6H70hti2ewm4YkUuhdDi8shlCk0lsjz5aWbcKgIgQ2LbSV21zVPkYCOZNfAX6m0gL-KkSRe5GD82IX2KrJ4_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 35,
-    "coords": [
-      41.5351309,
-      2.1143724
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:18.500Z"
-  },
-  {
-    "id": 35,
-    "address": "La Plana del Pintor, Sabadell",
-    "district": "La Plana del Pintor, Sabadell",
+    "id": 3,
+    "address": "Calle de Calvet d'Estrella, 39",
+    "district": "Calle de Calvet d'Estrella, 39",
     "type": "local",
     "modalitat": "compra",
-    "preu": 69000,
-    "m2": 78,
+    "preu": 95000,
+    "m2": 95,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -324,22 +96,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 78m² a peu de carrer a La Plana del Pintor, ideal per a dues persones amb espai versàtil per a botiga o showroom. Ubicació comercial destacada amb bona visibilitat, perfecte per captar clients de la zona.\n\n**Limitacions importants:** Absència de trifàsica i fibra òptica són mancances significatives per a una empresa d'electrònica moderna, que precisarien inversió adicional en instal·lacions.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 95m² en ubicació de peu de carrer a Calvet d'Estrella, ideal per a un petit negoci d'electrònica amb dues persones, que ofereix espai versàtil i suficient altura (3m) per a mostrador i emmagatzematge. Però presenta limitacions tècniques importants: manca de trifàsica (necessària per a maquinària elèctrica) i fibra òptica, aspectes crítics per a una empresa moderna d'electrònica.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111084803",
-    "urlAnunci": "https://www.idealista.com/inmueble/111084803/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfODHcGm3fOgHcGCAgGgD4GCAt6yPWbqMs?Expires=1780519897&Signature=MEUCIGbxjBBCPAUwxDA5u0-vJBL~MS1MpCvhUYIc0d0GBnFKAiEAkPeCdmqExqUw7Asure7uMOBo3462bjeCSSyqpRp0PeA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111621882",
+    "urlAnunci": "https://www.idealista.com/inmueble/111621882/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-JXc-CHcGCAh6CAwLgCUlyPWbqMs?Expires=1780520719&Signature=MEYCIQCiX243c7txZW0Z8OI7eew4tE3RlxC8vxzKqaSDSrxbFAIhAIlhFPn94Fl3U5zozXFzcGJt2FfNHnwbIyP9BOcQ3Q7k&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 35,
     "coords": [
-      41.5705495,
-      2.0934975
+      41.5363276,
+      2.1168421
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:22.228Z"
+    "dataCaptura": "2026-06-02T21:07:00.086Z"
   },
   {
-    "id": 36,
+    "id": 9,
     "address": "Ca N'Oriac, Sabadell",
     "district": "Ca N'Oriac, Sabadell",
     "type": "local",
@@ -362,28 +134,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 131m² ben situat a Ca N'Oriac (Sabadell) amb ubicació de peu de carrer ideal per a captació de clientela, perfecte per a una petita empresa d'electrònica de 2 persones amb espai versàtil per a magatzem i showroom. Tot i que manca trifàsica i fibra òptica, el preu de 99.900€ en venda i l'alçada de 3m ofereixen bones oportunitats d'adaptació segons necessitats del negoci.",
+    "notesIA": "# Anàlisi del local - Ca N'Oriac, Sabadell\n\n**Punts forts:** Local de 131m² en venda a peu de carrer, ideal per a una petita empresa d'electrònica amb espai versàtil per a magatzem i vendes. **Punts dèbils:** Manca de trifàsica i fibra òptica són limitacions importants per a negoci electrònic modern, i l'alçada de 3m és justos per a béns voluminosos.\n\n**Verdict:** Oportunitat interessant per a preu, però requereix verificar si es pot instal·lar trifàsica i connexió de dades de qualitat.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111596564",
     "urlAnunci": "https://www.idealista.com/inmueble/111596564/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfa2nc-JXeogHcGCAgGDIAICAiAyPWbqMs?Expires=1780519897&Signature=MEQCID-Drx3PpHnKdX6Me3pRvvDQtQpNFG6oL9P7mDhUngbGAiB-AdHYP4ImHBChKtoWh5L4Z1hEz4LrwDN4RFtM3twh5g__&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfa2nc-JXeogHcGCAgGDIAICAiAyPWbqMs?Expires=1780520721&Signature=MEUCIQC84CTZdsxzcQQpy8Y3PWrE0rYVkm75-NrOa7wkLpCXuQIgTrOSElfaFd4-RIt0VS7~8l~weoLaVOJgTRAA6P1Z9Rs_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 35,
     "coords": [
       41.5664568,
       2.0903367
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:25.671Z"
+    "dataCaptura": "2026-06-02T21:07:24.635Z"
   },
   {
-    "id": 41,
-    "address": "Calle de Calvet d'Estrella, 39",
-    "district": "Calle de Calvet d'Estrella, 39",
+    "id": 10,
+    "address": "La Plana del Pintor, Sabadell",
+    "district": "La Plana del Pintor, Sabadell",
     "type": "local",
     "modalitat": "compra",
-    "preu": 95000,
-    "m2": 95,
+    "preu": 69000,
+    "m2": 78,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -400,60 +172,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:**\nLocal de 95m² ben dimensionat a peu de carrer en zona accessible, ideal per a una petita empresa d'electrònica amb dues persones. Preu competitiu de 95.000€ i espai versàtil que permet distribuir zones de vendes, reparacions o magatzem segons les necessitats.\n\n**Punt feble a considerar:**\nManca de trifàsica i fibra òptica podria ser una limitació; caldria verificar disponibilitat a la zona i costos de connexió, especialment si la feina requereix equipament que demandi més potència elèctrica.",
+    "notesIA": "# Anàlisi del Local - Electrònica\n\n**Punts forts:**\nLocal de **78m² a peu de carrer a La Plana del Pintor** (zona comercial de Sabadell) amb **preu competitiu de 69.000€** i alçada suficient per a instal·lacions. Espai versàtil ideal per a 2 persones amb accés directe al públic.\n\n**Limitació principal:** Manca de trifàsica i fibra, aspectes rellevants per a una empresa d'electrònica moderna que potser requereixi instal·lacions elèctriques robustes i connexió ràpida.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111621882",
-    "urlAnunci": "https://www.idealista.com/inmueble/111621882/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-JXc-CHcGCAh6CAwLgCUlyPWbqMs?Expires=1780519899&Signature=MEUCICnlq0e81UDWs98vlL9PlC0aFlNhwxtqXHeKBiLOHc3OAiEAm-GBBRFjdrpCNt0jzf9B4QOEvxxsAAMSDrIy~gvoiHA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111084803",
+    "urlAnunci": "https://www.idealista.com/inmueble/111084803/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfODHcGm3fOgHcGCAgGgD4GCAt6yPWbqMs?Expires=1780520721&Signature=MEQCICmgomxdmIveo~fJVV-DXS8B2wmiUPXjOrCEbcVC2MuHAiAMdEMPybh8r-YutZ2sZpbiBFiA8lOkbgomUncpv9FZbQ__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 35,
     "coords": [
-      41.5363276,
-      2.1168421
+      41.5705495,
+      2.0934975
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:45.184Z"
+    "dataCaptura": "2026-06-02T21:07:28.534Z"
   },
   {
-    "id": 46,
-    "address": "Calle de Calvet d'Estrella, 39",
-    "district": "Calle de Calvet d'Estrella, 39",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 95000,
-    "m2": 95,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local - Electrònica\n\n**Punts forts:**\nLocal de 95m² en planta baixa a Calvet d'Estrella amb ubicació de peu de carrer ideals per atraure clientela, perfecte per a equip petit d'electrònica amb espai versàtil per a tenda, magatzem i oficina. L'alçada de 3m permet instal·lacions verticals, tot i que cal tenir en compte les limitacions tècniques: manca energia trifàsica (requisit per maquinària pesada) i fibra òptica (accés internet estàndard). A preu competitiu de 95.000€ en venda.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111572633",
-    "urlAnunci": "https://www.idealista.com/inmueble/111572633/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAqHcIDHebJXcGCAgGDHr3gAwLyPWbqMs?Expires=1780519902&Signature=MEUCIQCOq5sIidt~MK6o~zs3~FssexKIYXqw7tdu7gxh1cf1PwIgM~DBKe9I2StTbEFyOqbw53SKxefuzVBPcK7W9EOlSZk_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 35,
-    "coords": [
-      41.5363276,
-      2.1168421
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:05.069Z"
-  },
-  {
-    "id": 48,
+    "id": 16,
     "address": "La Concòrdia - Can Rull, Sabadell",
     "district": "La Concòrdia - Can Rull, Sabadell",
     "type": "local",
@@ -476,19 +210,323 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 92m² en ubicació de peu de carrer a La Concòrdia ideal per a petit equip, amb alçada suficient (3m) per instal·lacions electròmèques. Preu competitiu de 82.000€ en propietat i espai versàtil que permet flexibilitat de distribució.\n\n**Limitacions:** Manca de trifàsica i fibra podrien requerir inversions addicionals segons les necessitats tècniques de l'empresa.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\n\nAquest local de 92m² al cor comercial de Can Rull ofereix una ubicació estratègica a peu de carrer ideal per a captar clientela, amb un preu competitiu de 82.000€ que permet amortitzar la inversió ràpidament. L'espai versàtil és suficient per a una petita empresa d'electrònica amb 2 persones, combinant zona de vendes i emmagatzematge. \n\n**Punts febles a considerar:** La manca de subministrament trifàsic pot limitar la capacitat de funcionament de certs equips (reparació, proves electròniques) i l'absència de fibra óptica podria afectar la velocitat de connexió necessària per a gestió i logística moderna.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111571022",
     "urlAnunci": "https://www.idealista.com/inmueble/111571022/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1o3f3znf3C3cGCAglCws-JYAGyPWbqMs?Expires=1780519902&Signature=MEUCIDQFTRqRE~yVLp7XXku6aH95m44s~4Hy7ZztTgOkUouKAiEA-k5lMOURVJQZrn4O4ZclMGyMHXjWtqcy6tH1xAd--co_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1o3f3znf3C3cGCAglCws-JYAGyPWbqMs?Expires=1780520723&Signature=MEYCIQD3xRFnkvl4eUhTVVv-arPRxVlnqx3x2SjubBu~kReRfAIhAO0efhZfI6QhBaYIeEOJhw7y6~sYKSchPHRTdWe4BWCK&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 35,
     "coords": [
       41.557367,
       2.0868467
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:11.866Z"
+    "dataCaptura": "2026-06-02T21:07:52.198Z"
+  },
+  {
+    "id": 18,
+    "address": "Calle de Calvet d'Estrella, 39",
+    "district": "Calle de Calvet d'Estrella, 39",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 95000,
+    "m2": 95,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:**\nLocal de 95m² ben ubicat al peu de carrer (Calle de Calvet d'Estrella) ideal per a una petita empresa d'electrònica amb 2 persones, oferint espai versàtil per a mostra, vendes i magatzem. L'alçada de 3m és suficient per a instal·lacions i l'estoc, tot i que caldrà tenir en compte que **manca connexió trifàsica i fibra**, aspectes importants per a l'activitat electrònica.\n\n**Consideració:** Seria essencial verificar si es pot contractar subministrament trifàsic per a maquinària i si la fibra s'hi pot instal·lar, ja que són infraestructures clau per al sector.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111569138",
+    "urlAnunci": "https://www.idealista.com/inmueble/111569138/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejJXej2nd693cGCAglCwYlPnolyPWbqMs?Expires=1780520724&Signature=MEYCIQCI8wDr18~Qdjj6IRWyTKLO5Laj8vathtwbz-sKi27KCwIhAMFDdI2jftee7r7JYSbMQMy-jbxnRtyithYI2dXRzqqR&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5363276,
+      2.1168421
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:00.210Z"
+  },
+  {
+    "id": 19,
+    "address": "Calle de Calvet d'Estrella, 39",
+    "district": "Calle de Calvet d'Estrella, 39",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 95000,
+    "m2": 95,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 95m² en planta baixa a Calvet d'Estrella, ideal per a empresa d'electrònica de dues persones amb accés directe a peu de carrer. Espai versàtil que permet distribuir àrea de vendes, magatzem i tallers de reparació, amb alçada suficient (3m) per a instal·lacions. \n\n**Punts febles a considerar:** Manca de trifàsica (limitació per a maquinaria pesada) i absència de fibra òptica (inconvenient per a connectivitat).",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111572633",
+    "urlAnunci": "https://www.idealista.com/inmueble/111572633/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAqHcIDHebJXcGCAgGDHr3gAwLyPWbqMs?Expires=1780520724&Signature=MEUCIQC5zGu1WN7b43EpuzMrCvqWjcW624oMopOXknk8cuLSPQIgYwrzPjG7xFQ~Gwl-bDh7H0OYUbCbIt8ZGw6uEPUWhPU_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5363276,
+      2.1168421
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:03.910Z"
+  },
+  {
+    "id": 20,
+    "address": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
+    "district": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 95000,
+    "m2": 95,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\n\nAquest local de 95m² ubicat en una avinguda principal de l'Eixample sabadellenc ofereix una **excel·lent visibilitat i accés de peu de carrer**, ideal per a una empresa d'electrònica que necessiti atraure clientela. L'espai versàtil permet adaptar-se a diferents distribucions (vendes, taller, magatzem), tot i que cal tenir en compte que **manca connexió trifàsica i fibra**, aspectes que podrien requerir inversions addicionals segons les necessitats operatives. El preu de 95.000€ és competitiu per la zona i l'alçada de 3m permet instal·lacions flexibles.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111578114",
+    "urlAnunci": "https://www.idealista.com/inmueble/111578114/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1DHcGDHcLJXcGCAgGJXoGBgajyPWbqMs?Expires=1780520724&Signature=MEUCIQDid6LqSGPMJdNFBY~8nOPNIXpG4vvY8b1JIJ4ifsTVkgIgIGIfSdk4HrBKNRwNRf-0o5McBzcTs~4p8wJNHlHuI0o_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5350148,
+      2.1161284
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:07.854Z"
+  },
+  {
+    "id": 25,
+    "address": "Calle d'Antonio Vico no number",
+    "district": "Calle d'Antonio Vico no number",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 89000,
+    "m2": 140,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 140m² en ubicació de peu de carrer ideal per a una petita empresa d'electrònica, amb espai versàtil suficient per a dues persones i exhibició de productes. El preu de 89.000€ és competitiu per la metratge i ubicació comercial.\n\n**Limitacions importants:** Manca de connexió trifàsica i fibra òptica són inconvenients significatius per a una empresa d'electrònica moderna, i l'alçada de 3m pot ser insuficient per a certs equipaments o estanteries.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111558337",
+    "urlAnunci": "https://www.idealista.com/inmueble/111558337/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLm3ejenfOC3cGCAglCAb3Pgs-yPWbqMs?Expires=1780520726&Signature=MEQCIA69B19zmtPBn6eCE8GEZCNRtZrLjA8FptddOpVYwEOfAiATkpr4oawIAvT6j4FAz95C0Av4tg7N30Qqt9lA9lCVEA__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5493863,
+      2.0863853
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:28.581Z"
+  },
+  {
+    "id": 33,
+    "address": "Calle de Calvet d'Estrella, 39",
+    "district": "Calle de Calvet d'Estrella, 39",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 95000,
+    "m2": 95,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Análisi del Local - Electrònica\n\n**Punts forts:**\nLocal amb excel·lent ubicació a peu de carrer a Calvet d'Estrella, ideal per a una petita empresa d'electrònica amb bones dimensions (95m²) i altura suficient per a instal·lacions. Però presenta limitacions tècniques importants: **manca subministrament trifàsic i connexió de fibra**, factors crítics per a un negoci d'electrònica moderna que poden encareixer significativament l'arranjament inicial.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "110910214",
+    "urlAnunci": "https://www.idealista.com/inmueble/110910214/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejzneAHnfaDHcGCAglDIAGDHo-yPWbqMs?Expires=1780520729&Signature=MEUCIQD~EwIf1mdWGW35sxrL-L~B4CNWDGOmJcFiIgEkjzfsggIgTrVoE-jumhy7U5yd99tM45pURtiaSJPjUftRbNqU9g4_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5363276,
+      2.1168421
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:58.211Z"
+  },
+  {
+    "id": 35,
+    "address": "Gràcia, Sabadell",
+    "district": "Gràcia, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 94000,
+    "m2": 65,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anunci Local - Electrònica, Gràcia, Sabadell\n\n**Punts forts:** Local de 65m² en zona Gràcia amb excel·lent ubicació a peu de carrer, ideal per a una petita empresa d'electrònica de 2 persones amb espai versàtil. L'alçada de 3 metres permet instal·lacions flexibles, tot i que caldria verificar les connexions de subministrament (no disposa de trifàsica ni fibra òptica disponibles). A 94.000€ de venda, representa una bona oportunitat per consolidar un negoci propi en una zona comercial activa.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111292808",
+    "urlAnunci": "https://www.idealista.com/inmueble/111292808/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXceDHejgHeb93cGCPcGgPcGJSV6yPWbqMs?Expires=1780520730&Signature=MEUCIBSe7Juhm-r8icPHEmjpWTrGE6QE-Pn4XXTyCyca9IZ8AiEAr9T4Ns0OwxNGZGZUDNqETs3fdgNGWpoBE0oEMYyQBQE_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.532391,
+      2.1084425
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:05.505Z"
+  },
+  {
+    "id": 41,
+    "address": "Calle de la Saboneria, 50",
+    "district": "Calle de la Saboneria, 50",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 90000,
+    "m2": 83,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:**\nLocal de 83m² ben dimensionat al peu de carrer de la Saboneria, ideal per a una petita empresa d'electrònica amb espai versàtil per a mostra, magatzem i tallers. Preu competitiu de 90.000€ en venda directa que ofereix estabilitat i patrimoni propi, perfecte per a dos emprenedors que busquen seu fixa.\n\n**Limitacions:** Manca de subministrament trifàsic i fibra òptica, aspectes que pot requerir inversió addicional en instal·lacions segons les necessitats específiques de l'empresa.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111444456",
+    "urlAnunci": "https://www.idealista.com/inmueble/111444456/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAenclJXd6tXcG9z4MeqMIJQs-yPWbqMs?Expires=1780520734&Signature=MEUCICweh5HLYdIvHfnar56mV3Qq9DIAg13UzVkuS3KFIZI6AiEAiKy8KFoZm3nxLQvqIVyIkNSGAV-BOV7GckhXtFTdyJ0_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5280693,
+      2.1203176
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:29.148Z"
+  },
+  {
+    "id": 46,
+    "address": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
+    "district": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 95000,
+    "m2": 95,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local per a empresa d'electrònica\n\n**Punts forts:**\nLocal comercial de 95m² en ubicació privilegiada a peu de carrer a l'Eixample de Sabadell, ideal per a petita empresa d'electrònica amb espai versàtil per a botiga i magatzem. Preu competitiu de 95.000€ amb alçada suficient (3m) per a instal·lacions, encara que cal considerar que no disposa de connexió trifàsica ni fibra òptica, aspectes importants per a aquest sector.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111571081",
+    "urlAnunci": "https://www.idealista.com/inmueble/111571081/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeom3fOo3eADHcGCAglCz4G9wYLyPWbqMs?Expires=1780520731&Signature=MEQCIFEYWXab-KT8Hybl-9rkVay-bjeLxhEpP6t10Rr5AmHmAiAzkiq3uRavl3xgnTIZmW7NuJGTYn-6hSkkWovmG3PkLg__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 35,
+    "coords": [
+      41.5367099,
+      2.117921
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:47.895Z"
   },
   {
     "id": 69,
@@ -514,7 +552,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 69m² a Vía Aurèlia ofereix una ubicació excel·lent a peu de carrer prop de l'Eix Macià, ideal per a captar clientela i amb un preu competitiu de 790€/mes. L'espai és versàtil i adequat per a un equip de 2 persones, amb la possibilitat de combinar vendes i petit taller. Però s'ha de verificar urgentment la disponibilitat de trifàsica i fibra óptica, factors crítics per a una empresa d'electrònica.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 69m² en ubicació excel·lent a la Vía Aurèlia, a peu de carrer i molt a prop de l'Eix Macià, és ideal per a una empresa d'electrònica amb equip reduït per desenvolupar una activitat mixta (venda/serveis) a un preu competitiu de 790€/mes. Destaca la versatilitat de l'espai, suficient per a 2 persones, amb accés directe al carrer que facilita l'atenció al públic.\n\n**Però:** La falta d'informació sobre instal·lacions trifàsica i fibra és un **punt negre important** que caldria verificar urgentment, ja que ambdues són essencials per a negocis d'electrònica.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "587004232791",
@@ -523,7 +561,7 @@
     "score": 35,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:07.845Z"
+    "dataCaptura": "2026-06-02T21:12:12.976Z"
   },
   {
     "id": 70,
@@ -549,7 +587,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 80m² en ubicació de peu de carrer a Pi i Margall amb un preu competitiu (780€/mes) ideal per a dues persones d'una empresa d'electrònica. Però presenta **limitacions crítiques**: no especifica si té trifàsica (essencial per a electrònica), ni fibra disponible, i l'alçada de 0m és sospitosament incorrecta.\n\n⚠️ **Recomanació:** Contactar urgentment per confirmar instal·lacions elèctriques i de connectivitat, ja que són aspectes vitals per a aquest tipus de negoci.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 80m² ben situat a peu de carrer a Pi i Margall 36, ideal per a una empresa d'electrònica de dues persones amb un lloguer competitiu de 780€/mes. Espai versàtil que permet combinar botiga i tallers.\n\n**Punts febles a verificar:**\n⚠️ Informació incompleta: No especifica si té trifàsica (essencial per electrònica), connexió de fibra, ni alçada de sostre. Serà crucial confirmar aquestes dades tècniques.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "2710004303997",
@@ -558,7 +596,7 @@
     "score": 35,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:13.991Z"
+    "dataCaptura": "2026-06-02T21:12:19.286Z"
   },
   {
     "id": 74,
@@ -584,7 +622,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local esquinero en Via Aurèlia amb excel·lent visibilitat de peu de carrer, 69m² versàtils ideals per a una petita empresa d'electrònica. L'ubicació privilegiada i el preu competitiu de 790€/mes en fan una opció interessant.\n\n**Punts dèbils:** Les connexions de trifàsica i fibra estan sense definir, aspectes crítics per a negocis de tecnologia que requereixen subministrament elèctric potent i connectivitat robusta.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal esquinero a Via Aurèlia amb excel·lent visibilitat de peu de carrer (prioritat de l'empresa), 69m² versàtils ideals per a 2 persones amb un lloguer competitiu de 790€/mes. No obstant, presenta **limitacions importants**: falta informació crucial sobre trifàsica i fibra (essencials per a electrònica), i l'alçada 0m sembla errada o indica problemes d'accés.\n\n**Recomanació:** Contactar per clarificar les instal·lacions elèctriques i de connectivitat, imprescindibles per al negoci.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "19039003221636",
@@ -593,7 +631,7 @@
     "score": 35,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:36.408Z"
+    "dataCaptura": "2026-06-02T21:12:45.591Z"
   },
   {
     "id": 80,
@@ -619,7 +657,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 90m² a peu de carrer al Carrer de Quintana amb un preu competitiu de 600€/mes, ideal per a una petita empresa d'electrònica per la seva estructura versàtil de nau industrial que permet tant despatx com activitats diverses.\n\n**Punts febles:** L'anunci presenta informació incompleta i preocupant (alçada 0m, subministraments elèctrics i fibra sense especificar), que cal verificar urgentment ja que la trifàsica és essencial per a electrònica i l'alçada real és crucial per avaluar la viabilitat del local.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts destacats:**\n\nLocal de 90m² en peu de carrer del Carrer de Quintana amb un preu molt competitiu de 600€/mes, perfecte per a una petita empresa d'electrònica amb espai versàtil per a despatx i activitats. Tot i això, cal verificar amb el propietari la disponibilitat de trifàsica i fibra òptica, així com confirmar l'alçada útil del local, que apareix sense especificar.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4212004418245",
@@ -628,7 +666,7 @@
     "score": 35,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:09.661Z"
+    "dataCaptura": "2026-06-02T21:13:25.119Z"
   },
   {
     "id": 81,
@@ -654,7 +692,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci: Local comercial Terrassa\n\n**Punts forts:**\nLocal de 94 m² en venda a Terrassa amb excel·lent ubicació a peu de carrer i proximitat al transport públic (94m de l'autobús), ideal per a una petita empresa d'electrònica de 2 persones amb espai versàtil. Preu competitiu de 93.500€ que facilita la inversió inicial. **Aspecte a verificar:** caldria confirmar disponibilitat de trifàsica i fibra òptica, essencials per al sector electrònic.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\n\nAquest local comercial a Terrassa ofereix una **ubicació estratègica a peu de carrer amb excel·lent accessibilitat** (94m de la parada de bus), ideal per atraure clientela. Els **94m² de superfície permeten una distribució versàtil** adaptada tant per a mostrador com per a magatzem, perfecte per a una empresa de 2 persones. El **preu de 93.500€ és competitiu** per a la zona, tot i que cal verificar disponibilitat de subministraments trifàsic i fibra òptica.\n\n⚠️ **Observació:** Falta informació crítica sobre trifàsica i fibra que caldria confirmar amb l'agent.",
     "comentaris": "",
     "portal": "Espai Propi",
     "ref": "V-LOCAL-TERRA",
@@ -663,7 +701,7 @@
     "score": 35,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:15.014Z"
+    "dataCaptura": "2026-06-02T21:13:33.849Z"
   },
   {
     "id": 83,
@@ -689,7 +727,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 65m² ben dimensionat per a dues persones amb ubicació en planta baixa (peu de carrer), ideal per atraure clientela de pas, a un preu competitiu de 550€/mes. Tot i que falten especificacions sobre instal·lacions (trifàsica i fibra), les dimensions i localització el fan versàtil per adaptar-se a diferents models de negoci d'electrònica.\n\n**Recomanació:** Clarificar amb el contacte (Sergi Gil - 684 791 618) l'estat de les instal·lacions elèctriques i de connectivitat, essencials per a aquest sector.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 65m² en planta baixa ofereix una ubicació ideal amb accés directe al carrer a un preu molt competitiu (550€/mes), perfecte per a una petita empresa d'electrònica de 2 persones que prioritza la visibilitat. L'espai versàtil permet adaptar-se tant a vendes com a reparacions, tot i que caldria confirmar la disponibilitat de trifàsica i fibra òptica amb el propietari.",
     "comentaris": "",
     "portal": "Espai Propi",
     "ref": "26259169",
@@ -698,7 +736,7 @@
     "score": 35,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:26.321Z"
+    "dataCaptura": "2026-06-02T21:13:41.097Z"
   },
   {
     "id": 84,
@@ -724,7 +762,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local per a Electrònica\n\n**Punts forts:**\n\nLocal de 77 m² amb ubicació estratègica a peu de carrer a Sabadell (Can Rull), ideal per a una empresa d'electrònica de dues persones amb renda assequible de 650€/mes. L'espai versàtil permet adaptar-se tant a showroom com a zona de reparació, tot mantenint visibilitat directa dels clients. Preu de compra competitiu (62.000€) que facilita la inversió inicial si es valora l'opció de propietat.\n\n**Observació important:** Caldria verificar la disponibilitat de subministrament trifàsic (essencial per a electrònica) i la cobertura de fibra, ja que apareixen com \"undefined\" a l'anunci.",
+    "notesIA": "# Anàlisi del Local - Electrònica Sabadell\n\n**Punts forts:**\n\nAquest local de 77 m² en peu de carrer a Sabadell (Can Rull) és ideal per a una empresa d'electrònica de 2 persones, amb un preu molt competitiu de 650€/mes i espai versàtil que permet combinar venda i oficina. L'accés directe a la via pública facilita captació de clients, essencial per al sector de retail. Però, és crítica la falta d'informació sobre subministrament trifàsic i fibra òptica – punts essencials per a electrònica.",
     "comentaris": "",
     "portal": "API GS",
     "ref": "29204010",
@@ -733,86 +771,10 @@
     "score": 35,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:32.160Z"
+    "dataCaptura": "2026-06-02T21:13:47.561Z"
   },
   {
-    "id": 9,
-    "address": "Calle de Sòcrates, 46",
-    "district": "Calle de Sòcrates, 46",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 950,
-    "m2": 110,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Análisi del local d'electrònica\n\n**Punts forts:**\nLocal de 110m² en ubicació privilegiada a peu de carrer (Calle Sòcrates, 46) amb alçada de 3m, ideal per a una petita empresa d'electrònica de 2 persones, a un preu competitiu de 950€/mes. L'espai versàtil permet adaptar-se a diferents necessitats de vendes i magatzem. \n\n**Punt feble a considerar:** Manca de subministrament trifàsic i connexió de fibra òptica, aspectes importants per a empreses d'electrònica modernes.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111590055",
-    "urlAnunci": "https://www.idealista.com/inmueble/111590055/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6JXd62nd62ncGCAgG9z4-Cz6jyPWbqMs?Expires=1780519885&Signature=MEUCIDVwijim1YxbkU1FYEXdeYrEzVTowYxPSQvXe~z5EN3lAiEApEiX7OzjQbKSUmtJwlG5xcA2mf7gjvJVTOlMIRVN-7s_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 27,
-    "coords": [
-      41.5565115,
-      2.0837001
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:36.896Z"
-  },
-  {
-    "id": 17,
-    "address": "Sabadell, Barcelona",
-    "district": "Sabadell, Barcelona",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 900,
-    "m2": 81,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 81m² a peu de carrer a Sabadell amb bon preu (900€/mes) i alçada adequada per a magatzem o exposició. **Punts febles:** Manca subministrament trifàsic i connexió de fibra, aspectes crítics per a una empresa d'electrònica moderna que necessitaria potència elèctrica i connectivitat d'alt rendiment.\n\n**Recomanació:** Interessant per al concepte, però caldria verificar si es pot instal·lar trifàsica i fibra antes de confirmar, ja que són limitacions importants per al sector.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111540262",
-    "urlAnunci": "https://www.idealista.com/inmueble/111540262/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoC3clCHfaC3cGCPeAPqN6BnqAyPWbqMs?Expires=1780519888&Signature=MEUCIB2R3mdJaHsd-yVIVmAiEEpelrhq-~EZcl1vX-VdGd2kAiEAjWv2MVHVHCjlqfy2xv1X5kr0rMDferCsxJS3U~JF7nQ_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 27,
-    "coords": [
-      41.5525818,
-      2.1067949
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:10.006Z"
-  },
-  {
-    "id": 40,
+    "id": 8,
     "address": "La Concòrdia, Sabadell",
     "district": "La Concòrdia, Sabadell",
     "type": "local",
@@ -835,19 +797,19 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Análisi de l'Anunci\n\n**Punts forts:**\nAquest local de 75m² al peu de carrer de La Concòrdia és ideal per a una empresa d'electrònica de dues persones, amb un espai versàtil que permet distribució flexible entre zona de vendes i magatzem. L'alçada de 3 metres ofereix bona circulació i aprofitament vertical. Per contra, cal tenir en compte que manca electricitat trifàsica i connexió de fibra, aspectes rellevants per a negocis tecnològics.",
+    "notesIA": "# Anàlisi del local - Sabadell\n\n**Punts forts:** Local de 75m² en planta baixa a La Concòrdia amb excel·lent visibilitat de carrer, ideal per a petita empresa d'electrònica amb espai versàtil per a exposició i oficina. Preu competitiu de 118.000€ en venda, perfecte per a invertir en propietat.\n\n**Limitacions:** Falta trifàsica i fibra òptica, requisits importants per a negoci tecnològic; caldria verificar possibilitat de contractació.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111595913",
     "urlAnunci": "https://www.idealista.com/inmueble/111595913/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMJXejtXcem3cGCAj3JQj3owgGyPWbqMs?Expires=1780519898&Signature=MEUCIQDpBZWLZvrpFP7h5ZGjmG41FGiH~s5ZlNzbKQfSPDLi-gIgamYDd~1yyFECxMacrrJ9SRec13ydsTrUmlvL7eD0frI_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMJXejtXcem3cGCAj3JQj3owgGyPWbqMs?Expires=1780520720&Signature=MEQCIG4hAo7Su8IHfZD0G2Jmy2YcWuq-s0YlAFm3MzHNvLPoAiAQW8Mbn9~AyhEVDsTByMR6w9CHA9MRDSeZFcF3c1Hg0A__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 27,
     "coords": [
       41.5588099,
       2.0931093
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:41.392Z"
+    "dataCaptura": "2026-06-02T21:07:20.573Z"
   },
   {
     "id": 72,
@@ -873,7 +835,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 95m² ben situat al centre de Sabadell a un preu competitiu (950€/mes) que ofereix espai versàtil ideal per a una petita empresa d'electrònica. Ubicació de peu de carrer prioritari que facilita la visibilitat i l'accés de clients.\n\n**Punts febles a verificar:**\nFalta informació crítica sobre subministraments (trifàsica i fibra òptica no especificades) que són essencials per a activitats d'electrònica, i no indica l'alçada del local.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 95m² ben ubicat al centre de Sabadell amb un preu competitiu de 950€/mes, ideal per a una petita empresa d'electrònica amb espai versàtil per adaptar-se a necessitats de mostra i oficina. La ubicació de peu de carrer en zona cèntrica garanteix visibilitat i accessibilitat per als clients.\n\n**Punts febles:**\nL'anunci manca informació crítica sobre subministraments (electricitat trifàsica i fibra òptica no especificats) i alçada del local, dades essencials per valorar la viabilitat tècnica per a negoci d'electrònica.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "41961000000038",
@@ -882,86 +844,10 @@
     "score": 27,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:26.229Z"
+    "dataCaptura": "2026-06-02T21:12:33.183Z"
   },
   {
-    "id": 6,
-    "address": "Ronda de Zamenhof, 149",
-    "district": "Ronda de Zamenhof, 149",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1450,
-    "m2": 91,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anunci Local - Ronda de Zamenhof, 149\n\n**Punts forts:**\nLocal de 91m² en planta baixa (peu de carrer) ideal per a una petita empresa d'electrònica amb espai versàtil per a mostrador i magatzem. Però presenta limitacions importants: **falta de connexió trifàsica i fibra òptica**, que són recursos crítics per a aquest sector, i l'alçada de 3m pot ser insuficient per a certs equips. La **renda de 1.450€/mes és competitiva** pel barri, però caldria verificar la viabilitat tècnica.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111600558",
-    "urlAnunci": "https://www.idealista.com/inmueble/111600558/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd693fOo3ceDHcGCAgGC_cIDAwGyPWbqMs?Expires=1780519884&Signature=MEYCIQClT10cu3ug71zPE7GjvuvsOdAZ6E3bPUOH0lWTBIRXOgIhAPtAbAskJrEHN1WsmpsXHlEsUiTJucV0qYLWurikqpqp&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 21,
-    "coords": [
-      41.5503094,
-      2.0999096
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:21.792Z"
-  },
-  {
-    "id": 27,
-    "address": "Centre, Sabadell",
-    "district": "Centre, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1400,
-    "m2": 65,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:**\nLocal versàtil de 65m² en zona centre de Sabadell amb excel·lent visibilitat de peu de carrer, ideal per a petita empresa d'electrònica amb dues persones. L'alçada de 3m permet instal·lacions flexibles i la renda de 1400€/mes és competitiva per a la ubicació.\n\n**Punts febles:**\nManca de connexió trifàsica i fibra òptica pot ser limitant per a negoci d'electrònica que requereix més potència elèctrica i connexió ràpida.\n\n**Valoració:** 6.5/10 - Bon potencial comercial però caldria verificar la possibilitat d'instal·lar trifàsica i fibra.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111443313",
-    "urlAnunci": "https://www.idealista.com/inmueble/111443313/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebBneACHeotXcGCPejCwYMCCX3yPWbqMs?Expires=1780519892&Signature=MEUCIQChk55laK2pmYVJyFOYz50ERUzWdRkVJWU7OSteSgR2IQIgOsbrKKQHJqCHd4iBaFaFqErvZW4MG4E8YBf5xjRUEPI_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 21,
-    "coords": [
-      41.5465201,
-      2.1109657
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:49.227Z"
-  },
-  {
-    "id": 31,
+    "id": 11,
     "address": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
     "district": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
     "type": "local",
@@ -984,22 +870,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nAquest local de 82m² a peu de carrer a l'Eixample de Sabadell ofereix excel·lent visibilitat comercial i és ideal per a una petita empresa d'electrònica de 2 persones, amb una alçada de 3m suficient per instal·lacions estàndard. Però presenta **limitacions importants**: manca de subministrament trifàsic (essencial per a electrònica) i absència de fibra òptica dificulten les operacions tècniques i de connectivitat.\n\n**Recomendació:** Verificar prèviament la viabilitat de contractar aquests serveis avant de formalitzar la compra, ja que són crítics per al negoci.",
+    "notesIA": "# Análisi del local d'electrònica\n\n**Punts forts:**\n\nAquest local de **82m² al peu de carrer de l'Eixample de Sabadell** és ideal per a una petita empresa d'electrònica gràcies a la seva **ubicació privilegiada amb visibilitat** i accés directe per als clients. L'**alçada de 3 metres i l'espai versàtil** permeten distribuir la zona de vendes i magatzem de forma flexible. **A preu de 180.000€**, representa una bona oportunitat d'inversió en zona comercial consolidada, tot i que caldria verificar la possibilitat d'instal·lar trifàsica i fibra òptica per a operacions modernes.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111610814",
     "urlAnunci": "https://www.idealista.com/inmueble/111610814/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoo3ejJXe1gHcGCAh6BiUG9wwMyPWbqMs?Expires=1780519895&Signature=MEYCIQC643PwSktCh~256UCE2JogbGU9bZYF6smAc1CH~fgEkAIhAPiyFr74-rqy4Zx978Ce1Sy1xeau4TysmAUHn4WEa11Y&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoo3ejJXe1gHcGCAh6BiUG9wwMyPWbqMs?Expires=1780520721&Signature=MEUCIA3~swKDplysl7ImH2eAcE6mLQg3eu73G8mX~EFfYYnoAiEAlIwsmXlCNTnXCHIGIMGCFn3mGAYDlDEHb6Vu6DvNl5o_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 21,
     "coords": [
       41.5270255,
       2.1204034
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:05.538Z"
+    "dataCaptura": "2026-06-02T21:07:32.613Z"
   },
   {
-    "id": 47,
+    "id": 15,
     "address": "Calle de Clemència Isaura, 8",
     "district": "Calle de Clemència Isaura, 8",
     "type": "local",
@@ -1022,19 +908,133 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 111m² en ubicació privilegiada a peu de carrer a Clemència Isaura, ideal per a una petita empresa d'electrònica amb espai versàtil per a venda i reparació. Disposa d'alçada suficient (3m) i un preu de venda competitiu (190.000€), tot i que presenta limitacions en infraestructures tècniques (sense trifàsica ni fibra) que requeriran valoració segons les necessitats específiques de l'activitat.",
+    "notesIA": "# Anàlisi de l'espai per a empresa d'electrònica\n\n**Punts forts:**\nLocal de 111m² en **planta baixa (pie de calle)** ideal per a dos treballadors amb ampla **visibilitat i accessibilitat** als clients. Espai versàtil amb **3 metres d'alçada** que permet adaptar-se a diferents funcions (mostra, magatzem, oficina), tot i que **manca connexió trifàsica i fibra**, limitacions a resoldre si es necessita maquinària pesada o connectivitat avançada.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111575878",
     "urlAnunci": "https://www.idealista.com/inmueble/111575878/",
-    "foto": "https://img4.idealista.com/s/v1/2rv6QcEy-cuQdXf-iXeAm13Gd1k6LQgld1rIdXX8iZCyyEgHqGnBZsgy4s5om8jizmbkm8F3tSV3gLV3mwh3BggIJYAIJQh6C8j1m6jL?Expires=1780519902&Signature=MEUCIQDucIehJ5SfanTeN4MxCYxAYM2vxUa3z9zqwxooScr8SwIgDK9crg47fcZpGDaF45JazvCMk0skSJEKJG0efhhHveI_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/2rv6QcEy-cuQdXf-iXeAm13Gd1k6LQgld1rIdXX8iZCyyEgHqGnBZsgy4s5om8jizmbkm8F3tSV3gLV3mwh3BggIJYAIJQh6C8j1m6jL?Expires=1780520723&Signature=MEYCIQCW-3GI-MJJUxeGFLyCR8U4bN3qRoCKtqTQ34ZpmdJgBAIhAI-J59-SYox9CXO2BzqbLT0y6cp7Ev-i9SDGuLMLLfXD&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 21,
     "coords": [
       41.5301282,
       2.1166681
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:08.338Z"
+    "dataCaptura": "2026-06-02T21:07:47.759Z"
+  },
+  {
+    "id": 17,
+    "address": "El Centre, Sabadell",
+    "district": "El Centre, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 199000,
+    "m2": 123,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Sabadell Centre\n\n**Punts forts:**\nLocal de 123m² ben ubicat al centre de Sabadell amb accés directe a peu de carrer, ideal per a una petita empresa d'electrònica de dues persones. L'espai versàtil permet adaptar-se a diferents necessitats (exposició, venda, taller), tot i que caldria valorar la mancança de trifàsica i fibra, que podrien ser necessàries segons l'activitat específica.\n\n⚠️ **Observació:** La manca de connexió trifàsica i fibra òptica pot ser una limitació per a certs equipaments electrònics o si es requereix connexió ràpida a internet.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111569144",
+    "urlAnunci": "https://www.idealista.com/inmueble/111569144/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeoDHd6zncl93cGCAglgAh6DD6AyPWbqMs?Expires=1780520724&Signature=MEYCIQCKQfrVsgXxg~CaKNE73cb5xgTKWoQ05Yhvghb5HdvB~AIhALTOzNhw~UxTitDR2WaFlADDCto~v-AjbgoDrpcF-Nal&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 21,
+    "coords": [
+      41.5488234,
+      2.1111612
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:07:56.116Z"
+  },
+  {
+    "id": 29,
+    "address": "Creu de Barberà, Sabadell",
+    "district": "Creu de Barberà, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 165000,
+    "m2": 125,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'espai\n\n**Punts forts:** Local de 125m² amb excel·lent ubicació a peu de carrer a Creu de Barberà (Sabadell), ideal per a una empresa d'electrònica petita amb suficient espai versàtil per adaptar-se a magatzem, venda o tallers. Preu competitiu de 165.000€ per a venda amb alçada comercial de 3m.\n\n**Limitacions a considerar:** Manca de trifàsica i connexió de fibra òptica, aspectes importants per a empreses d'electrònica que podrien requerir aquests serveis.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111244591",
+    "urlAnunci": "https://www.idealista.com/inmueble/111244591/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1o3clHnfazncGCPcleoAGC6N6yPWbqMs?Expires=1780520728&Signature=MEQCIGHtHn719t6Od58nl1FxxXf3eNQWE7UIjTUJxolGth9eAiBgXeiN5ycc6kqMnrLXqv6GPejOOs8j4HyhJcEcWDZDdQ__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 21,
+    "coords": [
+      41.5267179,
+      2.1211483
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:43.611Z"
+  },
+  {
+    "id": 31,
+    "address": "Carretera de Barcelona, 649",
+    "district": "Carretera de Barcelona, 649",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 170250,
+    "m2": 118,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:** Local de 118m² en plena carretera de Barcelona amb accés directe i visibilitat excel·lent, ideal per a una petita empresa d'electrònica. Espai versàtil amb alçada de 3m suficient per a magatzem i zona de venda, tot i que manca subministrament trifàsic i connexió de fibra, que caldria valorar segons les necessitats tècniques. El preu de venda (170.250€) pot ser competitiu per a aquesta localització estratègica de peu de carrer.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111510876",
+    "urlAnunci": "https://www.idealista.com/inmueble/111510876/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGo3e1qHcIm3cGCPc-PgsIo3qjyPWbqMs?Expires=1780520728&Signature=MEYCIQD5qjXpJ2K8G01ZLY8NI1gXkMQPiP2Ej247dYtXHo4aZgIhAJKLDnpaIMei3BgSl6S4VoImkw5CpZYkdliWwvqa4qcF&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 21,
+    "coords": [
+      41.5261789,
+      2.1201127
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:51.073Z"
   },
   {
     "id": 75,
@@ -1060,7 +1060,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anunci d'Local - Electrònica\n\n**Punts forts:**\n\nLocal de 85m² en plena zona centre a un preu competitiu de 1.200€/mes, ideal per a una petita empresa d'electrònica amb accés directe a peu de carrer que facilita la captació de clients. L'espai versàtil permet tant exposició de productes com a zona de venda i magatzem, perfecte per a dues persones.\n\n**Però** cal notar que falten dades crítiques sobre subministraments (trifàsica i fibra estan sense definir) i l'alçada no es mostra, aspectes essencials per avaluar la viabilitat real del negoci.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 85m² en zona cèntrica amb ubicació estratègica de peu de carrer, ideal per a una petita empresa d'electrònica amb dues persones, a un preu competitiu de 1.200€/mes. L'espai versàtil permet adaptar-se a diferents necessitats de magatzem, mostra de productes i atenció al client.\n\n**Punts febles a verificar:** Cal confirmar la disponibilitat de subministrament trifàsic (essencial per a electrònica) i connexió de fibra, així com l'alçada útil del local, que no apareixen especificats.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "26053000000942",
@@ -1069,10 +1069,10 @@
     "score": 21,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:42.179Z"
+    "dataCaptura": "2026-06-02T21:12:52.701Z"
   },
   {
-    "id": 42,
+    "id": 6,
     "address": "Ca N'Oriac - Can Puiggener, Sabadell",
     "district": "Ca N'Oriac - Can Puiggener, Sabadell",
     "type": "local",
@@ -1095,22 +1095,60 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi Local Electrònica - Ca N'Oriac\n\n**Punts forts:** Local de 29m² a peu de carrer a Sabadell amb alçada útil de 3 metres, ideal per a dues persones amb espai versàtil per a tenda i petit taller. Ubicació estratègica en zona comercial consolidada a un preu competitiu de 18.800€.\n\n**Limitacions a considerar:** Manca de trifàsica i fibra òptica, aspectes crítics per a una empresa d'electrònica moderna que requerirà inversió adicional en infraestructures.",
+    "notesIA": "# Anàlisi del local - Ca N'Oriac, Sabadell\n\n**Punts forts:**\nLocal de 29m² ben ubicat a peu de carrer a Sabadell, ideal per a una petita empresa d'electrònica de 2 persones amb espai versàtil. Tot i que manca trifàsica i connexió de fibra (aspectes a valorar segons les necessitats tècniques), l'alçada de 3m permet instal·lacions i l'entrada per venda a 18.800€ és competitiva per la zona.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111608804",
     "urlAnunci": "https://www.idealista.com/inmueble/111608804/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1DHe193cGHncGCAh6Jfc-o6MMyPWbqMs?Expires=1780519900&Signature=MEYCIQCw-xD3JAcJ8kMg8gvq3VXlZWJIsJlh6IjOnOydzKd8EwIhAN4pDJYc~M4d2KRV9o9v~hVu02-mrZHj3K4PnydoatgO&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1DHe193cGHncGCAh6Jfc-o6MMyPWbqMs?Expires=1780520720&Signature=MEUCIB8kVsFCTTKBXSyEuXdM6C6GOaRvpwz8GcHw9TeO3Fb5AiEAsZ4iWDqKsC1kS9I81Nq76nbpb4HUiPrn4Nf7RyV0Udo_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
       41.5658721,
       2.1049257
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:48.863Z"
+    "dataCaptura": "2026-06-02T21:07:12.160Z"
   },
   {
-    "id": 45,
+    "id": 13,
+    "address": "Calle de Ramon Jové, 18",
+    "district": "Calle de Ramon Jové, 18",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 18800,
+    "m2": 24,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anunci Local - Electrònica\n\n**Punts forts:**\n\nLocal de 24m² ben situat al carrer Ramon Jové amb accés directe a peu de carrer, ideal per a una petita empresa d'electrònica de 2 persones. Malgrat la manca de connexió trifàsica i fibra, l'espai versàtil i l'alçada de 3m permeten instal·lacions flexibles. El preu de venda de 18.800€ representa una bona oportunitat d'inversió per a emprenedors que busquen consolidar-se en una ubicació comercial.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111594121",
+    "urlAnunci": "https://www.idealista.com/inmueble/111594121/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXf3Bneoo3d6o3cGCAgGCIALPj4IyPWbqMs?Expires=1780520722&Signature=MEUCIQC4kRjfFTJCwoDtKU~bxGkAB-hNFswT45-9g723vdH-WQIgAcQAdHwtAsexLWT5AiiCY5gkKqV3SsNmF0YTHnpeTFA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5657965,
+      2.1059503
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:07:39.986Z"
+  },
+  {
+    "id": 23,
     "address": "Can Puiggener, Sabadell",
     "district": "Can Puiggener, Sabadell",
     "type": "local",
@@ -1133,19 +1171,95 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anunci d'Local - Anàlisi\n\n**Punts forts:**\nLocal de 45m² en peu de carrer a Can Puiggener (Sabadell) ideal per a empresa d'electrònica de 2 persones, amb alçada suficient (3m) i preu competitiu de venda. Malgrat la mancança de trifàsica i fibra, l'ubicació estratègica en zona de pas i l'espai versàtil compensen aquestes limitacions per a un negoci de retail o petit servei tècnic.\n\n**Aspectes a revisar:** La falta de subministre trifàsic i connexió de fibra pot limitar operacions intensives i connectivitat digital, factors importants en el sector tecnològic.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 45m² a peu de carrer a Sabadell, ideal per a una petita empresa d'electrònica amb espai versàtil per a 2 persones. Ubicació estratègica a Can Puiggener amb visibilitat i accés directe al públic, aspecte clau per a aquest tipus de negoci.\n\n**Limitacions destacables:**\nManca de trifàsica i fibra òptica, que podrien ser inconvenients segons les necessitats específiques de l'empresa d'electrònica (maquinària pesant o connexió d'alt rendiment).",
     "comentaris": "",
     "portal": "idealista",
     "ref": "109848069",
     "urlAnunci": "https://www.idealista.com/inmueble/109848069/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeA2ne1CHcLHncG9z4LCAyAPiWAyPWbqMs?Expires=1780519900&Signature=MEQCIF3bXBcubMAoxVKTlIwjFeifytcdkT0~VGDBSOraeg~8AiBbxQVBHCHro06PdCe3XtXSask4UvkY5uUXx5lfAkWc8w__&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeA2ne1CHcLHncG9z4LCAyAPiWAyPWbqMs?Expires=1780520725&Signature=MEUCIQCniwDLYbPi49Z-LXkLMF7Zis-6iYKLBamNJeDM1LlJegIgHR-RM6PkdSYeEMaowvkc4HFGJcj1FIb65DhLqmPEhFo_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 20,
     "coords": [
       41.5618319,
       2.1041434
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:00.988Z"
+    "dataCaptura": "2026-06-02T21:08:20.838Z"
+  },
+  {
+    "id": 28,
+    "address": "Can Rull, Sabadell",
+    "district": "Can Rull, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 63000,
+    "m2": 57,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 57m² ben dimensionat per a 2 persones en zona de peu de carrer (Can Rull, Sabadell) a preu competitiu de 63.000€, ideal per a una empresa d'electrònica amb espai versàtil per a botiga i taller. Però presenta **limitacions importants**: absència de trifàsica (problema seriós per a electrònica) i manca de fibra òptica (restricció tecnològica actual).\n\n**Verdict:** Interessant per la ubicació i preu, però **requereix verificar la viabilitat tècnica** d'instal·lacions elèctriques trifàsiques i connectivitat abans de comprometre's.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111526690",
+    "urlAnunci": "https://www.idealista.com/inmueble/111526690/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebo3clo3cIDHcGCPeA9z6AJQx6yPWbqMs?Expires=1780520727&Signature=MEUCIEylsVd7SBeUARbnO-yms146FQ8uXqalYwoCKDpMqHsIAiEA~qBNGwtPXLY1MQ2SYtGeQeFmEcO10DMiNuKVySc~wpo_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5525263,
+      2.079431
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:40.085Z"
+  },
+  {
+    "id": 38,
+    "address": "Ca N'Oriac - Can Puiggener, Sabadell",
+    "district": "Ca N'Oriac - Can Puiggener, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 65000,
+    "m2": 53,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Ca N'Oriac, Sabadell\n\n**Punts forts:**\nLocal de 53m² en zona de peu de carrer amb potencial per a empresa d'electrònica de 2 persones, a un preu accessible de 65.000€. L'alçada de 3m permet instal·lacions versàtils i l'espai és suficient per a botiga, taller o oficina. **Observació important:** la manca de trifàsica i fibra óptica podrien limitar certes operacions tècniques o de telecomunicacions, aspectes a verificar segons les necessitats específiques del negoci.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111476687",
+    "urlAnunci": "https://www.idealista.com/inmueble/111476687/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGqHebHncIC3cGCPcLPqMMCPd6yPWbqMs?Expires=1780520731&Signature=MEUCIQDXSyxlurbVwc0qe6UT72j8n6IXK4RPqQF7d0dhnHv7VAIgF3Y0QY~b54-o4i-WhgkEveHKRgz4F5klq5ybJAXnhpA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 20,
+    "coords": [
+      41.5703006,
+      2.0880089
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:16.414Z"
   },
   {
     "id": 54,
@@ -1171,7 +1285,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 620 m² a Can Feu (Sabadell) ofereix un espai versàtil i spaciós ideal per a una empresa d'electrònica amb dues persones, amb un preu accessible de 2.200€/mes. Però l'anunci presenta **mancances crítiques**: no especifica si té trifàsica (essencial per a electrònica), no confirma fibra òptica i l'alçada es mostra com \"0m\", dades incompletes que dificulten l'avaluació real del local.\n\n**Recomanació:** Contactar directament per verificar instal·lacions elèctriques, connexió a internet i distribució interna, ja que l'espai és ampli però podria ser excessiu per a 2 persones.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nAquest local de 620 m² a Sabadell ofereix un espai molt versàtil ideal per a una empresa d'electrònica, amb un preu competitiu de 2.200€/mes que permet flexibilitat operativa. Però cal destacar que **falten dades crítics**: no es confirma si té accés a trifàsica (essencial per a electrònica), la connexió de fibra no està definida i l'alçada de 0m sembla un error de registre.\n\n**Recomanació:** Contactar urgentment per confirmar aquestes especificacions tècniques abans de descartar-lo.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "2754000000088",
@@ -1180,7 +1294,7 @@
     "score": 20,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:43.362Z"
+    "dataCaptura": "2026-06-02T21:10:29.828Z"
   },
   {
     "id": 59,
@@ -1206,7 +1320,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts problemàtics detectats:**\n\nAquest anunci presenta **greus deficiències que desaconsellen la inversió**. El local manca informació essencial (superfície indefinida, serveis elèctrics i connexió a fibra no especificats) i el preu de **180.000€/mes és desproporcionat** per a una empresa de 2 persones. A més, la ubicació aïllada (tipus C) contradiu la prioritat de peu de carrer, limitant la visibilitat i l'accés clientela.\n\n**Recomanació:** Demanar informació completa o descartar fins obtenir detalls fiables sobre metres quadrats, serveis i justificació del cost.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts preocupants:**\n\nAquest anunci presenta **seriosos problemes de credibilitat**. La superfície de 0m², el preu astronòmic de 180.000€/mes per un local buit, i els paràmetres tècnics indefinits (trifàsica i fibra sense especificar) suggereixen que **l'anunci està incomplet o mal publicat**.\n\n**Per a una empresa d'electrònica de 2 persones:** No és recomanable fiar-se d'aquesta oferta fins que no es clarifiquin tots els detalls tècnics, la metratura real i el preu efectiu. Contacteu amb l'agent immobiliari per obtenir informació fiable.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4670004337085",
@@ -1215,7 +1329,7 @@
     "score": 20,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:13.073Z"
+    "dataCaptura": "2026-06-02T21:11:03.995Z"
   },
   {
     "id": 78,
@@ -1241,7 +1355,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local ben ubicat al centre en primera planta de Via de Massagué amb 50m² versàtils ideals per a una petita empresa d'electrònica. **Preu competitiu de 490€/mes** per a aquesta zona i grandària.\n\n**Punt feble important:** Falta informació crítica sobre infraestructures (trifàsica i fibra òptica indefinides) que són essencials per a un negoci d'electrònica, i la manca de peu de carrer (primer pis) va en contra de la prioritat de visibilitat.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 50m² ben ubicat a Via de Massagué en primera planta, ideal per a dues persones amb accés directe al carrer i preu competitiu de 490€/mes. Malgrat això, presenta **serioses deficiències**: falta informació crítica sobre subministraments (trifàsica i fibra undefined), i l'alçada de 0m sembla un error de publicació que qüestiona la fiabilitat de l'anunci.\n\n**Recomanació:** Contactar directament per verificar les instal·lacions elèctriques i de connectivitat abans de considerar-ho, ja que són essencials per a una empresa d'electrònica.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4776000000218",
@@ -1250,7 +1364,7 @@
     "score": 20,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:58.619Z"
+    "dataCaptura": "2026-06-02T21:13:12.218Z"
   },
   {
     "id": 82,
@@ -1276,7 +1390,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal comercial de 55m² a peu de carrer amb lloguer accessible (675€/mes) ideal per a petita empresa d'electrònica de 2 persones, oferint espai versàtil per a botiga i/o oficina. Disposició a nivell de carrer que facilita l'accés de clients i el subministrament de material.\n\n**Punts dèbils a verificar:** Cal confirmar les instal·lacions (trifàsica i fibra no especificades), així com l'alçada útil del local per assegurar que permet emmagatzematge i circulació adequats.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal comercial de 55m² a peu de carrer ideal per a una petita empresa d'electrònica, amb un lloguer competitiu de 675€/mes que facilita la viabilitat econòmica del negoci. Malgrat que no es detallen les connexions d'energia trifàsica i fibra, l'espai versàtil és perfecte per a 2 persones combinant botiga i petita zona de reparacions o magatzem.\n\n**Recomanació:** Contactar amb Mireia Aguilar (+34 644 323 340) per verificar les instal·lacions elèctriques (essencials per electrònica) i l'estat general del local.",
     "comentaris": "",
     "portal": "Espai Propi",
     "ref": "26286502",
@@ -1285,7 +1399,7 @@
     "score": 20,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:20.816Z"
+    "dataCaptura": "2026-06-02T21:13:37.619Z"
   },
   {
     "id": 85,
@@ -1311,7 +1425,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local ofereix un **preu excepcionalment baix de 55€/mes** amb una **superfície molt àmplia de 746m²**, ideal per a una empresa d'electrònica que necesita espai versàtil per a magatzem i operacions. però, presenta **limitacions crítiques**: la ubicació en garatge (sense accés directe al carrer), l'absència de dades sobre subministraments (trifàsica i fibra indefinits) i l'alçada zero plantegen dubtes sobre la viabilitat real per a una activitat comercial que prioritza peu de carrer.\n\n⚠️ **Consell:** Verificar físicament les instal·lacions, accesibilitat i condicions reals abans de comprometre's.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local a Sabadell ofereix un **preu molt competitiu de només 55€/mes**, ideal per a una petita empresa d'electrònica amb pressupost limitat. Tot i que la ubicació en garatge (sense peu de carrer prioritari) és una limitació, l'**espai generós de 746m²** permet una gran versatilitat per a magatzem, taller o exposició.\n\n**Punt feble:** Falta informació crítica sobre trifàsica (essencial per electrònica) i fibra, a més de la localització en garatge sense accés directe al carrer, que perjudica la visibilitat comercial.",
     "comentaris": "",
     "portal": "API GS",
     "ref": "26455085",
@@ -1320,7 +1434,7 @@
     "score": 20,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:38.411Z"
+    "dataCaptura": "2026-06-02T21:13:54.089Z"
   },
   {
     "id": 86,
@@ -1346,7 +1460,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local comercial\n\n**Punts forts:**\nAquest local de 59m² a La Roureda (Sabadell) ofereix una ubicació estratègica en zona de pas amb potencial de visibilitat, ideal per a una empresa d'electrònica de dues persones amb un lloguer molt competitiu de 600€/mes. L'espai és versàtil i permet tant una zona de vendes com de magatzem, tot i que caldria verificar si disposa de subministrament trifàsic i fibra òptica, elements importants per a aquest tipus de negoci.",
+    "notesIA": "# Anàlisi del local comercial\n\n**Punts forts:** Local de 59m² ben situat a la Roureda de Sabadell amb un preu competitiu de 600€/mes, ideal per a una petita empresa d'electrònica amb espai versàtil suficient per a 2 persones i exposició de productes. La ubicació de peu de carrer garanteix visibilitat i accessibilitat per a clients.\n\n**Punts febles a verificar:** Cal confirmar la disponibilitat de trifàsica (essencial per a electrònica) i fibra òptica, així com l'alçada real del local, dades que apareixen sense especificar.",
     "comentaris": "",
     "portal": "API GS",
     "ref": "27686919",
@@ -1355,10 +1469,86 @@
     "score": 20,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:43.976Z"
+    "dataCaptura": "2026-06-02T21:14:01.285Z"
   },
   {
-    "id": 38,
+    "id": 27,
+    "address": "Ca N'Oriac - Can Puiggener, Sabadell",
+    "district": "Ca N'Oriac - Can Puiggener, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 140000,
+    "m2": 160,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 160m² en ubicació estratègica de peu de carrer a Sabadell, ideal per a empresa d'electrònica amb espai versàtil per adaptar-se a les necessitats de dues persones. L'altura de 3 metres permet instal·lacions i estanteries, tot i que caldrà valorar les limitacions de subministrament (sense trifàsica ni fibra disponibles actualment).",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111543543",
+    "urlAnunci": "https://www.idealista.com/inmueble/111543543/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebC3fagHfaqHcGCPeAgAsLBqMIyPWbqMs?Expires=1780520726&Signature=MEUCIQDRDQ16pUyUX6neeJJlTVjEiZ90GwlMZR3be1HfPDVumAIgQZXEGQsVcGt8v10TZoeiJ5Rb3cnXYoWmBamxnjEC1js_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 18,
+    "coords": [
+      41.5652754,
+      2.096625
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:35.998Z"
+  },
+  {
+    "id": 49,
+    "address": "Campoamor, Sabadell",
+    "district": "Campoamor, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 105000,
+    "m2": 167,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local - Campoamor, Sabadell\n\n**Punts forts:**\nLocal de 167m² en venda a peu de carrer (ubicació privilegiada per a clientela) ideal per a petita empresa d'electrònica amb espai versàtil per a tenda i magatzem. Alçada de 3m permet instal·lacions estàndard, tot i que cal verificar les connexions elèctriques (no té trifàsica ni fibra disponibles actualment).\n\n**Consideració important:** S'hauria de confirmar si la manca de trifàsica és limitant segons l'ús específic dels equips electrònics, i la fibra podria ser una inversió futura necessària.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111394249",
+    "urlAnunci": "https://www.idealista.com/inmueble/111394249/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclJXcIo3eotXcGCPcMJYA-gCV6yPWbqMs?Expires=1780520737&Signature=MEYCIQDvHT153N4LxY1501hePcaOEnhRFzv03hzJKO-oIryplgIhAObtnMzdD2md5svQIsDoru3zlAVUPxFIy2yZMXwfXYEO&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 18,
+    "coords": [
+      41.5234387,
+      2.1090239
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:10:01.156Z"
+  },
+  {
+    "id": 50,
     "address": "La Creu Alta, Sabadell",
     "district": "La Creu Alta, Sabadell",
     "type": "local",
@@ -1381,7 +1571,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local - Empresa Electrònica\n\n**Punts forts:** Local spaciós de 183m² a peu de carrer a La Creu Alta, zona comercial consolidada de Sabadell, ideal per a una petita empresa d'electrònica amb espai versàtil per a venda i oficina. El preu de 980€/mes és competitiu per la mida i ubicació, perfecte per a 2 persones amb possibilitat de creixement.\n\n**Punts febles a considerar:** Manca de subministrament trifàsic (necessari per a certs equips electrònics) i absència de fibra òptica són limitacions importants que requeriran inversió en instal·lacions addicionals.",
+    "notesIA": "# Anunci d'Local - Análisi\n\n**Punts forts:**\nLocal de 183m² ben dimensionat a La Creu Alta (zona comercial de Sabadell) amb ubicació a peu de carrer prioritari, ideal per a una empresa d'electrònica de 2 persones que necessita espai versàtil. El preu de 980€/mes és competitiu per a aquesta metratge en aquesta zona.\n\n**Punts febles a considerar:**\nManca trifàsica i connexió de fibra, limitacions importants per a un negoci d'electrònica que podria necessitar més potència elèctrica i connectivitat robusta.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111642768",
@@ -1393,16 +1583,16 @@
       2.0981853
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:34.204Z"
+    "dataCaptura": "2026-06-02T21:10:04.803Z"
   },
   {
-    "id": 22,
-    "address": "Paseo de la Plaça Major, 31",
-    "district": "Paseo de la Plaça Major, 31",
+    "id": 39,
+    "address": "Sol i Padris - Sant Oleguer, Sabadell",
+    "district": "Sol i Padris - Sant Oleguer, Sabadell",
     "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1600,
-    "m2": 75,
+    "modalitat": "compra",
+    "preu": 220000,
+    "m2": 130,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1419,57 +1609,19 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local d'Electrònica\n\n**Punts forts:** Local de 75m² en ubicació excel·lent al peu de carrer del Paseo de la Plaça Major, ideal per captar clientela i amb espai versàtil per adaptar-se a les necessitats de l'empresa. **Punts febles:** Manca de trifàsica i fibra òptica són limitacions importants per a una empresa d'electrònica moderna, i el lloguer de 1.600€/mes és relativament elevat considerant aquestes carències.",
+    "notesIA": "# Análisi de l'anunci\n\n**Punts forts:**\nAquest local de 130m² a peu de carrer a Sabadell ofereix bon potencial per a una empresa d'electrònica amb espai versàtil per adaptar a showroom, oficina o taller, encara que presenta limitacions importants com l'absència de subministrament trifàsic i fibra òptica. L'alçada de 3m és insuficient per a maquinària industrial pesada, però adequada per a un negoci de dues persones amb caràcter més comercial o de serveis. El preu de venda (220.000€) hauria de valorar-se segons les necessitats específiques de l'activitat i les possibilitats de millora en infraestructures.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111468684",
-    "urlAnunci": "https://www.idealista.com/inmueble/111468684/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcem3cIzncMHncGCPcLDD6jDID3yPWbqMs?Expires=1780519890&Signature=MEUCIGEqBvE0sVmuo2gKRT1LbrGCFyqJSjiT6fLTeXO892ZKAiEAkqT4uQFlZ6JKASmHS6GkwJyaKKLx-pZ72FKDDRH96Hc_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111441051",
+    "urlAnunci": "https://www.idealista.com/inmueble/111441051/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMCHejDHcLtXcGCPejo3qADID3yPWbqMs?Expires=1780520733&Signature=MEUCIC~ud2cXlmpfLp-XeYsKQT930eiu-mRZG-hw99q2vEebAiEAoEKmfXy86w2aosxu83ZOBHmQcbXqWRumn30ASBNKhzc_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 15,
     "coords": [
-      41.5475433,
-      2.1083812
+      41.5416095,
+      2.1164244
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:29.050Z"
-  },
-  {
-    "id": 23,
-    "address": "El Centre, Sabadell",
-    "district": "El Centre, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1600,
-    "m2": 76,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Análisi de l'Anunci\n\n**Punts forts:**\nLocal de 76m² ben situat a peu de carrer al Centre de Sabadell, ideal per a empresa petita d'electrònica amb espai versàtil per a mostra, oficina i magatzem. Ubicació privilegiada en zona de pas elevat que facilita la visibilitat i l'accés de clients.\n\n**Limitacions a considerar:**\nLa manca de trifàsica i fibra pot ser problemàtica per a negoci electrònic (caldria verificar si és viable electrificar) i el preu de 1.600€/mes és força elevat per a la mida.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111458834",
-    "urlAnunci": "https://www.idealista.com/inmueble/111458834/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLo3ejPncMHncGCPcLenqj93qAyPWbqMs?Expires=1780519891&Signature=MEQCIEaRvGmhTq2otWMvSWvs1yAkYdVpYgJVxDlKSCCsYeVfAiBTTPERCK7AmxXwQppEUJFqHGpyPrIhA~4zgIGTRSgUqQ__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 15,
-    "coords": [
-      41.5464535,
-      2.1101471
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:33.238Z"
+    "dataCaptura": "2026-06-02T21:09:21.196Z"
   },
   {
     "id": 57,
@@ -1495,7 +1647,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 130m² amb excel·lent ubicació al Passeig del Comerç (gran visibilitat i pas de clients), ideal per a petita empresa d'electrònica amb 2 treballadors. Disposa de 5 muelles de càrrega per a logística eficient i espai versàtil per adaptar a showroom i oficina. Tot i això, **caldrà verificar les instal·lacions (trifàsica i fibra no especificades) i la sostenibilitat del lloguer (23.000€/mes és elevat)** per avaluar la rendibilitat real del negoci.",
+    "notesIA": "# Anàlisi del local - Passeig del comerç 72\n\n**Punts forts:**\nAquest local de 130m² a peu de carrer amb gran visibilitat corporativa és ideal per a una empresa d'electrònica de dues persones, gràcies a la seva versatilitat d'espai i els 5 muelles de carga per a logística. Però cal revisar les instal·lacions (trifàsica i fibra estan sense especificar) i l'alçada nul·la suggereix possibles limitacions estructurals que caldria aclarir amb l'arrendador.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "772004395970",
@@ -1504,7 +1656,7 @@
     "score": 15,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:00.448Z"
+    "dataCaptura": "2026-06-02T21:10:51.196Z"
   },
   {
     "id": 61,
@@ -1530,7 +1682,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 120m² en excel·lent estat a peu de carrer (N/a 128), ideal per a una petita empresa d'electrònica amb espai versàtil per a dos treballadors. **Punt dèbil crític:** El preu de 10.000€/mes és molt elevat per a aquesta mida i tipus de negoci, i les característiques tècniques essencials (trifàsica, fibra) estan sense especificar, cosa que genera dubtes sobre l'adequació real de les instal·lacions.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 120m² en excel·lent estat a peu de carrer (N/a 128) amb capacitat per a 2 persones i espai versàtil ideal per a una empresa d'electrònica. Ubicació estratègica de fàcil accés per a clients i repartidors.\n\n**Punts febles:**\nEl preu de 10.000€/mes és molt elevat i les utilitats essencials (trifàsica i fibra òptica) apareixen sense especificar, cosa que requereix verificar disponibilitat urgent.\n\n**Recomanació:** Contactar amb el propietari per confirmar les connexions elèctrica i de dades abans de prendr una decisió.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "772004396100",
@@ -1539,7 +1691,7 @@
     "score": 15,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:23.942Z"
+    "dataCaptura": "2026-06-02T21:11:17.836Z"
   },
   {
     "id": 63,
@@ -1565,7 +1717,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal cantonera de 73m² en ubicació estratègica a peu de carrer al Carrer de Carles Riba, ideal per a visibilitat i accessibilitat d'una empresa d'electrònica de 2 persones. L'espai versàtil permet adaptar-se a diferents necessitats de vendes i serveis, tot i que caldria confirmar disponibilitat de subministraments (trifàsica i fibra són essencials per a aquest sector).\n\n**Observació important:** Falta informació crítica sobre si disposa de trifàsica i conexió de fibra, imprescindibles per a electrònica. A 4.800€/mes és una renda elevada per al sector; es recomana negociar i verificar tots els serveis.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:** Local cantonera de 73m² a peu de carrer al Carrer de Carles Riba 27, ideal per a una empresa d'electrònica amb excel·lent visibilitat i accés. L'espai versàtil permet organitzar eficientment zones de venda, magatzem i atenció al client per a dos treballadors.\n\n**Observació:** Cal verificar urgentment la disponibilitat de subministrament trifàsic i fibra òptica, ja que apareixen com \"undefined\" i són essencials per a aquest tipus de negoci.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "772004396048",
@@ -1574,16 +1726,16 @@
     "score": 15,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:35.974Z"
+    "dataCaptura": "2026-06-02T21:11:31.287Z"
   },
   {
-    "id": 10,
-    "address": "Barrio Can Llong, 1",
-    "district": "Barrio Can Llong, 1",
+    "id": 4,
+    "address": "Calle d'Andorra, 77",
+    "district": "Calle d'Andorra, 77",
     "type": "local",
-    "modalitat": "lloguer",
-    "preu": 830,
-    "m2": 30,
+    "modalitat": "compra",
+    "preu": 170000,
+    "m2": 250,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1600,28 +1752,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anunci d'anàlisi - Local electrònica\n\n**Punts forts:**\nLocal compacte de 30m² en ubicació de peu de carrer al barri de Can Llong, ideal per a petita empresa de 2 persones amb una renda assequible de 830€/mes. L'alçada de 3m és suficient per a activitats de venda/reparació d'electrònica, encara que és una limitació important la manca de **trifàsica i fibra óptica**, essencials per a aquest tipus de negoci (maquinari, connexió a internet de qualitat).\n\n**Verdict:** Ubicació interessant però amb deficiències tècniques crítiques que caldria verificar amb el propietari.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nLocal de 250m² amb excel·lent ubicació a peu de carrer a Calle d'Andorra, ideal per a empresa d'electrònica amb espai versàtil per a 2 persones. L'alçada de 3 metres permet instal·lar estantereria i optimitzar emmagatzematge, tot i que caldrà valorar les limitacions de subministrament (sense trifàsica ni fibra disponible actualment).\n\n**Consideració:** Malgrat ser una bona oportunitat de compra amb localització estratègica, caldria verificar la viabilitat d'instal·lar trifàsica i connexió de fibra per al desenvolupament òptim de l'activitat electrònica.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111552129",
-    "urlAnunci": "https://www.idealista.com/inmueble/111552129/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGzncem3e1C3cGCAglegwI9wyAyPWbqMs?Expires=1780519886&Signature=MEYCIQCq3s7jwbtPHGcz8-R8oPMqmksMSwtFeFZ87i17Y5pkhwIhANtzKbwoJQYIDEtdEVTxm35~gyTlJA~74soH85pD3gXw&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111627796",
+    "urlAnunci": "https://www.idealista.com/inmueble/111627796/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejzncMCHeAHnebVNF3BggI9waACwwLo8j1m6jL?Expires=1780520719&Signature=MEQCIHxp6i5kUgn-g4TOleV-P5CAC7VDrSicmakJIWk6T3TVAiArwK-BbgeKxMBMV6~xyyrR9LBI0lxpFpxPmqHIbzr5wA__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 12,
     "coords": [
-      41.5627991,
-      2.0817251
+      41.5650066,
+      2.0885302
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:41.106Z"
+    "dataCaptura": "2026-06-02T21:07:03.988Z"
   },
   {
-    "id": 13,
-    "address": "Creu de Barberà, Sabadell",
-    "district": "Creu de Barberà, Sabadell",
+    "id": 44,
+    "address": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
+    "district": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
     "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1200,
-    "m2": 172,
+    "modalitat": "compra",
+    "preu": 127000,
+    "m2": 251,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1638,28 +1790,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anunci Local - Electrònica\n\n**Punts forts:**\nLocal de 172m² ben situat a peu de carrer a Creu de Barberà (Sabadell) ideal per a pequena empresa d'electrònica, amb alçada suficient de 3m i lloguer competitiu de 1.200€/mes. Malgrat que no disposa de connexió trifàsica ni fibra òptica, l'espai versàtil permet adaptar-se a les necessitats de dos treballadors amb accés directe a la via pública.",
+    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal de 251m² en ubicació estratègica a peu de carrer de l'Avinguda Eixample de Sabadell, ideal per a una empresa d'electrònica de 2 persones amb gran potencial de visibilitat i accés client. L'espai ampli i versàtil permet distribuir zones de venda, magatzem i oficina de forma còmoda, tot i que caldria valorar la falta de connexió trifàsica i fibra òptica que podrien requerir millores. Preu de 127.000€ per una superfície considerable en una zona de trànsit comercial.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111517560",
-    "urlAnunci": "https://www.idealista.com/inmueble/111517560/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcL2nfOJXc-CHcGCPeAJT4IgCWjyPWbqMs?Expires=1780519887&Signature=MEYCIQCZrEpY42x5ZwRxOUrzzw4Ac2zAEabm97B4XJ-dZxGUIQIhAMC-K0gnkA-68nDlF4INiY8T9cokzvAQbzF6KMOhhZoA&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111434460",
+    "urlAnunci": "https://www.idealista.com/inmueble/111434460/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeotXf3PnfOC3cGCPejCHoGPvc-yPWbqMs?Expires=1780520735&Signature=MEUCIEdOiijvDTZ8cqU~4TTGohDC4Iu3wHK940EecHj3NnWQAiEAumpSQXZYBUd7bqIpKe-ESu04JcG0TQZTIB8wm8T-bSw_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 12,
     "coords": [
-      41.5285519,
-      2.1169965
+      41.5326466,
+      2.1155129
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:54.008Z"
+    "dataCaptura": "2026-06-02T21:09:40.837Z"
   },
   {
-    "id": 20,
-    "address": "Calle de Brujas, 137",
-    "district": "Calle de Brujas, 137",
+    "id": 48,
+    "address": "La Concòrdia - Can Rull, Sabadell",
+    "district": "La Concòrdia - Can Rull, Sabadell",
     "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1220,
-    "m2": 209,
+    "modalitat": "compra",
+    "preu": 152000,
+    "m2": 175,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -1676,19 +1828,19 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local - Calle de Brujas, 137\n\n**Punts forts:** Local spaciós de 209m² a peu de carrer en zona comercial, ideal per a una empresa d'electrònica amb espai versàtil per a mostra, magatzem i oficina. La ubicació prioritària i els 3m d'alçada permeten flexibilitat en l'exhibició de productes i organització interna.\n\n**Limitacions importants:** L'absència de trifàsica i fibra òptica és crítica per a negocis d'electrònica (afectarà subministre elèctric industrial i connectivitat). Caldrà verificar possibilitat d'instal·lacions addicionals abans de comprometre's.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 175m² en zona commercial consolidada (La Concòrdia - Can Rull) a un preu competitiu de 152.000€, ideal per a petita empresa de 2 persones amb accés directe a peu de carrer. L'espai versàtil permet adaptar-se a diferents necessitats de distribució i exhibició de productes electrònics.\n\n**Punts febles:** Manca de subministrament trifàsic (limitant per a maquinària pesada) i absència de fibra òptica (problema per a connexió de dades moderna), factors crítics per a comerç electrònic actual.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "111477745",
-    "urlAnunci": "https://www.idealista.com/inmueble/111477745/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6HncGJXd6o3cGCPcLgCV6CHqjyPWbqMs?Expires=1780519890&Signature=MEUCIQDIIeUfUxHkwnDSghwjPQl6i3VFRXWC3xMAT3BUYDhckQIgf-0sjld7qq0DNrZegNEU-mv30uT6OE5o5Hizq7cDC1w_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111403573",
+    "urlAnunci": "https://www.idealista.com/inmueble/111403573/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1qHcIDHcLgHcGCPcMCPc-CICAyPWbqMs?Expires=1780520737&Signature=MEQCIEaT81uEryAqhzJCM0qpJego58NSli~q-FvUfob3OTHXAiBPztZZw~GyCdX5uE1O2W77z164uD7cXOwH7A6Wo8rw8w__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 12,
     "coords": [
-      41.5522936,
-      2.1129491
+      41.5593324,
+      2.0931817
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:21.890Z"
+    "dataCaptura": "2026-06-02T21:09:56.378Z"
   },
   {
     "id": 71,
@@ -1714,7 +1866,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci - Local d'Electrònica\n\n**Punts forts:**\nLocal de 220 m² a peu de carrer en venda amb un preu competitiu de 1.000€/mes, ideal per a una petita empresa d'electrònica amb espai versàtil per adaptar-se a diferents usos (botiga, taller, mostra). Ubicació estratègica a De Terrassa 356 que facilita la visibilitat i l'accés dels clients.\n\n⚠️ **Punts a aclarir:** Falta informació crítica sobre connexions trifàsica i fibra òptica, així com l'alçada útil, essencial per avaluar la viabilitat per a instal·lacions d'electrònica.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 220 m² en peu de carrer a Terrassa és ideal per a una empresa d'electrònica de dues persones, amb un espai versàtil que permet instal·lar taller, mostra i oficina. La ubicació és excel·lent per a captació de clients i la renda mensual de 1.000€ és competitiva per a la superfície oferida.\n\n**Punts febles a verificar:**\n- La informació sobre subministrament trifàsic i fibra òptica no està completa, aspectes **crítics** per a electrònica\n- Falta especificar l'alçada útil, important per a instal·lacions\n- Cal confirmar aquestes dades amb el promotor antes de decidir",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "44483000000064",
@@ -1723,7 +1875,7 @@
     "score": 12,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:20.564Z"
+    "dataCaptura": "2026-06-02T21:12:26.608Z"
   },
   {
     "id": 79,
@@ -1749,7 +1901,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local - Empresa d'electrònica\n\n**Punts forts:**\nLocal spacious de 155m² a la Rambla amb excel·lent visibilitat i pas de client per a un negoci d'electrònica, ideal per a dues persones amb zona de vendes i magatzem. El preu de 1.050€/mes és competitiu per la ubicació privilegiada i la versatilitat de l'espai.\n\n**Preocupacions:**\nLes dades tècniques essencials (trifàsica, fibra òptica i alçada útil) apareixen indefinides, per la qual cosa caldria verificar si té subministrament elèctric suficient per a maquinari electrònic i connectivitat adequada.",
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local de 155m² a la Rambla amb ubicació privilegiada a peu de carrer, ideal per a una empresa d'electrònica amb 2 persones, a un preu competitiu de 1.050€/mes. L'espai versàtil permet combinar zona de venda, magatzem i oficina.\n\n**Punts febles:** Falta informació crítica sobre subministraments (trifàsica i fibra óptica) que són essencials per a aquest sector, la qual cosa requerirà validació urgent amb el propietari.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4776000000222",
@@ -1758,238 +1910,10 @@
     "score": 12,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:59:04.367Z"
-  },
-  {
-    "id": 5,
-    "address": "El Centre, Sabadell",
-    "district": "El Centre, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1100,
-    "m2": 45,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:**\nLocal de 45m² ben situat al centre de Sabadell amb lloguer accessible (1100€/mes), ideal per a una petita empresa d'electrònica amb ubicació de peu de carrer prioritari. L'espai versàtil permet adaptar-se a diferents distribucions de magatzem i atencció al públic.\n\n**Punts febles:**\nManca de subministrament trifàsic i fibra òptica són limitacions significatives per a una empresa d'electrònica, que possiblement necessitarà més potència elèctrica i connectivitat ràpida.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111596473",
-    "urlAnunci": "https://www.idealista.com/inmueble/111596473/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAC3cMo3cGCHcGCAgGDD6ABvd6yPWbqMs?Expires=1780519884&Signature=MEQCIE2BfVACCUz-1bpiVlH4xaYT-rQ8P~ccGGfwWmFLVtIuAiA9a9Eo7QwT0dI5VRkEDfmNlG1OxaeRdIxHU~jdmKTQFw__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 6,
-    "coords": [
-      41.5426031,
-      2.1120911
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:18.180Z"
+    "dataCaptura": "2026-06-02T21:13:18.469Z"
   },
   {
     "id": 7,
-    "address": "El Centre, Sabadell",
-    "district": "El Centre, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 6300,
-    "m2": 235,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local - Empresa d'Electrònica\n\n**Punts forts:**\nLocal de 235m² en plena zona comercial de Sabadell amb excel·lent ubicació a peu de carrer, ideal per a una empresa d'electrònica de 2 persones amb espai versàtil per a magatzem i exposició. La distribució generosa permet flexible adaptació del negoci, tot i que caldria verificar la viabilitat de les instal·lacions (manca trifàsica i fibra) segons les necessitats específiques de l'activitat.\n\n⚠️ **Limitacions importants:** L'absència de trifàsica és una carència crítica per a molts negocis d'electrònica que requereixen més potència; hauríeu de confirmar amb el propietari si és possible fer aquesta instal·lació (cost afegit). La falta de fibra també pot limitar la connectivitat.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111581249",
-    "urlAnunci": "https://www.idealista.com/inmueble/111581249/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-enfam3cGCAgGBgb3DAs-yPWbqMs?Expires=1780519885&Signature=MEQCIDiX49frf81O-NMoja2oY3ayAUHnsdBd35BfYSHC924ZAiA9~MoMyRJSsprSDbMC0bhTSracFs8qGzDb~QIZAbhEig__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 6,
-    "coords": [
-      41.5479327,
-      2.1076522
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:26.252Z"
-  },
-  {
-    "id": 8,
-    "address": "Ronda de Zamenhof, 137",
-    "district": "Ronda de Zamenhof, 137",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1500,
-    "m2": 233,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 233m² ben dimensionat a peu de carrer (Ronda de Zamenhof) ideal per a una empresa d'electrònica de 2 persones, amb espai versàtil per a magatzem i mostrador a un preu competitiu de 1500€/mes. Tot i això, presenta limitacions importants: manca connexió trifàsica (essencial per a equips electrònics) i sense fibra òptica, factors que requeriran inversió addicional en infraestructures i hauran de ser negociats amb el propietari.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "110874274",
-    "urlAnunci": "https://www.idealista.com/inmueble/110874274/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclC3d6PncGencGCAY-Bgs-9wYGyPWbqMs?Expires=1780519885&Signature=MEYCIQD8XPCf836PJY2ysdupAPsg9VyjCIS3GV2nEV2tsdblkgIhANRXZMbxnsWWuDe~~HpgzDM5t2zsuniZNA3YLEgOpyPO&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 6,
-    "coords": [
-      41.550566,
-      2.100799
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:33.050Z"
-  },
-  {
-    "id": 19,
-    "address": "Centre, Sabadell",
-    "district": "Centre, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1400,
-    "m2": 53,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local per a empresa d'electrònica\n\n**Punts forts:** Local de 53m² ben ubicat al centre de Sabadell amb accés a peu de carrer ideal per captar clientela, a un preu competitiu de 1.400€/mes. L'espai és versàtil i suficient per a dues persones amb zona de venta i magatzem.\n\n**Punts febles:** Manca trifàsica (limitació important per a electrònica) i no disposa de fibra òptica, aspectes crítics per a aquest tipus de negoci que requereixin energia trifàsica o connexió ràpida.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111501313",
-    "urlAnunci": "https://www.idealista.com/inmueble/111501313/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXe1enfam3ebgHcGCPc-DAujC6OjyPWbqMs?Expires=1780519889&Signature=MEQCIHEcQF73-b9rD3de8m~61GdtuHmSkymxnvwPZiw6FwBeAiBFRqG2f6LKaMGyyxtqxnr4CE~yBAa3lZARBH5rNSYAOA__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 6,
-    "coords": [
-      41.5489067,
-      2.1089979
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:17.799Z"
-  },
-  {
-    "id": 24,
-    "address": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
-    "district": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1500,
-    "m2": 160,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal ampli de 160m² en ubicació privilegiada de peu de carrer a l'Eixample de Sabadell, ideal per a una empresa d'electrònica de 2 persones amb espacialitat versàtil. L'alçada de 3 metres permet instal·lacions flexibles, tot i que caldria verificar la viabilitat per a maquinari electrònic que requereixi trifàsica. El preu de 1.500€/mes és competitiu per a la zona, malgrat que l'absència de fibra òptica podria ser una limitació per a operacions que demanin conectivitat d'alt rendiment.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111473830",
-    "urlAnunci": "https://www.idealista.com/inmueble/111473830/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcGPnebznfaencGCPcLCwwGBgiAyPWbqMs?Expires=1780519891&Signature=MEUCIQCV0mxBBIq3vcKrB5Rw-hg0ZQ84Q-NH7fGUpF5c9OXLEwIgUWPvzpIq6tM3XtDvoabEG9OEHjalmvHaz-wovIPi8QE_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 6,
-    "coords": [
-      41.528366,
-      2.1137615
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:37.154Z"
-  },
-  {
-    "id": 26,
-    "address": "Campoamor, Sabadell",
-    "district": "Campoamor, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 1950,
-    "m2": 166,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local - Electrònica Sabadell\n\n**Punts forts:**\nLocal amb bona superfície (166m²) en ubicació de peu de carrer a Campoamor, ideal per a una empresa de 2 persones amb espai versàtil per a showroom i magatzem. L'alçada de 3m és suficient per a la majoria d'operacions d'electrònica, tot i que la manca de trifàsica i fibra podrien ser limitacions operatives depenent del tipus de negoci específic.\n\n**Observació:** El preu de 1.950€/mes és competitiu per la zona, però caldria verificar si es necessita connexió trifàsica o fibra òptica segons les màquines i operacions previstes.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111461940",
-    "urlAnunci": "https://www.idealista.com/inmueble/111461940/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXceCHc-qHceDHebVNF3Bgj3C_d6JYAlC8j1m6jL?Expires=1780519892&Signature=MEUCIQCZW-CDCNinZ~lYQuxoNPH74FkBZmHhIAR1D4VYUIjrOwIgdbaVEyIj~sWMrnAlOgEK9cswwpRkxaHFNit06YRA9Sc_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 6,
-    "coords": [
-      41.5239873,
-      2.1078107
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:45.083Z"
-  },
-  {
-    "id": 32,
     "address": "Centre, Sabadell",
     "district": "Centre, Sabadell",
     "type": "local",
@@ -2012,22 +1936,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del Local - Electrònica a Sabadell\n\n**Punts forts:**\nLocal spaciós de 226m² al centre de Sabadell amb excel·lent ubicació de peu de carrer, ideal per a una petita empresa d'electrònica de 2 persones amb potencial comercial. L'espai versàtil permet adaptar-se a diferents distribucions (mostrador, magatzem, taller). **Limitacions importants:** absència de trifàsica i fibra òptica són desavantatges significatius que caldria resoldre per a operacions tècniques o venda online.\n\n**Consideració:** A 445.000€ és una inversió considerable; recomanaria verificar la possibilitat de contractar trifàsica i fibra avant de formalitzar.",
+    "notesIA": "# Anàlisi Local Electrònica - Sabadell\n\n**Punts forts:**\nLocal de 226m² en plena zona Centre de Sabadell amb excel·lent visibilitat de carrer, ideal per a una petita empresa d'electrònica amb espai versàtil per adaptar a botiga, taller o showroom. Malgrat que manté limitacions tècniques (sense trifàsica ni fibra), la ubicació estratègica i l'ampli metratge permeten desenvolupar diversos formats de negoci.\n\n⚠️ **Punts débils:** Caldrà evaluar la instal·lació elèctrica i la connectivitat per a activitats que requereixin més demanda energètica o connexió d'alta velocitat.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111611961",
     "urlAnunci": "https://www.idealista.com/inmueble/111611961/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMgHcM93fagHcGCAh6Bgh6oz6AyPWbqMs?Expires=1780519895&Signature=MEUCIQDN8gYFJlhA0bSZEh2wM-5E7noLTQlDcEUSV99QFQV-jwIgf4FinBgvXh3b3mEp6Kt3cj04Rixw1Lno0K7rtBOgVIU_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMgHcM93fagHcGCAh6Bgh6oz6AyPWbqMs?Expires=1780520719&Signature=MEUCIEgsm5-NqXC6mbLYefB3gwWO7uuuxThUsN2MR7LdUe3~AiEA2LgKfxC0jgGFvAfn4L9E5tHFHsU7d2ofd2SRr-RenEw_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 6,
     "coords": [
       41.5474919,
       2.1037694
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:09.767Z"
+    "dataCaptura": "2026-06-02T21:07:16.524Z"
   },
   {
-    "id": 43,
+    "id": 22,
     "address": "El Centre, Sabadell",
     "district": "El Centre, Sabadell",
     "type": "local",
@@ -2050,22 +1974,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica a Sabadell\n\n**Punts forts:** Local spacios de 235m² en ubicació excel·lent a peu de carrer al Centre de Sabadell, ideal per a una petita empresa d'electrònica amb potencial de visibilitat i pas de clients. L'alçada de 3m permet instal·lacions de mostra versàtils i organització eficient de l'espai.\n\n⚠️ **Punts febles:** Falta de trifàsica i fibra òptica pot limitar operacions tècniques i la connectivitat digital, aspectes crítics per a empreses d'electrònica modernes. El preu de venda (890.000€) és elevat per a una activitat de només 2 persones.",
+    "notesIA": "# Anàlisi del Local - Sabadell\n\n**Punts forts:**\nLocal de 235m² amb excel·lent ubicació a peu de carrer al centre de Sabadell, ideal per a una empresa d'electrònica amb espai versàtil per adaptar-se a diverses necessitats de negoci. Però presenta **limitacions importants**: manca de trifàsica (essencial per a maquinària electrònica), absència de fibra òptica (desavantatge per a connexió de dades) i alçada estàndard de 3m que pot restringir l'emmagatzematge.\n\n**Recomanació:** Verificar costos de instal·lació de trifàsica i fibra abans de valorar la viabilitat, ja que són inversions significatives per a aquest sector.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111581204",
     "urlAnunci": "https://www.idealista.com/inmueble/111581204/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-enfam3cGCAgGBgb3DAs-yPWbqMs?Expires=1780519900&Signature=MEUCIF-TMA85ECH7dy9nxrloyTvOdELTdmM-y1e9ikk47zHRAiEAqEpXUqkVq4PZ3oJq5CpwVAmcpi9cZ0SKuxT7AelOVQk_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXd6qHc-enfam3cGCAgGBgb3DAs-yPWbqMs?Expires=1780520724&Signature=MEYCIQD88Y7Ruc-GE~JMcNuY8xgbQbl0kHTwHGCNb1aP5jL~CQIhANaB5Vjsq-Itgu9siFVkL5Dq3taasbEvatQwqiLWfLP6&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 6,
     "coords": [
       41.5446754,
       2.1086368
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:52.764Z"
+    "dataCaptura": "2026-06-02T21:08:17.395Z"
   },
   {
-    "id": 50,
+    "id": 24,
     "address": "El Centre, Sabadell",
     "district": "El Centre, Sabadell",
     "type": "local",
@@ -2088,19 +2012,209 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nAquest local de 207m² al Centre de Sabadell ofereix excel·lent ubicació de peu de carrer ideal per a una petita empresa d'electrònica, amb espai versàtil per adaptar-se a diverses necessitats (venda, magatzem, oficina). Però presenta limitacions importants: manca de trifàsica (essencial per a maquinària electrònica), sense fibra òptica, i alçada justos de 3m per a certs equips.\n\n**Valoració:** Location excel·lent, però **requisits tècnics insuficients** per a aquest sector sense obres costoses.",
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local ampli de 207m² en lloc privilegiat al centre de Sabadell, ideal per a una petita empresa d'electrònica amb accés directe a peu de carrer que facilita la captació de clients. L'espai versàtil permet distribuir zones de venda, magatzem i oficina segons necessitats.\n\n**Limitacions:** Manca de subministrament trifàsic (requisit habitual per electrònica) i fibra òptica són desavantatges importants que caldria verificar la viabilitat de solucionar, especialment per a operacions tècniques.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111560979",
     "urlAnunci": "https://www.idealista.com/inmueble/111560979/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfagHej93cIqHcGCAYl96M-BoAGyPWbqMs?Expires=1780519903&Signature=MEUCIQCmm9vJrXjMId83ok6z0xBSsdFfFfbHva4dHv34AnPpXwIgL0GW4blo1OfFwckn4lZfiI0Rwj2agMFvM-5CTpVB5ns_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfagHej93cIqHcGCAYl96M-BoAGyPWbqMs?Expires=1780520725&Signature=MEYCIQCVXZgznb-SJyai9vvmJ17gJiVy0SDDUyw9hwgk8UiTHwIhAMLPLPYEPDyyIA16iLIuWnA8roKiDEfi2ssdILrhhJsX&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 6,
     "coords": [
       41.5497297,
       2.1099253
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:19.566Z"
+    "dataCaptura": "2026-06-02T21:08:24.606Z"
+  },
+  {
+    "id": 36,
+    "address": "Calle de la Lusitània, 25",
+    "district": "Calle de la Lusitània, 25",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 165000,
+    "m2": 280,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del Local - Calle de la Lusitània, 25\n\n**Punts forts:** Local de 280m² en venda a peu de carrer amb alçada acceptable (3m) ideal per a petit equip d'electrònica, oferint espai versàtil per a mostra, taller i oficina. **Punt feble:** Manca de subministrament trifàsic i fibra òptica pot ser limitant per a operacions tècniques i de connectivitat, aspectes crítics en el sector de l'electrònica.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "99919276",
+    "urlAnunci": "https://www.idealista.com/inmueble/99919276/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclC3ebBnf32ncGCAgGgKMlDAslyPWbqMs?Expires=1780520730&Signature=MEUCIHg3C-aOonKhRRmGaPxAkMNVvWhY-0~7l8IZ9Za1A9x1AiEAg05rdFHRDP-tOi43JFWK45PfOLblyTlXfRDSONf92g4_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 6,
+    "coords": [
+      41.5597077,
+      2.0919825
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:09.051Z"
+  },
+  {
+    "id": 37,
+    "address": "Calle de Vidal, 44",
+    "district": "Calle de Vidal, 44",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 284000,
+    "m2": 241,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Análisi del local - Calle de Vidal, 44\n\n**Punts forts:** Local ampli de 241m² en planta baixa amb excel·lent visibilitat de carrer, ideal per a una petita empresa d'electrònica. Disposició versàtil que permet combinar zona de vendes, magatzem i oficina en un mateix espai.\n\n**Limitacions a considerar:** Manca de trifàsica i fibra òptica són aspectes que caldria revisar, especialment per a activitats que requereixin subministrament elèctric potent o connexió ràpida a internet.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111444680",
+    "urlAnunci": "https://www.idealista.com/inmueble/111444680/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclgHc-gHcL2ncGCPejCwyAgIAMyPWbqMs?Expires=1780520731&Signature=MEYCIQDSvYJF3p2RvhhCUQqIHP9k8syFubIRE9tYfcLaVml0kQIhAMvwbGR2~da6Myemic81VLc7INZDzoLdk3Arfogqagvr&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 6,
+    "coords": [
+      41.5505848,
+      2.1143118
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:12.732Z"
+  },
+  {
+    "id": 40,
+    "address": "Covadonga, Sabadell",
+    "district": "Covadonga, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 265000,
+    "m2": 165,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Covadonga, Sabadell\n\n**Punts forts:** Local spacial de 165m² en venda a peu de carrer a Sabadell, ideal per a petita empresa d'electrònica amb ubicació comercial estratègica. Alçada suficient de 3m permet instal·lacions i emmagatzematge versàtil. **Punts febles a considerar:** Manca de trifàsica i fibra òptica són limitacions importants per a negoci tecnològic (caldria comprovar possibilitat de contractació).",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111444651",
+    "urlAnunci": "https://www.idealista.com/inmueble/111444651/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclznfagHcLJXcGCPejCwyAoyULyPWbqMs?Expires=1780520732&Signature=MEQCIBAj5beDSH0ChEM8yX01cAIfYOasgm5XMk6NUvDqifA4AiB0jM1UUpqy8gOb1tqKTuk58S5~IJu2aEpY0yOn9MP85A__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 6,
+    "coords": [
+      41.5486803,
+      2.1147277
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:25.411Z"
+  },
+  {
+    "id": 42,
+    "address": "Covadonga, Sabadell",
+    "district": "Covadonga, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 230000,
+    "m2": 227,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts destacats:**\nLocal de 227m² ben dimensionat en ubicació de peu de carrer a Covadonga (Sabadell) ideal per a una petita empresa d'electrònica, amb alçada suficient de 3m per instal·lacions tècniques. Però presenta limitacions importants: manca de trifàsica (essencial per a maquinària electrònica) i sense fibra òptica, factors que podrien encarir la implementació i dificultar operacions modernes.\n\n*Recomanació: Verificar si es pot instal·lar trifàsica i fibra abans de formalitzar, ja que són condicions quasi imprescindibles per a aquest sector.*",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111444470",
+    "urlAnunci": "https://www.idealista.com/inmueble/111444470/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeACHcGqHebBncGCPejCww-DAwGyPWbqMs?Expires=1780520734&Signature=MEQCIA8wxHRVQbdTT-APd0RKGQ2k0ZDIpt71oT0W3kB-d~hJAiB-usHB6p5CSt4Bhu8V0vXU1tp-8zX98dsnW0EKr4XjGw__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 6,
+    "coords": [
+      41.5501273,
+      2.1132185
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:33.236Z"
+  },
+  {
+    "id": 43,
+    "address": "Covadonga, Sabadell",
+    "district": "Covadonga, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 285000,
+    "m2": 195,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local a Covadonga, Sabadell\n\n**Punts forts:**\nLocal de 195m² en venda a peu de carrer a Covadonga, ideal per a una petita empresa d'electrònica amb espai versàtil per adaptar a magatzem i tenda. Malgrat la manca de trifàsica i fibra òptica, l'alçada de 3m és suficient per a aquesta activitat i el preu de 285.000€ pot ser competitiu per a la zona.\n\n⚠️ **Punts febles:** Absència de subministrament trifàsic i connexió de fibra, que poden limitar certes operacions.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111444707",
+    "urlAnunci": "https://www.idealista.com/inmueble/111444707/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMence2nd6HncGCPejC6MlCAsGyPWbqMs?Expires=1780520735&Signature=MEYCIQCu-CuGiy~Y3psNJfQDFUYa0Jxp0hk4dUw8uxw29sLawAIhAOULrSRJUkp~Wj2e9JDygfaop0BFfeHao6FDoCIqTZ8q&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 6,
+    "coords": [
+      41.5489126,
+      2.1148843
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:36.882Z"
   },
   {
     "id": 51,
@@ -2126,16 +2240,19 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'oferta\n\n**Punts forts:**\nLocal industrial cantonera de 390m² en ubicació excel·lent de carrer Caresmar amb doble accés (peu de carrer prioritari), ideal per a una empresa d'electrònica de 2 persones que necessita espai versàtil. La renda de 1.400€/mes és competitiva per a aquesta superfície i localització.\n\n**Advertencia:** Caldria verificar urgentment la disponibilitat de **subministraments crítics** (trifàsica i fibra estan marcats com \"undefined\") i confirmar l'**alçada exacta**, aspectes essencials per a activitats industrial/comercial.",
+    "notesIA": "# Anàlisi del Local - Carrer Caresmar\n\n**Punts forts:** Local ampli de 390m² en nau industrial cantonera amb excel·lent visibilitat de carrer, ideal per a una empresa d'electrònica amb accés privilegiat per als clients. Ubicació estratègica en cruïlla de dos carrers (Caresmar/Germans Farguell) que facilita el pie de carrer prioritari buscat. Preu competitiu de 1.400€/mes per als metres disponibles, però caldria verificar les instal·lacions (trifàsica i fibra no especificades) abans de confirmar viabilitat.\n\n⚠️ **Punt negatiu:** Falta informació crítica sobre subministraments elèctrics trifàsics i connexió de fibra, essencials per a negocis d'electrònica.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4776000000177",
     "urlAnunci": "https://catala.habitaclia.com/lloguer-nau_industrial-can_feu-sabadell-i4776000000177.htm?f=&amp;st=1&amp;geo=p&amp;from=list&amp;lo=55",
     "foto": "https://images.habimg.com/imgh/4776-177/nau-industrial-cantonera-carrer-caresmar--germans-farguell-lloguer-sabadell_57e59a65-fb3d-4440-81b2-201f3f097cfa.jpg",
     "score": 6,
-    "coords": null,
+    "coords": [
+      41.5405323,
+      2.0973979
+    ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:25.522Z"
+    "dataCaptura": "2026-06-02T21:10:10.653Z"
   },
   {
     "id": 66,
@@ -2161,7 +2278,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anunci - Local Comercial Electrònica\n\n**Punts forts:**\n\nLocal de 220m² en **ubicació privilegiada de peu de carrer** al Carrer Jovellanos, ideal per a visibilitat i captació de clients, amb un **preu competitiu de 1.580€/mes** que ofereix bon espai per a dues persones i activitat versàtil. Malgrat que falten especificacions tècniques (trifàsica i fibra no confirmades), les dimensions generades permeten instal·lar mostrador, zona de reparació i magatzem.",
+    "notesIA": "# Anàlisi del local comercial\n\n**Punts forts:**\nAquest local de 220m² al Carrer Jovellanos ofereix una excel·lent ubicació a peu de carrer amb un preu competitiu de 1.580€/mes, ideal per a una empresa d'electrònica amb espai versàtil per a 2 persones. Malgrat que no es confirma la disponibilitat de trifàsica ni fibra òptica, les dimensions generades permeten adaptar fàcilment la distribució segons les necessitats del negoci.\n\n**Aspecte a millorar:** Cal verificar prèviament la disponibilitat de connexions elèctriques trifàsiques i connexió a fibra, essencials per a aquest tipus d'activitat comercial.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4539004216709",
@@ -2170,7 +2287,7 @@
     "score": 6,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:51.496Z"
+    "dataCaptura": "2026-06-02T21:11:51.875Z"
   },
   {
     "id": 67,
@@ -2196,7 +2313,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local comercial\n\n**Punts forts:**\nLocal spaciós de 195m² a peu de carrer a la Ronda Zamenhof de Sabadell, ideal per a una empresa d'electrònica amb espai versàtil per adaptar a mostrador, magatzem i oficina, tot per 1.900€/mes. La ubicació en ronda comercial ofereix bona visibilitat i accessibilitat per a clients.\n\n**Punt feble a considerar:** No disposa de confirmació de subministrament trifàsic ni fibra òptica definits, aspectes crítics per a empreses d'electrònica que requereixen estabilitat elèctrica i connexió ràpida.",
+    "notesIA": "# Anàlisi del local comercial\n\n**Punts forts:** Local espacial de 195m² en ubicació de peu de carrer a la Ronda Zamenhof de Sabadell, ideal per a una empresa d'electrònica amb dues persones gràcies a la seva versatilitat i dimensió. El preu de 1.900€/mes és competitiu per aquesta superfície, tot i que caldria confirmar la disponibilitat de subministraments trifàsics i fibra òptica per a les necessitats operacionals de l'empresa.\n\n⚠️ **Aspecte a revisar:** Falta informació crítica sobre la potència elèctrica trifàsica i la connexió de fibra, essencials per a un negoci d'electrònica.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "26952004330484",
@@ -2205,7 +2322,7 @@
     "score": 6,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:56.776Z"
+    "dataCaptura": "2026-06-02T21:11:59.016Z"
   },
   {
     "id": 68,
@@ -2231,7 +2348,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 172m² al **Carrer de Sant Ferran** ofereix una **ubicació excel·lent a peu de carrer**, ideal per a una empresa d'electrònica que necessiti visibilitat i accés directe de clients. L'espai versàtil permet distribució flexible per a les dues persones de l'equip, tot i que caldria **confirmar la disponibilitat de trifàsica i fibra**, aspectes crítics per a aquest sector.\n\n⚠️ **Punts a verificar:** Els paràmetres tècnics essencials (electricitat trifàsica i connexió de fibra) apareixen indefinits, per la qual cosa és imprescindible contactar amb l'arrendador antes de decidir-se.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 172m² al Carrer de Sant Ferran ofereix una ubicació de **peu de carrer ideal per a una empresa d'electrònica**, amb visibilitat directa per atraure clients. Malgrat la falta de detalls sobre subministraments (trifàsica i fibra no especificats), l'espai versàtil permet distribuir zones de venda, magatzem i oficina. El preu de 1.500€/mes és competitiu per la superfície disponible, tot i que es recomana verificar les instal·lacions elèctriques i de telecomunicacions abans de formalitzar.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4539004216772",
@@ -2240,7 +2357,7 @@
     "score": 6,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:03.038Z"
+    "dataCaptura": "2026-06-02T21:12:05.955Z"
   },
   {
     "id": 77,
@@ -2266,7 +2383,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 55m² al centre peatonal és ideal per a una empresa d'electrònica de dues persones, amb ubicació estratègica de peu de carrer que facilita la captació de clients. Però presenta **limitacions importants**: la manca de dades sobre subministrament trifàsic i fibra òptica és preocupant per a aquest sector, i el preu de 1.300€/mes resulta elevat tenint en compte les incerteses tècniques.\n\n**Recomanació:** Abans de decidir, cal verificar si disposa de trifàsica (essencial per a electrònica) i connectivitat, ja que són condicions crítiques no especificades.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de 55m² en zona peatonal del centre amb ubicació excel·lent per a una petita empresa d'electrònica, oferint visibilitat i accés fàcil per a clients. Malgrat que no especifica detalls tècnics crítics (trifàsica i fibra indefinides), l'espai versàtil és adequat per a 2 persones i permet tant vendes com reparacions. El preu de 1.300€/mes és competitiu per la localització de centre urbà, tot que cal verificar imperativament les connexions elèctrica i d'Internet abans de decidir.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4212004418415",
@@ -2275,276 +2392,10 @@
     "score": 6,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:53.053Z"
+    "dataCaptura": "2026-06-02T21:13:05.794Z"
   },
   {
-    "id": 3,
-    "address": "Calle de Jacquard, 54",
-    "district": "Calle de Jacquard, 54",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 3100,
-    "m2": 777,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local - Calle de Jacquard, 54\n\n**Punts forts:** Local amb excel·lent visibilitat en peu de carrer de 777m², ideal per a una empresa d'electrònica amb potencial de creixement. Preu de 3.100€/mes és competitiu per aquesta superfície i ubicació.\n\n**Punts febles:** Les mancances de connexió trifàsica i fibra òptica són problemes crítics per a una empresa d'electrònica (necessitarà subcontractar aquestes instal·lacions amb cost addicional). L'alçada de 3m és justa per a magatzem o mostra de productes electrònics.\n\n**Recomanació:** Viable si es resolen prèviament les connexions elèctrica i d'internet.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "110959824",
-    "urlAnunci": "https://www.idealista.com/inmueble/110959824/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebenclHnfaBncGCHolgPd6BqMGyPWbqMs?Expires=1780519883&Signature=MEYCIQDhGjL2b6PV5TfDsU6EvDIi2FqADiafsUkQICn~1ATUtgIhAPyAMefSIR3NHmEuxS-hM~4nAM6ahjwcdbB~8LOjA5XF&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.542931,
-      2.0973433
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:10.038Z"
-  },
-  {
-    "id": 4,
-    "address": "Paseo del Comerç, 18",
-    "district": "Paseo del Comerç, 18",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 2000,
-    "m2": 459,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local\n\n**Punts forts:** Local ampli de 459m² a peu de carrer en zona comercial prioritària, ideal per a empresa d'electrònica amb espai versàtil per a magatzem i venda. Ubicació estratègica al Paseo del Comerç amb bon potencial de visibilitat i accés de clients.\n\n**Limitacions importants:** Manca de subministrament trifàsic (essencial per a molts equips electrònics) i connexió de fibra óptica, factors crítics que caldria verificar si es poden solucionar amb obres. Alçada de només 3m pot resultar limitada per a certs tipus d'estanteria o maquinària.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111622813",
-    "urlAnunci": "https://www.idealista.com/inmueble/111622813/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXebBnceJXf32ncGCAh6CD4LDCUIyPWbqMs?Expires=1780519884&Signature=MEQCIA7PWWrBbGoTmf9yszhxaESn~B1qdIM-vQa3E3rptJAIAiBNdcx8IodSmbjvRwchD2hnrGk34iihUkF-WklXp0plZA__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5315536,
-      2.1151224
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:14.219Z"
-  },
-  {
-    "id": 11,
-    "address": "Espronceda, Sabadell",
-    "district": "Espronceda, Sabadell",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 14900,
-    "m2": 3764,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 3.764m² a peu de carrer a Espronceda (Sabadell) amb una alçada adequada de 3m, idoni per a una empresa d'electrònica de 2 persones que necessita espai versàtil per a magatzem i demostració. Però presenta **limitacions significatives**: manca de trifàsica (problema crític per a maquinaria electrònica) i absència de fibra òptica, factors que poden comprometre la viabilitat operativa de l'activitat. La renda de 14.900€/mes és elevada per al format empresarial proposat, especialment considerant que el local està sobredimensionat per a només 2 treballadors.\n\n**Veredicte:** ❌ No recomanat sense negociar instal·lacions elèctriques i reparacions estructurals.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111544939",
-    "urlAnunci": "https://www.idealista.com/inmueble/111544939/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-gHcGHneo93cGCAglJXr3CAyAyPWbqMs?Expires=1780519886&Signature=MEUCIQDckuTSkhwvkQvI2LsxHmxYfug0RGqbbvgFsaCdq6BOowIgHc6Cp5N1hrckaElq4K~YwhmjBvvnwF2EaA~7J0CzUuc_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5282077,
-      2.1123135
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:46.250Z"
-  },
-  {
-    "id": 12,
-    "address": "Calle de Bernat Metge, 130",
-    "district": "Calle de Bernat Metge, 130",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 10000,
-    "m2": 2120,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 2.120m² en una ubicació de peu de carrer prioritari a Bernat Metge és ideal per a una petita empresa d'electrònica amb ample espai versàtil per adaptar-se a diferents necessitats de magatzem, exposició i oficina. Però presenta limitacions importants: **manca trifàsica i fibra òptica** —essencial per a electrònica— i el preu de **10.000€/mes és molt elevat** considerant que no compta amb aquests serveis bàsics.\n\n**Recomanació:** Negociar dràsticament el preu o buscar alternatives amb infraestructura adequada, ja que la manca de subministre trifàsic és un frenador crític.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "93165310",
-    "urlAnunci": "https://www.idealista.com/inmueble/93165310/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLznc-PncMHnc-DAyACCUIo4DI9Zuoyw?Expires=1780519886&Signature=MEYCIQDLRruLQY2Egy7~VwhdwNTq-jP64v2imRNc-5fIEF3OSgIhAKvzzQYIjLD8yWx5i7mtzrOMZIdQC0YCqb5-gYa-jTz9&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5274428,
-      2.1019607
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:50.819Z"
-  },
-  {
-    "id": 14,
-    "address": "Calle de Bernat Metge, 134",
-    "district": "Calle de Bernat Metge, 134",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 20000,
-    "m2": 4535,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local amb excel·lent ubicació a peu de carrer a Bernat Metge, ideal per a una petita empresa d'electrònica amb espai versàtil de 4.535m² que permet adaptar-se a diferents necessitats. **Punts febles:** L'alçada limitada de 3m pot ser insuficient per a certs maquinaris, i l'absència de trifàsica i fibra òptica són limitacions importants per a una empresa d'electrònica que requereix potència i connexió d'alt rendiment.\n\n**Recomanació:** Desaconsellat llevat que no sigui una empresa de venda/assembla amb pocs requeriments elèctrics; caldria confirmar si és possible contractar aquests serveis addicionals.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "93168595",
-    "urlAnunci": "https://www.idealista.com/inmueble/93168595/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMo3c-gHc-Hnc-DKMlenolJQvI9Zuoyw?Expires=1780519887&Signature=MEYCIQDGcpwSfAPjPP5VVjUifPorRzBa1vUscLjXfl6vf4CzRgIhALViY9DWlMW7XBvlkiigEfzZkafJQzwacsbXXeAqlEm0&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5273775,
-      2.1019627
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:53:58.866Z"
-  },
-  {
-    "id": 16,
-    "address": "Sabadell, Barcelona",
-    "district": "Sabadell, Barcelona",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 2340,
-    "m2": 637,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local d'electrònica\n\n**Punts forts:**\nLocal spaciós de 637m² a peu de carrer a Sabadell amb una llotja ideal per a empresa d'electrònica de 2 persones, oferint versatilitat d'ús i visibilitat comercial. L'alçada de 3m permet instal·lar estanteries i expositores, cosa essencial per a aquest sector. **Però atenció:** la manca de trifàsica i fibra són limitacions importants que requereixen inversió inicial per adequar les instal·lacions elèctriques i de connectivitat.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111495505",
-    "urlAnunci": "https://www.idealista.com/inmueble/111495505/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclPncM93f3BncGCPc-9z4IBvejyPWbqMs?Expires=1780519888&Signature=MEQCIBEcqin9C2pL440PbZ5gSFDNqQsi-sfRiZgMHqVAM5TDAiBV67gxpg6LeFJUiNXYFWXsPsf2edfV6AVTAoh3R8IpiQ__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5398323,
-      2.136925
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:05.992Z"
-  },
-  {
-    "id": 18,
-    "address": "Calle dels Corrals Nous, 24",
-    "district": "Calle dels Corrals Nous, 24",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 48505,
-    "m2": 6613,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:** Local amb excel·lent ubicació a peu de carrer (Calle dels Corrals Nous) i gran superfície de 6.613 m², ideal per a una empresa d'electrònica amb espai versàtil per a magatzem i mostra. **Punts febles:** Malgrat les avantatges, la falta de connexió trifàsica i fibra òptica són limitacions significatives per a una empresa tecnològica, i l'alçada de 3m és justa per a certs equipaments. **Preu:** Els 48.505€/mes és una inversió important que requereix avaluar ROI segons la zona comercial.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111563502",
-    "urlAnunci": "https://www.idealista.com/inmueble/111563502/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMencGm3e1o3cGCAglDAv3owb3yPWbqMs?Expires=1780519888&Signature=MEQCIFOfqDm4T4HKNpVVK0Lp47Rs0oj7CrGvnU2qNUkAxbWrAiAwm1sy9XQCGrgc7BT-h7kjsBSlTpBqJtKEmFChlu8hFA__&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5433742,
-      2.1332157
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:14.050Z"
-  },
-  {
-    "id": 28,
+    "id": 2,
     "address": "Calle de Bernat Metge, 134",
     "district": "Calle de Bernat Metge, 134",
     "type": "local",
@@ -2567,22 +2418,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 4.535m² en ubicació de peu de carrer a Calle de Bernat Metge, ideal per a una empresa d'electrònica amb espai versàtil per adequar-se a les necessitats del negoci. Malgrat la mancança de subministrament trifàsic i connexió de fibra òptica, l'alçada de 3 metres permet instal·lacions de maquinària estàndard.\n\n**Observació:** El preu de 3.600.000€ és molt elevat per a una empresa de 2 persones; caldria considerar si la inversió es recupera amb creixement futur.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal spaciós de 4.535 m² en ubicació de peu de carrer a Bernat Metge, ideal per a una empresa d'electrònica amb potencial d'versatilitat per a diferents usos. Malgrat la manca de fibra òptica i trifàsica, l'alçada de 3 metres permet instal·lacions verticals i emmagatzematge.\n\n**Punt dèbil principal:** El preu de 3.600.000€ és molt elevat per a una empresa de 2 persones, i la manca de trifàsica és una limitació significant per a electrònica.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111640156",
     "urlAnunci": "https://www.idealista.com/inmueble/111640156/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMo3c-gHc-Hnc-DKMlenolJQvI9Zuoyw?Expires=1780519893&Signature=MEUCIFp8NsPJUiZVjx0lDel73Q~EL0CUrK8x17dywHxqNgBAAiEAhzxeLJ4qmCqzcXar5TxWQe6YnByaW4Bb7~Mt3b5Y4RA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMo3c-gHc-Hnc-DKMlenolJQvI9Zuoyw?Expires=1780520718&Signature=MEUCIQCoLhnsMWUUM-uDfP-14oumDM6qdpiM2zF93hZ5uRIDLwIgF8qJEj3CW1q~cCYi46hz9YtEK6k-iuaL3YmPvNTnMPk_&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5273775,
       2.1019627
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:53.614Z"
+    "dataCaptura": "2026-06-02T21:06:56.759Z"
   },
   {
-    "id": 29,
+    "id": 5,
     "address": "La Concòrdia - Can Rull, Sabadell",
     "district": "La Concòrdia - Can Rull, Sabadell",
     "type": "local",
@@ -2605,98 +2456,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal spaciós de 473m² en ubicació de peu de carrer a La Concòrdia-Can Rull, ideal per a una empresa d'electrònica amb potencial de creixement. Malgrat la manca de trifàsica i fibra (limitacions tècniques a considerar), l'alçada de 3m permet instal·lacions versàtils i l'espai és suficient per a 2 persones amb reserves per a expansió futura. El preu de 678.000€ en venda ofereix solidesa patrimonial, tot i que requerirà avaluar les obres d'adequació necessàries pels serveis tècnics.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\n\nAquest local de 473m² al pie de carrer de Sabadell és ideal per a una empresa d'electrònica de 2 persones, oferint un espai versàtil i ben dimensionat a un bon preu per metre quadrat. Malgrat la manca de trifàsica i fibra (limitacions a considerar), la ubicació en zona comercial de Can Rull i l'alçada de 3m permeten una bona distribució funcional per a magatzem i exposició. La compra en propietat proporciona estabilitat i patrimoni a mig-llarg termini.\n\n**Punts febles:** Caldria verificar la possibilitat de contractar trifàsica i fibra, essencials per a electrònica moderna.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111580151",
     "urlAnunci": "https://www.idealista.com/inmueble/111580151/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAHncGC3cMDHcGCAgGCKN6PqMMyPWbqMs?Expires=1780519895&Signature=MEQCIBl-ydZv0lUB~5mbhWunyYHqRSysyB8qGuznyFfV4c~4AiBW4c0UngK-val0EVKTsowl42woWPzOekyRXMyATqxWcw__&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAHncGC3cMDHcGCAgGCKN6PqMMyPWbqMs?Expires=1780520719&Signature=MEQCIAYBj82QJH8K3EH9uxjycSrfvXjXATC1fmwybeJRcxUUAiB4hSqNAx5fST0M2N~lApwPArPUcpk~lNLRhXv15CgU-w__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5590439,
       2.0809619
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:54:57.208Z"
+    "dataCaptura": "2026-06-02T21:07:08.780Z"
   },
   {
-    "id": 33,
-    "address": "Sabadell, Barcelona",
-    "district": "Sabadell, Barcelona",
-    "type": "local",
-    "modalitat": "lloguer",
-    "preu": 2340,
-    "m2": 637,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local ampli de 637m² a peu de carrer a Sabadell, ideal per a una empresa d'electrònica amb 2 persones, amb suficient espai per a magatzem, taller i exposició. **Punts febles:** Manca de subministraments crítics (sense trifàsica ni fibra), essencials per a empreses electròniques modernes, i l'alçada de 3m és justet per a certs equipaments.\n\n**Recomanació:** Abans de formalitzar, verificar si es poden instal·lar la trifàsica i la fibra ràpidament, ja que són limitacions importants per al sector.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111495272",
-    "urlAnunci": "https://www.idealista.com/inmueble/111495272/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMC3eAm3f32ncGCPc-9wsMgKOjyPWbqMs?Expires=1780519894&Signature=MEUCIQDLVZoSzBtHYdWnU~sf75pc8Yy~4vMP2eQOXnxUPeNPmAIgA4Hnonf6I1UYIKgr1eoUvN8~wVVCSkkhCFMrSxceqmU_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5390939,
-      2.1374874
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:14.279Z"
-  },
-  {
-    "id": 37,
-    "address": "Hostafrancs, Sabadell",
-    "district": "Hostafrancs, Sabadell",
-    "type": "local",
-    "modalitat": "compra",
-    "preu": 280000,
-    "m2": 395,
-    "alcada": 3,
-    "planta": "altre",
-    "parkingProper": {
-      "tipus": "carrer",
-      "distancia": 200
-    },
-    "requisits": {
-      "fibra": false,
-      "carrega": false,
-      "aire": false,
-      "acces": false,
-      "parking": false,
-      "bany": false,
-      "cuina": false
-    },
-    "tags": [],
-    "notesIA": "# Anàlisi del Local - Electrònica Sabadell\n\n**Punts forts:**\nLocal spaciós de 395m² al cor de Hostafrancs amb excel·lent ubicació a peu de carrer, ideal per a una petita empresa d'electrònica amb potencial de visibilitat i captació de clients. Preu competitiu de 280.000€ en venda, oferint possibilitat d'inversió patrimonial amb espai versàtil per adaptar a showroom, magatzem i oficina.\n\n**Punts febles a considerar:** \nManca de trifàsica i fibra òptica són limitacions significatives per a una empresa d'electrònica (requerirà inversió en instal·lacions) i els 3m d'alçada és ajustat per a certs tipus de magatzem.",
-    "comentaris": "",
-    "portal": "idealista",
-    "ref": "111589441",
-    "urlAnunci": "https://www.idealista.com/inmueble/111589441/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejqHfODHeAPncGCAgG96OjC4AIyPWbqMs?Expires=1780519898&Signature=MEUCIEmgXbblLgyiPGJzX6Fj2AqXSC4pUEdCasE7aJaqkGTUAiEA6cBvD1npJ2dZYe~-8kDo-QMrC2DJ~ijnD~QS4w5pmWg_&Key-Pair-Id=K20EOYVFELHOX5",
-    "score": 0,
-    "coords": [
-      41.5462445,
-      2.0992595
-    ],
-    "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:29.873Z"
-  },
-  {
-    "id": 39,
+    "id": 12,
     "address": "Gràcia, Sabadell",
     "district": "Gràcia, Sabadell",
     "type": "local",
@@ -2719,28 +2494,28 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local - Gràcia, Sabadell\n\n**Punts forts:** Local spacios de 515m² al peu de carrer a Gràcia, ideal per a una petita empresa d'electrònica amb excel·lent potencial comercial. L'alçada de 3 metres permet instal·lacions versàtils i l'espai ampli facilita la distribució entre zona de venda, magatzem i oficina.\n\n**Punt dèbil a considerar:** Manca connexió trifàsica i fibra òptica, aspectes importants per a electrònica; caldria valorar els costos d'instal·lació d'aquestes millores.",
+    "notesIA": "# Anàlisi del local\n\n**Punts forts:** Local espaciat de 515m² al barri de Gràcia (Sabadell) amb excel·lent ubicació de peu de carrer, ideal per a una empresa d'electrònica amb potencial per adaptar l'espai a diferents necessitats. El preu de venda (420.000€) és competitiu per a aquesta superfície.\n\n**Punts febles:** Manca de subministrament trifàsic és un **inconvenient significatiu** per a electrònica (càrecs elèctrics), i l'absència de fibra òptica limita la connectivitat. L'alçada de 3m és justa per a exposició de productes voluminosos.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "111588588",
     "urlAnunci": "https://www.idealista.com/inmueble/111588588/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-m3c-PncIHncGCAgG9wglCHoGyPWbqMs?Expires=1780519899&Signature=MEUCIQCNT3uDmlaqL9qLrij82IRIgcvU-HMjzP-GcsxZfJ2ukwIgFP8TD6G4mo7X~hgJ9LzLMOvi51JqUf63J6pdW9cxgEA_&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-m3c-PncIHncGCAgG9wglCHoGyPWbqMs?Expires=1780520722&Signature=MEQCIB-1Rea-covvgX6WEeLzBVwGfS9Y67Ntsi000DtL-uSJAiBwwngq11l8tqmRLIXLGqlTuYQ8NObS~EZyBSrLQPnDvQ__&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5332848,
       2.109203
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:38.157Z"
+    "dataCaptura": "2026-06-02T21:07:36.331Z"
   },
   {
-    "id": 44,
-    "address": "Torre-romeu, Sabadell",
-    "district": "Torre-romeu, Sabadell",
+    "id": 14,
+    "address": "Hostafrancs, Sabadell",
+    "district": "Hostafrancs, Sabadell",
     "type": "local",
-    "modalitat": "lloguer",
-    "preu": 2750,
-    "m2": 475,
+    "modalitat": "compra",
+    "preu": 280000,
+    "m2": 395,
     "alcada": 3,
     "planta": "altre",
     "parkingProper": {
@@ -2757,22 +2532,22 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:** Local spacious de 475m² en planta baixa a Torre-romeu ideal per a petita empresa d'electrònica amb potencial comercial a peu de carrer. Alçada de 3m suficient per a emmagatzematge i instal·lacions de mitjana complexitat.\n\n**Punts febles:** Manca de subministrament trifàsic (essencial per a molts aparells electrònics) i absència de fibra òptica dificulten l'operativa tècnica i la connectivitat. **La inversió en adaptacions és important.**\n\nPreu raonable per la mida, però requereix verificar possibilitats de contractar aquests serveis essencials.",
+    "notesIA": "# Anàlisi del local - Electrònica a Hostafrancs\n\n**Punts forts:**\nLocal ampli de 395m² en ubicació de peu de carrer a Hostafrancs, ideal per a una petita empresa d'electrònica amb espai versàtil per a vendes, magatzem i oficina. Tot i que manca connexió de fibra i potència trifàsica (limitació important per a certes activitats), els 3m d'alçada permeten aprofitar l'espai vertical. **Preu: 280.000€ és competitiu per la superfície.**\n\n⚠️ **Limitacions:** Absència de trifàsica és un inconvenient significatiu per maquinària pesada; falta de fibra pot afectar operativitat digital.",
     "comentaris": "",
     "portal": "idealista",
-    "ref": "103497630",
-    "urlAnunci": "https://www.idealista.com/inmueble/103497630/",
-    "foto": "https://img4.idealista.com/s/v1/2rv6QcEy-cuQdXf-iXeAm13Gd1k6LQgld1rIdXX8iZCyyEgHqGnBZsgy4s5om8jizmbkm8F3qKN3CIB3DCV3Bgj3gCWjoyWAo8j1m6jL?Expires=1780519900&Signature=MEUCIECbezy89p2gAifJ8Zv1DzzYQpjW~zrrzvfmqR2HyM8iAiEAicITFO6MLn8VH-qBxU1liEWzT1L9jcza3651tyg-UC0_&Key-Pair-Id=K20EOYVFELHOX5",
+    "ref": "111589441",
+    "urlAnunci": "https://www.idealista.com/inmueble/111589441/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXejqHfODHeAPncGCAgG96OjC4AIyPWbqMs?Expires=1780520722&Signature=MEYCIQCbCdUar3rRA4XwfvzASe~TVXIow63jb-ELwv4Oszo5WAIhANeY8jnWZ7zoKHWfaz6g0eadiBqB-dKfJ9IebBC8ZVec&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
-      41.5399879,
-      2.1373524
+      41.5462445,
+      2.0992595
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:55:57.085Z"
+    "dataCaptura": "2026-06-02T21:07:44.114Z"
   },
   {
-    "id": 49,
+    "id": 21,
     "address": "Centre, Sabadell",
     "district": "Centre, Sabadell",
     "type": "local",
@@ -2795,19 +2570,247 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal ampli de 2.487m² al centre de Sabadell amb excel·lent ubicació a peu de carrer, ideal per a una empresa d'electrònica que necessiti espai versàtil per a showroom i magatzem. Tot i que manca de trifàsica i fibra òptica (aspectes a considerar segons les necessitats tècniques), l'alçada de 3 metres és adequada per a la majoria de funcions comercials.\n\n**Observació:** El preu de venda (1.170.000€) és elevat per a aquest segment; convindria analitzar si l'opció de lloguer seria més viable per a una empresa de dues persones.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\n\nLocal ampli de 2.487 m² ubicat al centre de Sabadell amb excel·lent visibilitat de peu de carrer, ideal per a una empresa d'electrònica de dues persones que necessita espai versàtil per a magatzem, showroom o oficina. **Però**, la mancança de trifàsica és una **debilitat important** per a activitats que requereixin maquinària elèctrica, i l'absència de fibra óptica limita la connectivitat. **L'alçada de 3m és adequada**, però el preu de 1.170.000€ és molt elevat per a les necessitats de dues persones, potser seria més rendible llogar que comprar.",
     "comentaris": "",
     "portal": "idealista",
     "ref": "109933731",
     "urlAnunci": "https://www.idealista.com/inmueble/109933731/",
-    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMencGC3f3gHcG94AlBggGJT4-yPWbqMs?Expires=1780519903&Signature=MEYCIQDkJBqFJS8aa~KUDdAo~ZhG1HP1hSMiDPz8w0L2225g7AIhAPSuxr9EPNpI6pGsJNaKgpB0SeLFtMa~ksUdA0uIlfKF&Key-Pair-Id=K20EOYVFELHOX5",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcMencGC3f3gHcG94AlBggGJT4-yPWbqMs?Expires=1780520724&Signature=MEYCIQDJup5IqysRmxcXFlX~SGWJ4~cG7jdj2IgZ0NqYSJ1jzAIhANA3aSUN0ioztltLtlW6Dk-y7376g~L1wayuNcLcGF0U&Key-Pair-Id=K20EOYVFELHOX5",
     "score": 0,
     "coords": [
       41.5476701,
       2.0970194
     ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:15.882Z"
+    "dataCaptura": "2026-06-02T21:08:12.002Z"
+  },
+  {
+    "id": 26,
+    "address": "Ronda d'Europa, 571",
+    "district": "Ronda d'Europa, 571",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 563000,
+    "m2": 1386,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal spaciós de 1.386m² al peu de carrer a Ronda d'Europa, ideal per a una empresa d'electrònica amb espai versàtil per a magatzem i mostrador. Preu de 563.000€ ofereix bon potencial d'inversió amb ubicació privilegiada, tot i que presenta limitacions tècniques (manca trifàsica i fibra) que requeriran avaluació per als equips electrònics.\n\n⚠️ **Punts febles:** L'absència de subministrament trifàsic i connexió de fibra són limitacions significatives per a aquest sector.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111549540",
+    "urlAnunci": "https://www.idealista.com/inmueble/111549540/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXfagHc-znd693cGCAgGBgYLegYMyPWbqMs?Expires=1780520726&Signature=MEYCIQCzJbGDddWoAb2rfvHVcqC-8~MVBjBbw4ZvHSq9xG81ZQIhALUjBCWwroKSn856x9et5d7ECvWBGQ9-70biILsRZGdM&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5646421,
+      2.0822622
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:32.423Z"
+  },
+  {
+    "id": 30,
+    "address": "Sabadell, Barcelona",
+    "district": "Sabadell, Barcelona",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 385000,
+    "m2": 500,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local d'electrònica a Sabadell\n\n**Punts forts:**\nLocal spaciós de 500m² en venda a peu de carrer a Sabadell, ideal per a una empresa d'electrònica amb gran potencial comercial i versatilitat d'usos. Tot i que presenta limitacions tècniques (sense trifàsica ni fibra) que caldria resoldre, l'alçada de 3m és suficient per a la majoria d'operacions. **El preu de 385.000€ per a aquesta superfície i ubicació en zona de pas representa una bona oportunitat d'inversió a llarg termini.**",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111528654",
+    "urlAnunci": "https://www.idealista.com/inmueble/111528654/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLgHcM93d6HncGCPeACAwICAZ6yPWbqMs?Expires=1780520728&Signature=MEQCIEsQp~Cg04cY7uXzBVbZfJ7OY6xIgVTpMm2SLKdg5vKRAiBxQD-KFVKZArxlmcI-xnAHh0piz8OjXqX9QohzktH1ZQ__&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5359351,
+      2.1095569
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:47.337Z"
+  },
+  {
+    "id": 32,
+    "address": "Calle de Samuntada, 63 -65",
+    "district": "Calle de Samuntada, 63 -65",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 269000,
+    "m2": 404,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Electrònica\n\n**Punts forts:**\nLocal de 404m² en ubicació de peu de carrer a Samuntada, ideal per a petita empresa d'electrònica amb suficient espai versàtil per a showroom, taller i magatzem. **Però presenta limitacions importants:** manca connexió trifàsica i fibra òptica (essencial avui dia), i l'alçada de només 3m pot ser insuficient per a certs equips o instal·lacions tècniques. Requeriria obres d'adequació per ser completament funcional.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111557017",
+    "urlAnunci": "https://www.idealista.com/inmueble/111557017/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXcLHncLHncGgHcGCAgl96M-DAuAyPWbqMs?Expires=1780520728&Signature=MEUCIQDs7aaTmqplZHVGp53aFKcvZjTwqU-MJ2Ge36~g91TtFQIgOWVrfupATC850l011EtGQ8L~t2aQrTeIDW0I-5vALsY_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5345734,
+      2.1171837
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:08:54.764Z"
+  },
+  {
+    "id": 34,
+    "address": "Gràcia, Sabadell",
+    "district": "Gràcia, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 370000,
+    "m2": 506,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi del local - Gràcia, Sabadell\n\n**Punts forts:**\nLocal spaciós de 506m² a peu de carrer a Gràcia, ideal per a una empresa de 2 persones amb possibilitat de configurar diverses zones de treball i exposició. L'espai versàtil permet adaptar-lo a mostrador, magatzem i oficina, amb una alçada de 3m suficient per a instal·lacions. El preu de 370.000€ pot ser atractiu per a aquest metratge, però és una limitació important la falta de trifàsica i fibra òptica, que requeriran inversions addicionals en instal·lacions elèctriques i connectivitat.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111465910",
+    "urlAnunci": "https://www.idealista.com/inmueble/111465910/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXclm3faCHcGJXcGCPcLCAyAo6OjyPWbqMs?Expires=1780520730&Signature=MEUCIQCpLxAob2qgziZUa1toTXqqArLqbtQVh8PmLeqkGnGqCwIgAITVl4tdL6hfeNSZNntHv9c-m8LERt7HVRwC42pRHz8_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5338913,
+      2.1074231
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:01.790Z"
+  },
+  {
+    "id": 45,
+    "address": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
+    "district": "La Creu de Barberà - Avinguda - Eixample, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 348000,
+    "m2": 268,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'Espai per a Electrònica\n\n**Punts forts:** Local de 268m² en ubicació privilegiada a peu de carrer a l'Eixample de Sabadell, ideal per a visibilitat i captació de clientela. Espai versàtil amb alçada suficient (3m) per a magatzem o exposició de productes electrònics, perfecte per a un equip de dues persones.\n\n**Limitació destacada:** Manca de trifàsica i fibra òptica, aspectes crítics per a empreses d'electrònica que requereixen subministre elèctric potent i conectivitat robusta.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111406240",
+    "urlAnunci": "https://www.idealista.com/inmueble/111406240/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXeAznebtXc-CHcGCPcMDPc-9_c-yPWbqMs?Expires=1780520736&Signature=MEYCIQDhvARc-flSmP5UUTewaB5LkfRgae9R1g3Yw3ijo~-gBAIhAKfKJ4A4t8wp6aGFkDR2KGqkp5qOu1w1oWLkHZ1bh-a1&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5268313,
+      2.1214437
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:44.462Z"
+  },
+  {
+    "id": 47,
+    "address": "Gràcia, Sabadell",
+    "district": "Gràcia, Sabadell",
+    "type": "local",
+    "modalitat": "compra",
+    "preu": 500000,
+    "m2": 608,
+    "alcada": 3,
+    "planta": "altre",
+    "parkingProper": {
+      "tipus": "carrer",
+      "distancia": 200
+    },
+    "requisits": {
+      "fibra": false,
+      "carrega": false,
+      "aire": false,
+      "acces": false,
+      "parking": false,
+      "bany": false,
+      "cuina": false
+    },
+    "tags": [],
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nLocal spaciós de 608m² al barri de Gràcia (Sabadell) ideal per a empresa d'electrònica, amb ubicació en peu de carrer prioritari que facilita la visibilitat i captació de clients. Malgrat la mancança de subministrament trifàsic i connexió de fibra, l'alçada de 3m és suficient per a emmagatzematge i exposició de productes electrònics.\n\n⚠️ **Punts febles:** Falta energia trifàsica (necessària per a moltes empreses) i no disposa de fibra òptica, aspectes crítics per a negocis tecnològics actuals.",
+    "comentaris": "",
+    "portal": "idealista",
+    "ref": "111533971",
+    "urlAnunci": "https://www.idealista.com/inmueble/111533971/",
+    "foto": "https://img4.idealista.com/s/v1/yLv6QcHaG8GQdXf-iXclZqDGd1k6LVp3MsjLdXX8iZCym0gHqPJayDLizmibyOLOZuSbwXc-2nclDHeoo3cGCPeAo_cLBj56yPWbqMs?Expires=1780520736&Signature=MEUCICxiNFTK7Cv5Ia4JOa3-zJe8RSW1xlaUu50uM1jdtdPLAiEA64s9JD~ZABrNpuGwZILfQO1WPDMLxaxDUQ03DGscON0_&Key-Pair-Id=K20EOYVFELHOX5",
+    "score": 0,
+    "coords": [
+      41.5363858,
+      2.0989068
+    ],
+    "contacte": null,
+    "dataCaptura": "2026-06-02T21:09:51.755Z"
   },
   {
     "id": 52,
@@ -2833,7 +2836,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local de grans dimensions (636m²) amb ubicació excel·lent al peu de carrer del Carrer ca n'Ermengol, ideal per a una empresa d'electrònica amb bona visibilitat i accessibilitat. Nau ben comunicada amb un preu competitiu de 2.340€/mes que ofereix espai versàtil per adaptar-se a diferents necessitats.\n\n**Punts febles:** Falta informació crítica sobre subministraments (trifàsica i fibra óptica no especificats) essencial per a una empresa tecnològica, i no es detalla l'alçada útil de la nau.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 636m² ubicat al Carrer ca n'Ermengol 12 ofereix una **nau ben comunicada i versàtil ideals per a una empresa d'electrònica**, amb un preu accessible de 2.340€/mes. Però és **important verificar les condicions tècniques** (trifàsica, fibra i alçada apareixen sense definir), que són crucials per a aquest tipus de negoci.\n\n⚠️ **Advertència:** Falta informació crítica sobre infraestructures elèctriques i de telecomunicacions. Recomanem confirmar aquestes especificacions abans de considerar-la seriosament.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "52969000000009",
@@ -2842,7 +2845,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:31.224Z"
+    "dataCaptura": "2026-06-02T21:10:16.044Z"
   },
   {
     "id": 53,
@@ -2868,7 +2871,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local industrial de 373m² a Can Roqueta ofereix una superfície molt generosa per a una empresa d'electrònica amb només 2 persones, permettent una distribució versàtil entre magatzem, obrador i zona de vendes amb potencial de creixement. Tot i que el preu de 10.297€/mes és considerable, es tracta d'una nave de nova construcció que garanteix bon estat, estructures modernes i flexibilitat d'espai. **Nota important:** La informació tècnica incompleta (trifàsica, fibra i alçada no especificats) requereix verificació urgent, especialment la disponibilitat de subministraments elèctrics adequats per a activitat electrònica.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal industrial de 373m² a Can Roqueta, ideal per a una empresa d'electrònica amb espai versàtil per a dues persones i potencial d'expansió futura. Tot i ser una nau tipus C de nova construcció amb bona alçada, l'anunci presenta **deficiències crítiques**: no confirma subministrament trifàsic ni connexió de fibra òptica (imprescindibles per a electrònica), i **manca informació sobre accés a peu de carrer** que era prioritari per a l'empresa.\n\n⚠️ **Recomanació:** Contactar el propietari per aclarir aquests punts essencials abans de descartar-lo.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4830004439380",
@@ -2877,7 +2880,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:37.378Z"
+    "dataCaptura": "2026-06-02T21:10:23.206Z"
   },
   {
     "id": 55,
@@ -2903,7 +2906,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 320m² amb accés directe a peu de carrer al Carrer de Bernat Metge, ideal per a una empresa d'electrònica que necessita visibilitat i circulació de clients. La configuració tipus \"B\" ofereix versatilitat per adequar l'espai a sales de mostra, magatzem i oficina segons les necessitats. Però cal verificar urgentment les instal·lacions de trifàsica i fibra, així com l'alçada útil (dades incompletes), ja que són essencials per a electrònica.\n\n⚠️ **Alerta:** Falta informació crítica sobre subministraments i característiques estructurals que hauria de confirmar-se directament amb l'arrendador.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal de 320m² en planta baixa al Carrer de Bernat Metge amb accés directe a carrer, ideal per a una empresa d'electrònica de 2 persones que necessita espai versàtil i visibilitat al públic. Malgrat que falten detalls sobre instal·lacions elèctriques (trifàsica) i connectivitat (fibra), les dimensions generades i la ubicació de peu de carrer el fan adequat per a aquesta activitat. El preu de 14.000€/mes és elevat però justificat per la superfície i la localització comercial.\n\n⚠️ **Recomanació:** Sol·licitar confirmació sobre disponibilitat de trifàsica i fibra òptica, essencials per a un negoci d'electrònica.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "772004396037",
@@ -2912,7 +2915,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:49.532Z"
+    "dataCaptura": "2026-06-02T21:10:38.092Z"
   },
   {
     "id": 56,
@@ -2938,7 +2941,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local - Carrer de Moratín 63\n\n**Punts forts:** Local spaciós de 460m² en planta baixa al carrer de Moratín 63, ideal per a empresa d'electrònica amb accés directe a peu de carrer. Malgrat que les utilitats (trifàsica i fibra) apareixen sense definir, l'espai versàtil permet organitzar tant magatzem com zona de venda/atenció al públic per a l'equip de 2 persones.\n\n**Punt feble:** La renda de 4.500€/mes és elevada per a una petita empresa i caldria confirmar la disponibilitat de connexions elèctriques trifàsiques (essencial per a electrònica) i fibra òptica.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 460m² al Carrer de Moratín 63 ofereix un espai versàtil i amplíssim ideal per a una empresa d'electrònica amb potencial de creixement, però presenta limitacions importants: la ubicació sembla més adequada per a magatzem que no pas per a botiga de peu de carrer, i les característiques tècniques crítiques (trifàsica, fibra i alçada) no estan definides, informació essencial per avaluar si cobreix les necessitats operatives. El preu de 4.500€/mes és elevat tenint en compte les incerteses tècniques i la manca de visibilitat comercial.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "772004396027",
@@ -2947,7 +2950,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:56:55.381Z"
+    "dataCaptura": "2026-06-02T21:10:45.401Z"
   },
   {
     "id": 58,
@@ -2973,7 +2976,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts destacats:**\n\nAquest local de 470m² al Carrer del Mas Baiona ofereix excel·lent potencial per a una empresa d'electrònica gràcies a la seva ubicació en peu de carrer, instal·lacions modernes amb cobertura renovada i espai versàtil ideal per adaptar-se a diferents necessitats operatives. Però és **crític verificar** la disponibilitat de trifàsica i fibra óptica abans de formalitzar, ja que són essencials per a aquest sector; l'alçada interior no especificada és un altre factor a confirmar urgentment.\n\n⚠️ **Limitacions importants:** Les dades tècniques incompletes (trifàsica, fibra i alçada) són deficiències serioses que necessiten aclariment immediat.",
+    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nAquest local de 470m² al Carrer del Mas Baiona ofereix excel·lent ubicació a peu de carrer, ideal per a una empresa d'electrònica amb presència visible. Destaca per les instal·lacions completes i la recent reforma de coberta, garantint bon estat de conservació. L'espai versàtil permet adaptar-se a les necessitats operatives, tot i que caldria confirmar disponibilitat de trifàsica i fibra òptica per a la correcta funcionalitat.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4264004535245",
@@ -2982,7 +2985,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:06.441Z"
+    "dataCaptura": "2026-06-02T21:10:57.554Z"
   },
   {
     "id": 60,
@@ -3008,7 +3011,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts destacats:**\n\nAquest local de 535m² al Carrer de Bernat Metge ofereix una excel·lent ubicació a peu de carrer amb zona de venda diferenciada i magatzem amb muelle de càrrega, ideal per a una empresa d'electrònica amb 2 persones. L'espai versàtil permet tant la venda al públic com l'emmagatzematge de productes, optimitzant la gestió operativa del negoci.\n\n⚠️ **Punts a verificar:** Falta informació crítica sobre subministrament trifàsic, connexió a fibra òptica i alçada útil disponible, que són essencials per a aquest tipus d'activitat.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nAquest local de 535m² al Carrer de Bernat Metge 140 ofereix una ubicació excel·lent a peu de carrer amb zona de venta i magatzem amb moll de càrrega, ideal per a una empresa d'electrònica amb capacitat logística. Però presenta **limitacions crítiques**: la falta de confirmació de subministrament trifàsic i fibra òptica és problemàtica per a una electrònica, així com l'alçada de 0m suggereix dades incompletes que requereixen verificació urgent.\n\n**Recomanació:** Aclarir les especificacions tècniques (potència elèctrica, connectivitat, altura útil) abans de plantejar-se els 20.000€/mes.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "772004396099",
@@ -3017,7 +3020,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:18.738Z"
+    "dataCaptura": "2026-06-02T21:11:11.162Z"
   },
   {
     "id": 62,
@@ -3043,7 +3046,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'Anunci\n\n**Punts forts:**\nAquest local de 764m² a Gràcia, Sabadell, ofereix una **excel·lent ubicació de peu de carrer amb gran visibilitat comercial**, ideal per atraure clientela de la zona. Tot i que el preu mensual de 14.900€ és significatiu, l'amplada de l'espai permet una **distribució versàtil perfecta per a mostrador, magatzem i espai de treball** per als dos empleats. \n\n**Observació:** Caldria aclarir la disponibilitat de **subministraments trifàsic i fibra òptica**, essencials per a una empresa d'electrònica moderna.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:** Local ampli de 764m² a Gràcia, Sabadell, amb excel·lent ubicació de peu de carrer ideal per a una empresa d'electrònica amb visibilitat comercial. Espai versàtil que permet distribució flexible per a magatzem, vendes i oficina per a dues persones.\n\n**Punts febles:** El preu mensual de 14.900€ és elevat per al tamany de l'equip; falta informació crítica sobre subministraments (trifàsica i fibra no especificats) essencial per a aquesta activitat.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "9590004388269",
@@ -3052,7 +3055,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:29.752Z"
+    "dataCaptura": "2026-06-02T21:11:24.904Z"
   },
   {
     "id": 64,
@@ -3078,7 +3081,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi del local\n\n**Punts forts:**\nLocal amb excel·lent ubicació en pau comercial (Passeig del comerç 18) i vado permanent, ideal per a activitat de peu de carrer amb 426m² molt versàtils per adaptar a una empresa d'electrònica. No obstant, cal verificar urgentment la disponibilitat de trifàsica i fibra òptica, ja que són serveis essencials per a aquest tipus de negoci, i aclarir l'altura útil que figura com \"0m\".",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\nLocal excel·lent per a empresa d'electrònica amb **426 m² d'espai versàtil** a primera línia de carrer (Passeig del comerç) i **vado permanent inclòs**, ideal per a descàrregues i accés de clients. Però presenta **mancances críticas**: no disposa de trifàsica confirmada ni fibra òptica, requisits bàsics per a negocis electrònics, i falta informació sobre l'alçada útil del local.\n\n⚠️ **Recomanació:** Contactar per verificar aquestes instal·lacions abans de descartar-lo, ja que el lloc és estratègic però incomplet documentalment.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "29308000000457",
@@ -3087,7 +3090,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:41.539Z"
+    "dataCaptura": "2026-06-02T21:11:38.538Z"
   },
   {
     "id": 65,
@@ -3113,7 +3116,7 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\n\nAquest local industrial de 796 m² al Passeig del Comerç de Sabadell és ideal per a empreses d'electrònica gràcies a la seva ubicació estratègica al peu de carrer en una zona comercial consolidada. Disposa d'espai versàtil suficient per a dues persones amb àrees diferenciades per a producció, magatzem i atenció al públic, perfecte per a operacions mixtes.\n\n⚠️ **Punts febles:** Falta informació crítica sobre alimentació trifàsica (essencial en electrònica), connexió de fibra òptica i alçada útil, aspectes determinants per valorar la viabilitat real del projecte.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\n\nAquest local industrial a Passeig del Comerç 88 (Sabadell) ofereix una **excel·lent ubicació en peu de carrer amb gran visibilitat comercial**, ideal per a una empresa d'electrònica que necessita captar clients. La **disposició versàtil dels 796 m² d'espai útil permet adaptar-se fàcilment a zona de venda, magatzem i oficines** per a les dues persones de l'equip.\n\n**Punts febles a clarificar:** Les característiques tècniques (trifàsica, fibra, alçada) apareixen sense definir, essencial per verificar si té les connexions elèctriques i d'internet necessàries per a una empresa d'electrònica.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "54588000000141",
@@ -3122,7 +3125,7 @@
     "score": 0,
     "coords": null,
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:57:46.565Z"
+    "dataCaptura": "2026-06-02T21:11:45.707Z"
   },
   {
     "id": 73,
@@ -3148,15 +3151,18 @@
       "cuina": false
     },
     "tags": [],
-    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\n\nLocal excepcionalment gran (346m² en 2 plantes) ubicat en una **ubicació de peu de carrer privilegiada al Passeig de la Plaça Major**, ideal per captar clientela de l'empresa d'electrònica. Malgrat l'espai abundant i la versatilitat per a diferents usos, **cal verificar les insuficiències crítiques**: no consta si té trifàsica (essencial per a electrònica) ni especificacions de fibra òptica, ni alçada disponible, dades que són imprescindibles abans de fer una oferta.",
+    "notesIA": "# Anàlisi de l'anunci\n\n**Punts forts:**\n\nAquest local de 346m² distribuïts en dues plantes al Passeig de la Plaça Major ofereix una **ubicació excel·lent a peu de carrer** amb gran visibilitat per a una empresa d'electrònica. L'espai versàtil permet adaptar la distribució entre zona de vendes, magatzem i oficina per a dues persones. El preu de 2.900€/mes és raonable considerant la metratura i la ubicació privilegiada, tot i que caldria verificar la disponibilitat de trifàsica i fibra òptica que apareixen sense definir.",
     "comentaris": "",
     "portal": "habitaclia",
     "ref": "4212004418400",
     "urlAnunci": "https://catala.habitaclia.com/lloguer-local_comercial-passeig_de_la_placa_major_57_centre-sabadell-i4212004418400.htm?f=&amp;geo=p&amp;from=list&amp;lo=55",
     "foto": "https://images.habimg.com/imgh/4212-4418400/local-passeig-placa-major-346m2-2-plantas-lloguer-sabadell_d817e4df-f78d-469b-adeb-059e3d24db0a.jpg",
     "score": 0,
-    "coords": null,
+    "coords": [
+      41.5475184,
+      2.1086476
+    ],
     "contacte": null,
-    "dataCaptura": "2026-06-02T20:58:31.744Z"
+    "dataCaptura": "2026-06-02T21:12:38.992Z"
   }
 ]
