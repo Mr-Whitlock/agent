@@ -585,24 +585,40 @@ var mapState = null;
 let selectedForCompare = new Set();
 let currentView = 'grid';
 
-// Puntuació cercador v32 — taula acordada iteració 31
+// Puntuació cercador v33 — sincronitzada amb LLM.gs
 // Nota: al HTML els camps tècnics estan dins r.requisits.X
 function calcularScore(r) {
   var s = 0;
-  if (r.m2 >= 120 && r.m2 <= 600) s += 15;
-  if (r.planta === 'peu_carrer') s += 15;
-  if (r.requisits && r.requisits.aire) s += 12;
-  if (r.requisits && r.requisits.bany) s += 12;
-  if (r.requisits && r.requisits.cuina) s += 10;
+  var m2 = r.m2 || 0;
+  var preu = r.preu || 0;
+  var modal = r.modalitat || '';
+
+  if (m2 >= 60 && m2 <= 150)       s += 15;
+  else if (m2 > 150 && m2 <= 250)  s += 6;
+
+  if (r.planta === 'peu_carrer')    s += 20;
+
+  if (modal === 'lloguer') {
+    if (preu > 0 && preu < 800)    s += 20;
+    else if (preu < 1000)          s += 12;
+    else if (preu < 1500)          s += 6;
+  } else if (modal === 'compra') {
+    if (preu > 0 && preu < 100000) s += 20;
+    else if (preu < 150000)        s += 12;
+    else if (preu < 200000)        s += 6;
+  }
+
+  if (r.requisits && r.requisits.bany)    s += 12;
+
   if (r.requisits && r.requisits.parking) s += 10;
-  if (r.preu < 1000) s += 15;
-  else if (r.preu < 1500) s += 10;
-  if (r.requisits && r.requisits.fibra) s += 8;
-  if (r.requisits && r.requisits.acces) s += 5;
-  if (r.requisits && r.requisits.carrega) s += 5;
-  if (r.requisits && r.requisits.trifasica) s += 3;
-  if (r.alcada >= 4) s += 5;
-  if (r.alcada >= 5) s += 3;
+  else if (r.parkingProper && r.parkingProper.distancia <= 200) s += 6;
+
+  if (r.requisits && r.requisits.aire)    s += 5;
+  if (r.requisits && r.requisits.cuina)   s += 3;
+  if (r.requisits && r.requisits.fibra)   s += 3;
+  if (r.requisits && r.requisits.acces)   s += 2;
+  if (r.requisits && r.requisits.carrega) s += 2;
+
   return Math.min(s, 100);
 }
 
