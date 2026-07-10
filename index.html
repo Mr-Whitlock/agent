@@ -114,7 +114,7 @@
       </div>
       <div id="m2Exact" style="display:none">
         <div class="import-wrap">
-          <input type="number" id="exactM2" value="200" min="50" max="1000" placeholder="Ex: 200">
+          <input type="number" id="exactM2" value="85" min="50" max="1000" placeholder="Ex: 85">
           <span class="unit">m²</span>
         </div>
         <div style="font-size:10px;color:var(--text3);margin-top:4px">± 20% de marge aplicat</div>
@@ -122,12 +122,12 @@
       <div id="m2Range">
         <div class="dual-range-wrap" id="m2DualWrap">
           <div class="dual-range-track"><div class="dual-range-fill" id="m2Fill"></div></div>
-          <input type="range" id="m2RangeMin" min="50" max="1000" value="120" step="10" oninput="updateDual('m2')">
-          <input type="range" id="m2RangeMax" min="50" max="1000" value="120" step="10" oninput="updateDual('m2')">
+          <input type="range" id="m2RangeMin" min="50" max="1000" value="70" step="10" oninput="updateDual('m2')">
+          <input type="range" id="m2RangeMax" min="50" max="1000" value="100" step="10" oninput="updateDual('m2')">
         </div>
         <div class="dual-range-vals">
-          <span id="m2ValMin">120 m²</span>
-          <span id="m2ValMax">600 m²</span>
+          <span id="m2ValMin">70 m²</span>
+          <span id="m2ValMax">100 m²</span>
         </div>
       </div>
     </div>
@@ -585,40 +585,26 @@ var mapState = null;
 let selectedForCompare = new Set();
 let currentView = 'grid';
 
-// Puntuació cercador v33 — sincronitzada amb LLM.gs
+// Puntuació cercador v33 — brief validat client (òptim 70–100m²)
 // Nota: al HTML els camps tècnics estan dins r.requisits.X
+// SINCRONITZAT amb calcularScore de LLM.gs.
 function calcularScore(r) {
   var s = 0;
-  var m2 = r.m2 || 0;
-  var preu = r.preu || 0;
-  var modal = r.modalitat || '';
-
-  if (m2 >= 60 && m2 <= 150)       s += 15;
-  else if (m2 > 150 && m2 <= 250)  s += 6;
-
-  if (r.planta === 'peu_carrer')    s += 20;
-
-  if (modal === 'lloguer') {
-    if (preu > 0 && preu < 800)    s += 20;
-    else if (preu < 1000)          s += 12;
-    else if (preu < 1500)          s += 6;
-  } else if (modal === 'compra') {
-    if (preu > 0 && preu < 100000) s += 20;
-    else if (preu < 150000)        s += 12;
-    else if (preu < 200000)        s += 6;
-  }
-
-  if (r.requisits && r.requisits.bany)    s += 12;
-
+  if (r.m2 >= 70 && r.m2 <= 100) s += 20;                                  // òptim
+  else if ((r.m2 >= 50 && r.m2 < 70) || (r.m2 > 100 && r.m2 <= 130)) s += 12; // acceptable
+  if (r.planta === 'peu_carrer') s += 15;
+  if (r.requisits && r.requisits.aire) s += 12;
+  if (r.requisits && r.requisits.bany) s += 12;
+  if (r.requisits && r.requisits.cuina) s += 10;
   if (r.requisits && r.requisits.parking) s += 10;
-  else if (r.parkingProper && r.parkingProper.distancia <= 200) s += 6;
-
-  if (r.requisits && r.requisits.aire)    s += 5;
-  if (r.requisits && r.requisits.cuina)   s += 3;
-  if (r.requisits && r.requisits.fibra)   s += 3;
-  if (r.requisits && r.requisits.acces)   s += 2;
-  if (r.requisits && r.requisits.carrega) s += 2;
-
+  if (r.preu < 1000) s += 15;
+  else if (r.preu < 1500) s += 10;
+  if (r.requisits && r.requisits.fibra) s += 5;    // desitjable, no requisit
+  if (r.requisits && r.requisits.acces) s += 5;
+  if (r.requisits && r.requisits.carrega) s += 5;
+  if (r.alcada >= 4) s += 5;
+  if (r.alcada >= 5) s += 3;
+  // trifàsica: NO puntua (el client no la necessita)
   return Math.min(s, 100);
 }
 
@@ -645,7 +631,7 @@ function generateMockResults(params) {
       ref: "ID-SAB-2847",
       urlAnunci: "https://www.idealista.com/inmueble/105478293/",
       foto: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&q=80",
-      score: 81,
+      score: 60,
       icon: "🏭",
       contacte: { nom: "Marc Puigdomènech", telefon: "937 264 810", whatsapp: "34937264810", email: "marc.p@finquesatzar.com", web: "https://finquesatzar.com", agencia: "Finques Atzar" },
       coords: [41.5565, 2.0982]
@@ -1770,13 +1756,13 @@ function finishSearch() {
 function resetForm() {
   setM2Mode('range');
   setPreuMode('range');
-  document.getElementById('m2RangeMin').value = 120;
-  document.getElementById('m2RangeMax').value = 120;
+  document.getElementById('m2RangeMin').value = 70;
+  document.getElementById('m2RangeMax').value = 100;
   updateDual('m2');
   document.getElementById('preuRangeMin').value = 600;
   document.getElementById('preuRangeMax').value = 800;
   updateDual('preu');
-  document.getElementById('exactM2').value = 200;
+  document.getElementById('exactM2').value = 85;
   document.getElementById('exactPreu').value = 1500;
   document.getElementById('chkLloguer').checked = true;
   document.getElementById('chkCompra').checked = true;
@@ -1835,7 +1821,15 @@ async function carregarResultats() {
     var dades = await resp.json();
     if (!dades || dades.length === 0) throw new Error('empty');
     window._dadesProduccio = dades;
-    runSearch();
+    currentResults = dades;
+    currentResults.sort(function(a,b){return b.score-a.score;});
+    document.getElementById('welcomeState').style.display = 'none';
+    var mw = document.querySelector('.mobile-welcome');
+    if (mw) mw.style.display = 'none';
+    document.getElementById('resultsState').style.display = 'flex';
+    var log = document.getElementById('aiLog');
+    if (log) log.innerHTML = '<div class="log-line"><span class="log-ok">✓</span><span style="color:var(--text2)">' + dades.length + ' locals carregats</span></div>';
+    renderResults(currentResults);
   } catch(e) {
     window._dadesProduccio = [];
   }
